@@ -160,10 +160,10 @@ body.theme-light {
 }
 
 /* ==========================================================
-   4. GRILLE 3x3 ET CARTES ÉPURÉES
+   4. GRILLE 3x3 ET CARTES ÉPURÉES (CORRECTION DÉFINITIVE)
    ========================================================== */
 
-/* Grille sur 3 colonnes */
+/* 1. Disposition en grille 3 colonnes */
 div[class*="cards"],
 div[class*="grid"],
 .bases-cards,
@@ -183,84 +183,80 @@ div[class*="grid"],
     }
 }
 
-/* Structure de chaque carte */
-div[class*="base-card"],
-div[class*="cards-item"],
-.bases-cards-item,
-.base-cards-item {
-    background-color: var(--card-brown-bg) !important;
-    border: 1px solid var(--card-brown-border) !important;
+/* 2. La carte unique (uniquement le premier niveau, pour tuer la double bordure) */
+div[class*="cards"] > div,
+.bases-cards > div,
+.base-cards > div {
+    background-color: var(--card-brown-bg, #f4ece4) !important;
+    border: 1px solid var(--card-brown-border, #d6c5b5) !important;
     border-radius: 10px !important;
     overflow: hidden !important;
-    box-shadow: none !important;
-    transform: none !important;
-    outline: none !important;
     display: flex !important;
     flex-direction: column !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
-/* Recadrage des peintures en format paysage homogène */
-div[class*="base-card"] img,
-div[class*="cards-item"] img,
-.bases-cards-item img,
-.base-cards-item img {
+/* Neutralise les bordures parasites sur tous les conteneurs internes */
+div[class*="cards"] > div div {
+    border: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+}
+
+/* 3. Image : pleine largeur en haut, cadrage paysage 180px */
+div[class*="cards"] > div img {
     width: 100% !important;
     height: 180px !important;
+    min-height: 180px !important;
+    max-height: 180px !important;
     object-fit: cover !important;
-    border-radius: 9px 9px 0 0 !important;
     display: block !important;
+    border-radius: 9px 9px 0 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-/* Cartel sous la photo */
-div[class*="base-card"] > div,
-div[class*="cards-item"] > div,
-.bases-cards-item > div {
-    background-color: var(--card-brown-bg) !important;
+/* 4. Cartel beige sous la photo */
+div[class*="cards"] > div > div:last-child {
+    background-color: var(--card-brown-bg, #f4ece4) !important;
     padding: 12px 14px !important;
     display: flex !important;
     flex-direction: column !important;
     align-items: center !important;
     justify-content: center !important;
     text-align: center !important;
+    width: 100% !important;
+    min-height: auto !important;
+    gap: 0 !important;
 }
 
-/* Titre de la carte : sans-serif, sans soulignement, sans cadre ovale */
-div[class*="base-card"] a,
-div[class*="cards-item"] a,
-div[class*="base-card"] [class*="title"],
-div[class*="cards-item"] [class*="title"] {
+/* 5. TITRE (1er élément de texte) : affiché, sans-serif, sans bordure ovale */
+div[class*="cards"] > div > div:last-child > *:first-child,
+div[class*="cards"] > div > div:last-child > *:first-child a,
+div[class*="cards"] > div [class*="title"] {
+    display: block !important;
     font-family: var(--font-interface), system-ui, -apple-system, sans-serif !important;
     font-size: 0.95rem !important;
     font-weight: 600 !important;
     text-transform: uppercase !important;
     letter-spacing: 0.08em !important;
-    color: var(--card-brown-title) !important;
+    color: var(--card-brown-title, #3d2b1f) !important;
     text-decoration: none !important;
-    background: transparent !important;
     border: none !important;
+    background: transparent !important;
     box-shadow: none !important;
     outline: none !important;
     padding: 0 !important;
     margin: 0 !important;
 }
 
-/* Masquage de TOUTES les métadonnées (dates, Eleventy, drag handles, etc.) */
-div[class*="base-card"] div[class*="property"],
-div[class*="cards-item"] div[class*="property"],
-div[class*="base-card"] [class*="badge"],
-div[class*="cards-item"] [class*="badge"],
-div[class*="base-card"] [class*="pill"],
-div[class*="cards-item"] [class*="pill"],
-div[class*="base-card"] [class*="row"],
-div[class*="cards-item"] [class*="row"],
-div[class*="base-card"] [class*="drag"],
-div[class*="cards-item"] [class*="drag"],
-div[class*="base-card"] [class*="handle"],
-div[class*="cards-item"] [class*="handle"],
-div[class*="base-card"] svg,
-div[class*="cards-item"] svg,
-div[class*="base-card"] > div > *:not(:first-child),
-div[class*="cards-item"] > div > *:not(:first-child) {
+/* 6. METADONNÉES : masque uniquement les éléments suivants (dates, drag handles, svg...) */
+div[class*="cards"] > div > div:last-child > *:not(:first-child),
+div[class*="cards"] [class*="drag"],
+div[class*="cards"] [class*="handle"],
+div[class*="cards"] svg {
     display: none !important;
 }
 
