@@ -171,37 +171,30 @@ div[class*="cards-item"] img {
     box-shadow: none !important;
 }
 
+/* 5. Titre : police moderne sans empattements (sans-serif comme Obsidian) */
 .bases-cards-item div[class*="title"],
 .base-cards-item div[class*="title"],
 div[class*="card-title"],
 div[class*="cards-item"] a,
 div[class*="cards-item"] .file-title {
-    font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif !important;
-    font-size: 1.05rem !important;
+    font-family: var(--font-interface), system-ui, -apple-system, sans-serif !important;
+    font-size: 0.95rem !important;
     font-weight: 600 !important;
     text-transform: uppercase !important;
-    letter-spacing: 0.12em !important;
+    letter-spacing: 0.08em !important;
     color: var(--card-brown-title) !important;
     text-decoration: none !important;
     margin: 0 !important;
 }
 
+/* 6. Masquer toutes les métadonnées parasites (dates, Eleventy, Cover, etc.) */
 div[class*="cards-item"] div[class*="property"],
 div[class*="cards-item"] div[class*="badge"],
 div[class*="cards-item"] div[class*="pill"],
-div[class*="cards-item"] span {
-    font-family: var(--font-interface) !important;
-    font-size: 0.7rem !important;
-    font-weight: 600 !important;
-    text-transform: uppercase !important;
-    letter-spacing: 0.08em !important;
-    background-color: var(--card-brown-badge) !important;
-    color: var(--card-brown-meta) !important;
-    border: 1px solid var(--card-brown-border) !important;
-    border-radius: 6px !important;
-    padding: 2px 8px !important;
-    box-shadow: none !important;
-    outline: none !important;
+div[class*="cards-item"] .property,
+div[class*="cards-item"] span,
+div[class*="cards-item"] > div > *:not(div[class*="title"]):not(a):not([class*="title"]) {
+    display: none !important;
 }
 
 /* ==========================================================
