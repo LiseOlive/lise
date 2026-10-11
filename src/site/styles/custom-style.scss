@@ -473,65 +473,112 @@ body .cm-formatting-list-ul::after {
 }
 
 /* ==========================================================
-   STYLE CARTES : GRILLE 3x3, TITRES PROPRES ET SANS PARASITES
+   4. GRILLE 3x3 ET CARTES (CLONE EXACT D'OBSIDIAN)
    ========================================================== */
 
-/* 1. Format uniforme des peintures (cadrage paysage comme dans Obsidian) */
-div[class*="cards-item"] img,
-.bases-cards-item img,
-.base-cards-item img {
+/* 1. Grille 3 colonnes */
+div[class*="cards"],
+div[class*="grid"],
+.bases-cards,
+.base-cards {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+    gap: 16px !important;
     width: 100% !important;
-    height: 180px !important;
+}
+
+@media (max-width: 768px) {
+    div[class*="cards"],
+    div[class*="grid"],
+    .bases-cards,
+    .base-cards {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+/* 2. Cadre extérieur de la carte */
+div[class*="cards"] > div,
+.bases-cards > div,
+.base-cards > div,
+div[class*="base-card"],
+div[class*="cards-item"] {
+    background-color: var(--card-brown-bg, #f4ece4) !important;
+    border: 1px solid var(--card-brown-border, #d6c5b5) !important;
+    border-radius: 10px !important;
+    overflow: hidden !important;
+    display: flex !important;
+    flex-direction: column !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* 3. Peinture : cadrage paysage homogène */
+div[class*="cards"] img,
+div[class*="base-card"] img,
+div[class*="cards-item"] img {
+    width: 100% !important;
+    height: 175px !important;
+    min-height: 175px !important;
+    max-height: 175px !important;
     object-fit: cover !important;
     border-radius: 9px 9px 0 0 !important;
     display: block !important;
-    transform: none !important;
-    box-shadow: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-/* 2. Cartel sous la photo (hauteur compacte) */
-.bases-cards-item > div,
+/* 4. Zone sous l'image */
+div[class*="cards"] > div > div:last-child,
+div[class*="base-card"] > div,
 div[class*="cards-item"] > div {
-    background-color: var(--card-brown-bg) !important;
-    padding: 12px 14px !important;
+    background-color: var(--card-brown-bg, #f4ece4) !important;
+    padding: 10px 12px 12px 12px !important;
     display: flex !important;
-    flex-direction: column !important;
     align-items: center !important;
     justify-content: center !important;
     text-align: center !important;
-    min-height: auto !important;
-    gap: 0 !important;
+    width: 100% !important;
+    border: none !important;
 }
 
-/* 3. Titre : sans-serif, SANS bordure ovale, SANS fond pill */
-div[class*="cards-item"] > div > *:first-child,
-div[class*="cards-item"] [class*="title"],
-div[class*="cards-item"] a {
+/* 5. Pastille / Badge du titre (identique au rendu Obsidian) */
+div[class*="cards"] a,
+div[class*="base-card"] a,
+div[class*="cards-item"] a,
+div[class*="cards"] [class*="title"],
+div[class*="base-card"] [class*="title"] {
     font-family: var(--font-interface), system-ui, -apple-system, sans-serif !important;
-    font-size: 0.95rem !important;
+    font-size: 0.85rem !important;
     font-weight: 600 !important;
     text-transform: uppercase !important;
     letter-spacing: 0.08em !important;
-    color: var(--card-brown-title, #3d2b1f) !important;
-    text-decoration: none !important;
-    background: transparent !important;
-    border: none !important;
-    border-radius: 0 !important;
-    padding: 0 !important;
-    margin: 0 !important;
+    color: #3d2b1f !important;                     /* Marron bistre foncé */
+    background-color: #e8dccf !important;          /* Fond café au lait */
+    border: 1px solid #d6c5b5 !important;          /* Fine bordure noisette */
+    border-radius: 6px !important;                 /* Bords arrondis */
+    padding: 4px 14px !important;
+    margin: 0 auto !important;
+    display: inline-block !important;
+    text-decoration: none !important;              /* Supprime le soulignement */
     box-shadow: none !important;
     outline: none !important;
 }
 
-/* 4. Élimination totale des 8 pastilles / points résiduels */
-div[class*="cards-item"] > div > *:not(:first-child),
-div[class*="cards-item"] [class*="property"],
-div[class*="cards-item"] [class*="badge"],
-div[class*="cards-item"] [class*="pill"],
-div[class*="cards-item"] [class*="row"],
-div[class*="cards-item"] [class*="drag"],
-div[class*="cards-item"] [class*="handle"],
-div[class*="cards-item"] svg {
+div[class*="cards"] a:hover,
+div[class*="base-card"] a:hover,
+div[class*="cards-item"] a:hover {
+    color: #241810 !important;
+    text-decoration: none !important;
+    border-color: #c4b09e !important;
+}
+
+/* 6. Masquer toutes les métadonnées et poignées résiduelles */
+div[class*="cards"] [class*="property"]:not(:first-child),
+div[class*="cards"] [class*="row"]:not(:first-child),
+div[class*="cards"] [class*="drag"],
+div[class*="cards"] [class*="handle"],
+div[class*="cards"] svg {
     display: none !important;
 }
 
