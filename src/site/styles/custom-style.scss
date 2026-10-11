@@ -1,91 +1,82 @@
 /* ==========================================================
-   1. PALETTE ANUPPUCCIN : SANDY BEACHES & ACCENT ROUGE
+   1. TES STYLES PERSONNALISÉS (STRICTEMENT D'ORIGINE)
    ========================================================== */
 
-:root,
-body,
-body.theme-light {
-    /* Nuances Sandy Beaches */
-    --ctp-ext-base: 240, 234, 226;        /* #f0eae2 Fond principal sable */
-    --ctp-ext-mantle: 237, 231, 224;      /* #ede7e0 Fond secondaire / barre latérale */
-    --ctp-ext-crust: 230, 223, 216;       /* #e6dfd8 Fond bordures / cartes */
-    --ctp-ext-text: 104, 88, 80;          /* #685850 Texte principal chocolat doux */
-    --ctp-ext-subtext0: 111, 96, 88;      /* #6f6058 Texte secondaire */
-    --ctp-ext-subtext1: 108, 92, 84;
-
-    /* Application aux variables Digital Garden & Obsidian */
-    --background-primary: rgb(var(--ctp-ext-base)) !important;
-    --background-secondary: rgb(var(--ctp-ext-mantle)) !important;
-    --background-secondary-alt: rgb(var(--ctp-ext-crust)) !important;
-    --text-normal: rgb(var(--ctp-ext-text)) !important;
-    --text-muted: rgb(var(--ctp-ext-subtext0)) !important;
-
-    /* Ton rouge terracotta pour les accents et titres */
-    --ctp-accent: 178, 76, 62;            /* #b24c3e */
-    --interactive-accent: #b24c3e !important;
-    --text-accent: #b24c3e !important;
-    --link-color: #b24c3e !important;
-    --link-color-hover: #8f3a2e !important;
-}
-
-/* Agrandissement du logo */
-:root, body {
-  --dg-logo-height: 120px !important;
-  --header-height: auto !important;
-}
-
-.site-logo,
-.header-logo,
-header img,
-.filetree-sidebar img {
-  height: 120px !important;
-  max-height: 120px !important;
-  width: auto !important;
-}
-
-/* Rétablit la lisibilité sans modifier la palette du thème */
-.menu-item,
-.menu-item-title,
-.menu-item .menu-item-icon,
-.menu-item svg {
-    opacity: 1 !important;
-    color: var(--text-normal) !important;
-}
-
-/* ==========================================================
-   2. LIENS SEMI-BOLD (600) & TRAIT DISCRET
-   ========================================================== */
-
+/* --- LIENS SEMI-BOLD (600) --- */
 body .markdown-rendered a,
 body .markdown-rendered .internal-link,
 body .markdown-rendered .external-link {
     font-weight: 600 !important;
+}
+
+body .cm-s-obsidian .cm-line .cm-link,
+body .cm-s-obsidian .cm-line .cm-hmd-internal-link,
+body .cm-s-obsidian .cm-line .cm-underline,
+body .cm-s-obsidian .cm-line span[class*="link"] {
+    font-weight: 600 !important;
+}
+
+/* --- LIGNE SOUS LES LIENS --- */
+body .markdown-rendered a,
+body .markdown-rendered .internal-link,
+body .markdown-rendered .external-link,
+body .cm-s-obsidian .cm-line .cm-link,
+body .cm-s-obsidian .cm-line .cm-hmd-internal-link,
+body .cm-s-obsidian .cm-line .cm-underline {
+    border-bottom: none !important;
+    text-decoration: none !important;
+}
+
+body .markdown-rendered a,
+body .markdown-rendered .internal-link,
+body .markdown-rendered .external-link,
+body .cm-s-obsidian .cm-line .cm-link,
+body .cm-s-obsidian .cm-line .cm-hmd-internal-link,
+body .cm-s-obsidian .cm-line span[class*="link"] {
     opacity: 1 !important;
+    font-weight: 600 !important;
     text-decoration: underline !important;
     text-decoration-thickness: 1px !important;
-    text-underline-offset: 2px !important;
+    text-underline-offset: 1px !important;
     text-decoration-color: color-mix(in srgb, var(--link-color, currentColor) 60%, transparent) !important;
 }
 
-/* ==========================================================
-   3. PUCES CARRÉES (⁃) & NUMÉROTATION
-   ========================================================== */
-
-body .markdown-rendered ol > li::marker {
+/* --- LISTES NUMÉROTÉES (1., 2.) : GRAISSE 500 --- */
+body .markdown-rendered ol > li::marker,
+body .cm-formatting-list-ol {
     color: #9a7a6a !important;
     font-weight: 500 !important;
 }
 
+/* --- PUCE CARRÉE (⁃) AVEC ESPACEMENT PROPRE --- */
 body .markdown-rendered ul > li::marker {
-    color: #9a7a6a !important;
+    color: #9A7A6A !important;
     content: "⁃ " !important;
     font-size: 1em !important;
     font-weight: 600 !important;
 }
 
-/* ==========================================================
-   4. CARTES ÉPURÉES (STYLE MARRON CHAUD)
-   ========================================================== */
+body .cm-formatting-list-ul {
+    font-size: 0 !important;
+}
+
+body .cm-formatting-list-ul::after {
+    content: "⁃" !important;
+    color: #9A7A6A !important;
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    display: inline-block !important;
+    margin-right: 0.55em !important;
+}
+
+/* --- CARTES MARRON CHAUD ÉPURÉES --- */
+.theme-dark {
+    --card-brown-bg: #2b221c;
+    --card-brown-border: #42352b;
+    --card-brown-badge: #1f1813;
+    --card-brown-title: #f5ede6;
+    --card-brown-meta: #c4b5a5;
+}
 
 .theme-light {
     --card-brown-bg: #f4ece4;
@@ -110,13 +101,31 @@ div[class*="base-card"] {
 }
 
 .bases-cards-item:hover,
-div[class*="cards-item"]:hover {
+.base-cards-item:hover,
+div[class*="cards-item"]:hover,
+div[class*="base-card"]:hover,
+.bases-cards-item:focus,
+.base-cards-item:focus,
+div[class*="cards-item"]:focus,
+div[class*="base-card"]:focus,
+.bases-cards-item:focus-within,
+.base-cards-item:focus-within,
+div[class*="cards-item"]:focus-within,
+div[class*="base-card"]:focus-within {
     border-color: var(--card-brown-border) !important;
+    border: 1px solid var(--card-brown-border) !important;
+    outline: none !important;
     box-shadow: none !important;
+    transform: none !important;
+    background-color: var(--card-brown-bg) !important;
 }
 
 .bases-cards-item > div,
-div[class*="cards-item"] > div {
+.base-cards-item > div,
+div[class*="cards-item"] > div,
+div[class*="card-content"],
+div[class*="card-body"],
+div[class*="card-text"] {
     background-color: var(--card-brown-bg) !important;
     padding: 14px 16px !important;
     display: flex !important;
@@ -126,29 +135,77 @@ div[class*="cards-item"] > div {
     gap: 8px !important;
 }
 
+.bases-cards-item img,
+.base-cards-item img,
+div[class*="cards-item"] img {
+    border-radius: 9px 9px 0 0 !important;
+    transform: none !important;
+    box-shadow: none !important;
+}
+
+.bases-cards-item div[class*="title"],
+.base-cards-item div[class*="title"],
+div[class*="card-title"],
 div[class*="cards-item"] a,
 div[class*="cards-item"] .file-title {
-    font-family: "Cinzel", "Playfair Display", "Georgia", serif !important;
+    font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif !important;
     font-size: 1.05rem !important;
     font-weight: 600 !important;
     text-transform: uppercase !important;
     letter-spacing: 0.12em !important;
     color: var(--card-brown-title) !important;
     text-decoration: none !important;
+    margin: 0 !important;
 }
 
-/* ==========================================================
-   5. LISTES ET TABLEAUX DATAVIEW
-   ========================================================== */
+div[class*="cards-item"] div[class*="property"],
+div[class*="cards-item"] div[class*="badge"],
+div[class*="cards-item"] div[class*="pill"],
+div[class*="cards-item"] span {
+    font-family: var(--font-interface) !important;
+    font-size: 0.7rem !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.08em !important;
+    background-color: var(--card-brown-badge) !important;
+    color: var(--card-brown-meta) !important;
+    border: 1px solid var(--card-brown-border) !important;
+    border-radius: 6px !important;
+    padding: 2px 8px !important;
+    box-shadow: none !important;
+    outline: none !important;
+}
 
-.dataview.list-view-ul a.internal-link {
+/* --- SOMMAIRE DE COURS (DATAVIEW) --- */
+.dataview.list-view-ul a.internal-link,
+.dataview.list-view-ul .internal-link {
     color: #6d4b3a !important;
     font-weight: 600 !important;
     text-decoration: underline !important;
+    text-decoration-line: underline !important;
     text-decoration-color: rgba(109, 75, 58, 0.5) !important;
     text-underline-offset: 3px !important;
+    text-decoration-thickness: 1px !important;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease !important;
 }
 
+.dataview.list-view-ul a.internal-link:hover,
+.dataview.list-view-ul .internal-link:hover {
+    color: #4a3225 !important;
+    text-decoration-color: #4a3225 !important;
+}
+
+.dataview.list-view-ul li {
+    padding: 4px 0 !important;
+    color: #8c7365 !important;
+    font-size: 0.95rem !important;
+}
+
+.dataview.list-view-ul .list-bullet::after {
+    background-color: #8c7365 !important;
+}
+
+.block-language-dataview table.dataview,
 table.dataview {
     width: 100% !important;
     border-collapse: collapse !important;
@@ -156,34 +213,154 @@ table.dataview {
     font-size: 0.95rem !important;
 }
 
+.block-language-dataview table.dataview thead th,
 table.dataview thead th {
+    font-family: var(--font-interface) !important;
     font-size: 0.85rem !important;
     font-weight: 600 !important;
+    text-transform: none !important;
+    letter-spacing: normal !important;
     color: #6e5746 !important;
     border-bottom: 1px solid rgba(110, 87, 70, 0.25) !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
     padding: 6px 10px !important;
+    text-align: left !important;
     background: transparent !important;
 }
 
+.block-language-dataview table.dataview tbody td,
 table.dataview tbody td {
     padding: 8px 10px !important;
     border-bottom: 1px solid rgba(140, 115, 101, 0.12) !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
     background: transparent !important;
 }
 
-/* ==========================================================
-   6. ITALIQUE ET EXPLORATEUR
-   ========================================================== */
+.block-language-dataview table.dataview tbody td a.internal-link,
+table.dataview tbody td a.internal-link,
+table.dataview tbody td .internal-link {
+    color: #6d4b3a !important;
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+    text-decoration-line: underline !important;
+    text-decoration-color: rgba(109, 75, 58, 0.45) !important;
+    text-underline-offset: 3px !important;
+    text-decoration-thickness: 1px !important;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease !important;
+}
 
+.block-language-dataview table.dataview tbody td a.internal-link:hover,
+table.dataview tbody td a.internal-link:hover,
+table.dataview tbody td .internal-link:hover {
+    color: #4a3225 !important;
+    text-decoration-color: #4a3225 !important;
+}
+
+.block-language-dataview table.dataview tr:hover,
+table.dataview tr:hover {
+    background-color: rgba(146, 100, 77, 0.04) !important;
+}
+
+/* --- ITALIQUE DENSE --- */
 body .markdown-rendered em,
-body .markdown-rendered i {
+body .markdown-rendered i,
+body .cm-s-obsidian .cm-line .cm-em {
     font-weight: 450 !important;
     font-style: italic !important;
     -webkit-text-stroke: 0.2px currentColor !important;
 }
 
+/* --- EXPLORATEUR --- */
 .nav-file-title.is-active,
+.nav-folder-title.is-active,
 .tree-item-self.is-active {
-    background-color: rgba(178, 76, 62, 0.12) !important;
-    color: #b24c3e !important;
+    background-color: var(--nav-item-background-active, rgba(255, 255, 255, 0.08)) !important;
+    color: var(--nav-item-color-active, var(--text-normal)) !important;
+    border-radius: var(--radius-s, 4px);
+}
+
+.nav-file-title:focus-visible,
+.tree-item-self:focus-visible {
+    box-shadow: none !important;
+    outline: 1px solid var(--interactive-accent, #92644d) !important;
+}
+
+.nav-file-title.is-active .nav-file-title-content {
+    background: transparent !important;
+}
+
+
+/* ==========================================================
+   2. TA PALETTE SANDY BEACHES (VALEURS EXACTES DE TON CODE)
+   ========================================================== */
+
+:root,
+body,
+body.theme-light {
+    --ctp-ext-rosewater: 228, 212, 196;
+    --ctp-ext-flamingo: 214, 188, 174;
+    --ctp-ext-pink: 200, 164, 152;
+    --ctp-ext-mauve: 149, 136, 138;
+    --ctp-ext-red: 166, 137, 123;
+    --ctp-ext-maroon: 186, 144, 123;
+    --ctp-ext-peach: 199, 161, 135;
+    --ctp-ext-yellow: 212, 187, 160;
+    --ctp-ext-green: 152, 150, 134;
+    --ctp-ext-teal: 149, 156, 153;
+    --ctp-ext-sky: 138, 155, 163;
+    --ctp-ext-sapphire: 124, 133, 143;
+    --ctp-ext-blue: 109, 111, 123;
+    --ctp-ext-lavender: 135, 128, 142;
+    --ctp-ext-text: 104, 88, 80;
+    --ctp-ext-subtext1: 108, 92, 84;
+    --ctp-ext-subtext0: 111, 96, 88;
+    --ctp-ext-overlay2: 118, 103, 96;
+    --ctp-ext-overlay1: 124, 110, 103;
+    --ctp-ext-overlay0: 130, 117, 110;
+    --ctp-ext-surface2: 205, 197, 193;
+    --ctp-ext-surface1: 212, 205, 200;
+    --ctp-ext-surface0: 222, 216, 209;
+    --ctp-ext-base: 240, 234, 226;
+    --ctp-ext-mantle: 237, 231, 224;
+    --ctp-ext-crust: 230, 223, 216;
+
+    /* Liaison directe avec le thème AnuPpuccin du site */
+    --background-primary: rgb(var(--ctp-ext-base)) !important;
+    --background-secondary: rgb(var(--ctp-ext-mantle)) !important;
+    --background-secondary-alt: rgb(var(--ctp-ext-crust)) !important;
+    --text-normal: rgb(var(--ctp-ext-text)) !important;
+    --text-muted: rgb(var(--ctp-ext-subtext0)) !important;
+}
+
+
+/* ==========================================================
+   3. TAILLE DU LOGO (120px)
+   ========================================================== */
+
+:root, body {
+    --dg-logo-height: 120px !important;
+    --header-height: auto !important;
+}
+
+.site-logo,
+.header-logo,
+header img,
+.filetree-sidebar img {
+    height: 120px !important;
+    max-height: 120px !important;
+    width: auto !important;
+    object-fit: contain !important;
+}
+
+/* Rétablit la lisibilité sans modifier la palette du thème */
+.menu-item,
+.menu-item-title,
+.menu-item .menu-item-icon,
+.menu-item svg {
+    opacity: 1 !important;
+    color: var(--text-normal) !important;
 }
