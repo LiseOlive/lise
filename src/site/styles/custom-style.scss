@@ -384,3 +384,61 @@ body.theme-light {
 .nav-file-title:hover {
     color: #9a7a6a !important;
 }
+
+/* ==========================================================
+   GRILLE 3x3 ET CARTES ÉPURÉES
+   ========================================================== */
+
+/* 1. Forcer la grille sur 3 colonnes (sur grand écran / PC) */
+div[class*="cards"],
+.bases-cards,
+.base-cards {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+    gap: 16px !important;
+    width: 100% !important;
+}
+
+/* Sur mobile / petit écran : repli propre en 1 colonne */
+@media (max-width: 768px) {
+    div[class*="cards"],
+    .bases-cards,
+    .base-cards {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+/* 2. Titre sans empattements (sans-serif) et sans cadre ovale */
+div[class*="cards-item"] > div > *:first-child,
+div[class*="cards-item"] [class*="title"],
+div[class*="cards-item"] a {
+    font-family: var(--font-interface), system-ui, -apple-system, sans-serif !important;
+    font-size: 0.95rem !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.08em !important;
+    color: #3d2b1f !important;
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    outline: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* 3. Suppression totale des points verticaux et métadonnées résiduelles */
+div[class*="cards-item"] > div > *:not(:first-child),
+div[class*="cards-item"] [class*="property"],
+div[class*="cards-item"] [class*="row"],
+div[class*="cards-item"] [class*="drag"],
+div[class*="cards-item"] [class*="handle"],
+div[class*="cards-item"] svg,
+div[class*="cards-item"] span {
+    display: none !important;
+}
+
+/* 4. Hauteur ajustée du bloc texte */
+div[class*="cards-item"] > div {
+    padding: 12px 14px !important;
+    min-height: auto !important;
+}
