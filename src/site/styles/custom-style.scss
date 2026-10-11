@@ -43,6 +43,15 @@ header img,
   width: auto !important;
 }
 
+/* Rétablit la lisibilité sans modifier la palette du thème */
+.menu-item,
+.menu-item-title,
+.menu-item .menu-item-icon,
+.menu-item svg {
+    opacity: 1 !important;
+    color: var(--text-normal) !important;
+}
+
 /* ==========================================================
    2. LIENS SEMI-BOLD (600) & TRAIT DISCRET
    ========================================================== */
