@@ -187,13 +187,19 @@ div[class*="cards-item"] .file-title {
     margin: 0 !important;
 }
 
-/* 6. Masquer toutes les métadonnées parasites (dates, Eleventy, Cover, etc.) */
+/* 6. Masquer absolument toutes les rangées de métadonnées sous le titre */
 div[class*="cards-item"] div[class*="property"],
 div[class*="cards-item"] div[class*="badge"],
 div[class*="cards-item"] div[class*="pill"],
+div[class*="cards-item"] div[class*="row"],
+div[class*="base-card"] div[class*="property"],
+div[class*="base-card"] div[class*="badge"],
+div[class*="base-card"] div[class*="pill"],
+div[class*="base-card"] div[class*="row"],
 div[class*="cards-item"] .property,
+div[class*="base-card"] .property,
 div[class*="cards-item"] span,
-div[class*="cards-item"] > div > *:not(div[class*="title"]):not(a):not([class*="title"]) {
+div[class*="base-card"] span {
     display: none !important;
 }
 
