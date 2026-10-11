@@ -95,111 +95,65 @@ body .cm-formatting-list-ul::after {
 }
 
 /* ==========================================================
-   3. CARTES
+   STYLE CARTES : GRILLE 3x3, TITRES PROPRES ET SANS PARASITES
    ========================================================== */
 
-.theme-dark {
-    --card-brown-bg: #2b221c;
-    --card-brown-border: #42352b;
-    --card-brown-badge: #1f1813;
-    --card-brown-title: #f5ede6;
-    --card-brown-meta: #c4b5a5;
-}
-
-.theme-light {
-    --card-brown-bg: #f4ece4;
-    --card-brown-border: #d6c5b5;
-    --card-brown-badge: #e8dccf;
-    --card-brown-title: #3d2b1f;
-    --card-brown-meta: #6e5746;
-}
-
-.bases-cards-item,
-.base-cards-item,
-div[class*="cards-item"],
-div[class*="base-card"] {
-    background-color: var(--card-brown-bg) !important;
-    border: 1px solid var(--card-brown-border) !important;
-    border-radius: 10px !important;
-    overflow: hidden !important;
-    box-shadow: none !important;
+/* 1. Format uniforme des peintures (cadrage paysage comme dans Obsidian) */
+div[class*="cards-item"] img,
+.bases-cards-item img,
+.base-cards-item img {
+    width: 100% !important;
+    height: 180px !important;
+    object-fit: cover !important;
+    border-radius: 9px 9px 0 0 !important;
+    display: block !important;
     transform: none !important;
-    outline: none !important;
-    transition: none !important;
-}
-
-.bases-cards-item:hover,
-.base-cards-item:hover,
-div[class*="cards-item"]:hover,
-div[class*="base-card"]:hover,
-.bases-cards-item:focus,
-.base-cards-item:focus,
-div[class*="cards-item"]:focus,
-div[class*="base-card"]:focus,
-.bases-cards-item:focus-within,
-.base-cards-item:focus-within,
-div[class*="cards-item"]:focus-within,
-div[class*="base-card"]:focus-within {
-    border-color: var(--card-brown-border) !important;
-    border: 1px solid var(--card-brown-border) !important;
-    outline: none !important;
     box-shadow: none !important;
-    transform: none !important;
-    background-color: var(--card-brown-bg) !important;
 }
 
+/* 2. Cartel sous la photo (hauteur compacte) */
 .bases-cards-item > div,
-.base-cards-item > div,
-div[class*="cards-item"] > div,
-div[class*="card-content"],
-div[class*="card-body"],
-div[class*="card-text"] {
+div[class*="cards-item"] > div {
     background-color: var(--card-brown-bg) !important;
-    padding: 14px 16px !important;
+    padding: 12px 14px !important;
     display: flex !important;
     flex-direction: column !important;
     align-items: center !important;
+    justify-content: center !important;
     text-align: center !important;
-    gap: 8px !important;
+    min-height: auto !important;
+    gap: 0 !important;
 }
 
-.bases-cards-item img,
-.base-cards-item img,
-div[class*="cards-item"] img {
-    border-radius: 9px 9px 0 0 !important;
-    transform: none !important;
-    box-shadow: none !important;
-}
-
-/* 5. Titre : police moderne sans empattements (sans-serif comme Obsidian) */
-.bases-cards-item div[class*="title"],
-.base-cards-item div[class*="title"],
-div[class*="card-title"],
-div[class*="cards-item"] a,
-div[class*="cards-item"] .file-title {
+/* 3. Titre : sans-serif, SANS bordure ovale, SANS fond pill */
+div[class*="cards-item"] > div > *:first-child,
+div[class*="cards-item"] [class*="title"],
+div[class*="cards-item"] a {
     font-family: var(--font-interface), system-ui, -apple-system, sans-serif !important;
     font-size: 0.95rem !important;
     font-weight: 600 !important;
     text-transform: uppercase !important;
     letter-spacing: 0.08em !important;
-    color: var(--card-brown-title) !important;
+    color: var(--card-brown-title, #3d2b1f) !important;
     text-decoration: none !important;
+    background: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
     margin: 0 !important;
+    box-shadow: none !important;
+    outline: none !important;
 }
 
-/* 6. Masquer absolument toutes les rangées de métadonnées sous le titre */
-div[class*="cards-item"] div[class*="property"],
-div[class*="cards-item"] div[class*="badge"],
-div[class*="cards-item"] div[class*="pill"],
-div[class*="cards-item"] div[class*="row"],
-div[class*="base-card"] div[class*="property"],
-div[class*="base-card"] div[class*="badge"],
-div[class*="base-card"] div[class*="pill"],
-div[class*="base-card"] div[class*="row"],
-div[class*="cards-item"] .property,
-div[class*="base-card"] .property,
-div[class*="cards-item"] span,
-div[class*="base-card"] span {
+/* 4. Élimination totale des 8 pastilles / points résiduels */
+div[class*="cards-item"] > div > *:not(:first-child),
+div[class*="cards-item"] [class*="property"],
+div[class*="cards-item"] [class*="badge"],
+div[class*="cards-item"] [class*="pill"],
+div[class*="cards-item"] [class*="row"],
+div[class*="cards-item"] [class*="drag"],
+div[class*="cards-item"] [class*="handle"],
+div[class*="cards-item"] svg {
     display: none !important;
 }
 
