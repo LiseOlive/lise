@@ -30,7 +30,7 @@ body.theme-light {
 
 /* Agrandissement du logo */
 :root, body {
-  --dg-logo-height: 65px !important;
+  --dg-logo-height: 120px !important;
   --header-height: auto !important;
 }
 
@@ -38,8 +38,8 @@ body.theme-light {
 .header-logo,
 header img,
 .filetree-sidebar img {
-  height: 65px !important;
-  max-height: 65px !important;
+  height: 120px !important;
+  max-height: 120px !important;
   width: auto !important;
 }
 
