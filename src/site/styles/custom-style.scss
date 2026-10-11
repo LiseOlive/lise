@@ -837,3 +837,33 @@ div[class*="cards-item"] > div {
     padding: 12px 14px !important;
     min-height: auto !important;
 }
+
+/* --- 1. SUPPRIMER LE TITRE RESTANT ET LA BARRE "VIEW 9 RESULTS" --- */
+.content h1:first-of-type,
+.markdown-rendered > h1:first-child,
+.cm-s-obsidian > h1:first-child,
+h1.note-title,
+header h1,
+.bases-view-header,
+.base-view-header,
+div[class*="view-header"],
+div[class*="bases-header"],
+.bases-toolbar {
+    display: none !important;
+}
+
+/* --- 2. RECRÉER LA PASTILLE BEIGE D'OBSIDIAN SOUS CHAQUE PHOTO --- */
+div[class*="cards"] > div > div:last-child a,
+div[class*="cards"] > div > div:last-child [class*="title"],
+div[class*="base-card"] a {
+    background-color: #e8dccf !important;          /* Fond café au lait doux */
+    border: 1px solid #d6c5b5 !important;          /* Fine bordure noisette */
+    border-radius: 6px !important;                 /* Coins arrondis */
+    padding: 3px 14px !important;                  /* Format badge */
+    color: #3d2b1f !important;                     /* Marron bistre foncé */
+    text-decoration: none !important;
+    display: inline-block !important;
+    font-size: 0.85rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.08em !important;
+}
