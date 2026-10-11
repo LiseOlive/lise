@@ -28,6 +28,21 @@ body.theme-light {
     --link-color-hover: #8f3a2e !important;
 }
 
+/* Agrandissement du logo */
+:root, body {
+  --dg-logo-height: 65px !important;
+  --header-height: auto !important;
+}
+
+.site-logo,
+.header-logo,
+header img,
+.filetree-sidebar img {
+  height: 65px !important;
+  max-height: 65px !important;
+  width: auto !important;
+}
+
 /* ==========================================================
    2. LIENS SEMI-BOLD (600) & TRAIT DISCRET
    ========================================================== */
