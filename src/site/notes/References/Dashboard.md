@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/dashboard/","tags":["gardenEntry"],"dg-note-properties":{"date created":"2026-10-05, 11 20","date modified":"2026-10-09, 14 11","sector":"[[References]]","semester":null,"class":null,"form":null,"part":null,"tags":["gardenEntry"]}}
+{"dg-publish":true,"permalink":"/references/dashboard/","tags":["gardenEntry"],"dg-note-properties":{"subject":null,"date created":"2026-10-05, 11 20","date modified":"2026-10-11, 23 56","sector":"[[References]]","semester":null,"class":null,"form":null,"part":null,"tags":["gardenEntry"]}}
 ---
 
 
