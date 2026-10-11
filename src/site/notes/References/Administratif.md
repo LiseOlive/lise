@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/administratif/","dg-note-properties":{"subject":null,"date created":"2026-09-21, 23 04","date modified":"2026-10-11, 12 28","sector":"[[References/Dashboard]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/projet-d-am-nagement-de-la-grande-galerie-du-louvre-1796.jpg]]"}}
+{"dg-publish":true,"permalink":"/references/administratif/","dg-note-properties":{"subject":null,"date created":"2026-09-21, 23 04","date modified":"2026-10-11, 12 28","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/projet-d-am-nagement-de-la-grande-galerie-du-louvre-1796.jpg]]"}}
 ---
 
 

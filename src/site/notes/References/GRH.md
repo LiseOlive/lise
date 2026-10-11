@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/grh/","dg-note-properties":{"date created":"2026-10-04, 2 12","date modified":"2026-10-05, 11 31","sector":"[[References/Dashboard]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/0000975029_OG.jpg]]"}}
+{"dg-publish":true,"permalink":"/references/grh/","dg-note-properties":{"subject":null,"date created":"2026-10-04, 2 12","date modified":"2026-10-12, 1 47","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/0000975029_OG.jpg]]"}}
 ---
 
 
