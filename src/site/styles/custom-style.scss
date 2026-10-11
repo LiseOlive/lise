@@ -2,6 +2,22 @@
    1. LOGO & INTERFACE
    ========================================================== */
 
+/* --- MASQUER LES TITRES DASHBOARD --- */
+.page-title,
+.content-header,
+.note-title,
+.content > h1:first-of-type,
+main > h1:first-of-type {
+    display: none !important;
+}
+
+/* Optionnel : masque aussi la barre technique « View 9 results » */
+.bases-view-header,
+.base-view-header,
+div[class*="view-header"] {
+    display: none !important;
+}
+
 :root, body {
   --dg-logo-height: 120px !important;
   --header-height: auto !important;
