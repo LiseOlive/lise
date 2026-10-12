@@ -159,4 +159,233 @@ body .cm-formatting-list-ol {
     font-weight: 500 !important;
 }
 
-body .markdown-rendered ul >
+body .markdown-rendered ul > li::marker {
+    color: #9A7A6A !important;
+    content: "⁃ " !important;
+    font-size: 1em !important;
+    font-weight: 600 !important;
+}
+
+body .cm-formatting-list-ul {
+    font-size: 0 !important;
+}
+
+body .cm-formatting-list-ul::after {
+    content: "⁃" !important;
+    color: #9A7A6A !important;
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    display: inline-block !important;
+    margin-right: 0.55em !important;
+}
+
+body .markdown-rendered em,
+body .markdown-rendered i,
+body .cm-s-obsidian .cm-line .cm-em {
+    font-weight: 450 !important;
+    font-style: italic !important;
+    -webkit-text-stroke: 0.2px currentColor !important;
+}
+
+/* ==========================================================
+   5. GRILLE 3x3 ET CARTES (CLONE D'OBSIDIAN)
+   ========================================================== */
+
+/* 1. Disposition grille 3 colonnes */
+div[class*="cards"],
+div[class*="grid"],
+.bases-cards,
+.base-cards {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+    gap: 16px !important;
+    width: 100% !important;
+}
+
+@media (max-width: 768px) {
+    div[class*="cards"],
+    div[class*="grid"],
+    .bases-cards,
+    .base-cards {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+/* 2. Cadre extérieur de chaque carte */
+div[class*="cards"] > div,
+.bases-cards > div,
+.base-cards > div,
+div[class*="base-card"],
+div[class*="cards-item"] {
+    background-color: var(--card-brown-bg, #f4ece4) !important;
+    border: 1px solid var(--card-brown-border, #d6c5b5) !important;
+    border-radius: 10px !important;
+    overflow: hidden !important;
+    display: flex !important;
+    flex-direction: column !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* 3. Peinture paysage plein bord */
+div[class*="cards"] img,
+div[class*="base-card"] img,
+div[class*="cards-item"] img {
+    width: 100% !important;
+    height: 180px !important;
+    min-height: 180px !important;
+    max-height: 180px !important;
+    object-fit: cover !important;
+    border-radius: 9px 9px 0 0 !important;
+    display: block !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* 4. Cartel sous l'image */
+div[class*="cards"] > div > div:last-child,
+div[class*="base-card"] > div,
+div[class*="cards-item"] > div {
+    background-color: var(--card-brown-bg, #f4ece4) !important;
+    padding: 10px 12px 12px 12px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    width: 100% !important;
+    border: none !important;
+}
+
+/* 5. Pastille beige d'Obsidian (nom de matière) */
+div[class*="cards"] a,
+div[class*="base-card"] a,
+div[class*="cards-item"] a,
+div[class*="cards"] [class*="title"],
+div[class*="base-card"] [class*="title"] {
+    font-family: var(--font-interface), system-ui, -apple-system, sans-serif !important;
+    font-size: 0.85rem !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.08em !important;
+    color: #3d2b1f !important;
+    background-color: #e8dccf !important;
+    border: 1px solid #d6c5b5 !important;
+    border-radius: 6px !important;
+    padding: 3px 14px !important;
+    margin: 0 auto !important;
+    display: inline-block !important;
+    text-decoration: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+div[class*="cards"] a:hover,
+div[class*="base-card"] a:hover,
+div[class*="cards-item"] a:hover {
+    color: #241810 !important;
+    text-decoration: none !important;
+    border-color: #c4b09e !important;
+}
+
+/* 6. Masquage des métadonnées, lignes résiduelles et poignées */
+div[class*="cards"] [class*="property"]:not(:first-child),
+div[class*="cards"] [class*="row"]:not(:first-child),
+div[class*="cards"] [class*="drag"],
+div[class*="cards"] [class*="handle"],
+div[class*="cards"] svg {
+    display: none !important;
+}
+
+/* ==========================================================
+   6. DATAVIEW
+   ========================================================== */
+
+.dataview.list-view-ul a.internal-link,
+.dataview.list-view-ul .internal-link {
+    color: #6d4b3a !important;
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+    text-decoration-line: underline !important;
+    text-decoration-color: rgba(109, 75, 58, 0.5) !important;
+    text-underline-offset: 3px !important;
+    text-decoration-thickness: 1px !important;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease !important;
+}
+
+.dataview.list-view-ul a.internal-link:hover,
+.dataview.list-view-ul .internal-link:hover {
+    color: #4a3225 !important;
+    text-decoration-color: #4a3225 !important;
+}
+
+.dataview.list-view-ul li {
+    padding: 4px 0 !important;
+    color: #8c7365 !important;
+    font-size: 0.95rem !important;
+}
+
+.dataview.list-view-ul .list-bullet::after {
+    background-color: #8c7365 !important;
+}
+
+.block-language-dataview table.dataview,
+table.dataview {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    margin: 8px 0 16px 0 !important;
+    font-size: 0.95rem !important;
+}
+
+.block-language-dataview table.dataview thead th,
+table.dataview thead th {
+    font-family: var(--font-interface) !important;
+    font-size: 0.85rem !important;
+    font-weight: 600 !important;
+    text-transform: none !important;
+    letter-spacing: normal !important;
+    color: #6e5746 !important;
+    border-bottom: 1px solid rgba(110, 87, 70, 0.25) !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    padding: 6px 10px !important;
+    text-align: left !important;
+    background: transparent !important;
+}
+
+.block-language-dataview table.dataview tbody td,
+table.dataview tbody td {
+    padding: 8px 10px !important;
+    border-bottom: 1px solid rgba(140, 115, 101, 0.12) !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    background: transparent !important;
+}
+
+.block-language-dataview table.dataview tbody td a.internal-link,
+table.dataview tbody td a.internal-link,
+table.dataview tbody td .internal-link {
+    color: #6d4b3a !important;
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+    text-decoration-line: underline !important;
+    text-decoration-color: rgba(109, 75, 58, 0.45) !important;
+    text-underline-offset: 3px !important;
+    text-decoration-thickness: 1px !important;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease !important;
+}
+
+.block-language-dataview table.dataview tbody td a.internal-link:hover,
+table.dataview tbody td a.internal-link:hover,
+table.dataview tbody td .internal-link:hover {
+    color: #4a3225 !important;
+    text-decoration-color: #4a3225 !important;
+}
+
+.block-language-dataview table.dataview tr:hover,
+table.dataview tr:hover {
+    background-color: rgba(146, 100, 77, 0.04) !important;
+}
