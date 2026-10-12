@@ -115,10 +115,10 @@ header img,
 }
 
 /* ==========================================================
-   3. MASQUAGE DES TITRES, EN-TÊTES & MÉTADONNÉES DE NOTE
+   3. SUPPRESSION DES TITRES ET DE LA BARRE TECHNIQUE
    ========================================================== */
 
-/* Titres de page redondants */
+/* Masque les titres de la note */
 .page-title,
 .content-header,
 .note-title,
@@ -130,22 +130,15 @@ h1 {
     display: none !important;
 }
 
-/* Barre technique "View 9 results" et outils de Base */
+/* Masque la barre "View 9 results" et les outils */
 .bases-view-header,
 .base-view-header,
 div[class*="view-header"],
 div[class*="bases-header"],
 div[class*="toolbar"],
 div[class*="view-controls"],
-.bases-toolbar {
-    display: none !important;
-}
-
-/* Propriétés de note / Frontmatter affichées en haut des pages */
-.frontmatter,
-.metadata-container,
-div[class*="frontmatter"],
-div[class*="metadata"] {
+.bases-toolbar,
+.view-header {
     display: none !important;
 }
 
@@ -207,7 +200,7 @@ body .cm-s-obsidian .cm-line .cm-em {
    5. GRILLE 3x3 ET CARTES ÉPURÉES (CLONE D'OBSIDIAN)
    ========================================================== */
 
-/* 1. Conteneur principal : Grille forcée 3 colonnes */
+/* 1. Conteneur : Grille stricte 3 colonnes */
 div[class*="cards"],
 div[class*="grid"],
 .bases-cards,
@@ -247,10 +240,11 @@ div[class*="base-card"],
     width: 100% !important;
 }
 
-/* 3. Image : format paysage 180px plein bord */
+/* 3. Image paysage 180px plein bord */
 div[class*="cards"] img,
 div[class*="cards-item"] img,
-div[class*="base-card"] img {
+div[class*="base-card"] img,
+.bases-cards-item img {
     width: 100% !important;
     height: 180px !important;
     min-height: 180px !important;
@@ -263,9 +257,9 @@ div[class*="base-card"] img {
     padding: 0 !important;
 }
 
-/* 4. Cartel sous la photo */
-div[class*="cards-item"] > div,
+/* 4. Cartel sous l'image */
 div[class*="cards"] > div > div:last-child,
+div[class*="cards-item"] > div,
 div[class*="base-card"] > div {
     background-color: var(--card-brown-bg, #f4ece4) !important;
     padding: 12px 14px !important;
@@ -277,14 +271,16 @@ div[class*="base-card"] > div {
     border: none !important;
 }
 
-/* 5. Pastille beige d'Obsidian (nom de la matière) */
+/* 5. Pastille beige d'Obsidian (nom de matière) */
+div[class*="cards"] > div > div:last-child > *:first-child,
+div[class*="cards-item"] > div > *:first-child,
 div[class*="cards-item"] a,
 div[class*="cards"] a,
 div[class*="base-card"] a,
 div[class*="cards"] [class*="title"],
 div[class*="cards-item"] [class*="title"],
 div[class*="base-card"] [class*="title"],
-div[class*="cards-item"] .file-title {
+.file-title {
     display: inline-block !important;
     background-color: #e8dccf !important;
     border: 1px solid #d6c5b5 !important;
@@ -302,33 +298,35 @@ div[class*="cards-item"] .file-title {
     margin: 0 auto !important;
 }
 
-div[class*="cards-item"] a:hover,
 div[class*="cards"] a:hover,
+div[class*="cards-item"] a:hover,
 div[class*="base-card"] a:hover {
     color: #241810 !important;
     text-decoration: none !important;
     border-color: #c4b09e !important;
 }
 
-/* 6. Éradication de TOUTES les métadonnées (dates, Eleventy, Sector, poignées...) */
+/* 6. Masquage de TOUTES les métadonnées (dates, Eleventy, Sector, poignées...) */
+div[class*="cards"] > div > div:last-child > *:not(:first-child),
 div[class*="cards-item"] > div > *:not(:first-child),
-div[class*="cards"] > div > div > *:not(:first-child),
 div[class*="base-card"] > div > *:not(:first-child),
-div[class*="cards-item"] [class*="property"],
 div[class*="cards"] [class*="property"],
+div[class*="cards-item"] [class*="property"],
 div[class*="base-card"] [class*="property"],
-div[class*="cards-item"] [class*="row"],
 div[class*="cards"] [class*="row"],
+div[class*="cards-item"] [class*="row"],
 div[class*="base-card"] [class*="row"],
-div[class*="cards-item"] [class*="meta"],
 div[class*="cards"] [class*="meta"],
+div[class*="cards-item"] [class*="meta"],
 div[class*="base-card"] [class*="meta"],
-div[class*="cards-item"] [class*="drag"],
-div[class*="cards-item"] [class*="handle"],
 div[class*="cards"] [class*="drag"],
+div[class*="cards-item"] [class*="drag"],
+div[class*="base-card"] [class*="drag"],
 div[class*="cards"] [class*="handle"],
-div[class*="cards-item"] svg,
+div[class*="cards-item"] [class*="handle"],
+div[class*="base-card"] [class*="handle"],
 div[class*="cards"] svg,
+div[class*="cards-item"] svg,
 div[class*="base-card"] svg,
 .base-card-properties,
 div[class*="card-properties"] {
@@ -336,7 +334,7 @@ div[class*="card-properties"] {
 }
 
 /* ==========================================================
-   6. TABLEAUX ET LISTES DATAVIEW
+   6. DATAVIEW
    ========================================================== */
 
 .dataview.list-view-ul a.internal-link,
