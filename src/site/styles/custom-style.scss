@@ -115,9 +115,10 @@ header img,
 }
 
 /* ==========================================================
-   3. TITRES DE PAGE & OUTILS À MASQUER
+   3. MASQUAGE DES TITRES, EN-TÊTES & MÉTADONNÉES DE NOTE
    ========================================================== */
 
+/* Titres de page redondants */
 .page-title,
 .content-header,
 .note-title,
@@ -125,11 +126,26 @@ header img,
 main > h1:first-of-type,
 h1.note-title,
 header h1,
+h1 {
+    display: none !important;
+}
+
+/* Barre technique "View 9 results" et outils de Base */
 .bases-view-header,
 .base-view-header,
 div[class*="view-header"],
 div[class*="bases-header"],
+div[class*="toolbar"],
+div[class*="view-controls"],
 .bases-toolbar {
+    display: none !important;
+}
+
+/* Propriétés de note / Frontmatter affichées en haut des pages */
+.frontmatter,
+.metadata-container,
+div[class*="frontmatter"],
+div[class*="metadata"] {
     display: none !important;
 }
 
@@ -188,52 +204,52 @@ body .cm-s-obsidian .cm-line .cm-em {
 }
 
 /* ==========================================================
-   5. GRILLE 3x3 ET CARTES PROPRES (OBSIDIAN BASES)
+   5. GRILLE 3x3 ET CARTES ÉPURÉES (CLONE D'OBSIDIAN)
    ========================================================== */
 
-/* 1. Conteneur principal : Grille stricte 3 colonnes */
-.base-cards,
+/* 1. Conteneur principal : Grille forcée 3 colonnes */
+div[class*="cards"],
+div[class*="grid"],
 .bases-cards,
-div[class*="base-cards"],
-div[class*="bases-cards"],
-div[class*="cards-view"] {
+.base-cards,
+.cards {
     display: grid !important;
     grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
     gap: 16px !important;
     width: 100% !important;
-    max-width: 100% !important;
 }
 
 @media (max-width: 768px) {
-    .base-cards,
+    div[class*="cards"],
+    div[class*="grid"],
     .bases-cards,
-    div[class*="base-cards"],
-    div[class*="bases-cards"],
-    div[class*="cards-view"] {
+    .base-cards,
+    .cards {
         grid-template-columns: 1fr !important;
     }
 }
 
-/* 2. La carte individuelle */
-.base-card,
-.bases-card,
-div[class*="base-card"] {
+/* 2. Cadre extérieur de chaque carte */
+div[class*="cards"] > div,
+div[class*="cards-item"],
+div[class*="base-card"],
+.bases-cards-item,
+.base-cards-item {
     background-color: var(--card-brown-bg, #f4ece4) !important;
     border: 1px solid var(--card-brown-border, #d6c5b5) !important;
     border-radius: 10px !important;
     overflow: hidden !important;
     display: flex !important;
     flex-direction: column !important;
+    box-shadow: none !important;
     padding: 0 !important;
     margin: 0 !important;
     width: 100% !important;
-    box-shadow: none !important;
 }
 
-/* 3. L'image en tête de carte (format paysage 180px) */
-.base-card-cover,
-div[class*="card-cover"],
-.base-card img,
+/* 3. Image : format paysage 180px plein bord */
+div[class*="cards"] img,
+div[class*="cards-item"] img,
 div[class*="base-card"] img {
     width: 100% !important;
     height: 180px !important;
@@ -241,16 +257,16 @@ div[class*="base-card"] img {
     max-height: 180px !important;
     object-fit: cover !important;
     border-radius: 9px 9px 0 0 !important;
+    display: block !important;
     border: none !important;
     margin: 0 !important;
     padding: 0 !important;
-    display: block !important;
 }
 
-/* 4. Zone du titre sous la photo */
-.base-card-content,
-div[class*="card-content"],
-div[class*="base-card"] > div:last-child {
+/* 4. Cartel sous la photo */
+div[class*="cards-item"] > div,
+div[class*="cards"] > div > div:last-child,
+div[class*="base-card"] > div {
     background-color: var(--card-brown-bg, #f4ece4) !important;
     padding: 12px 14px !important;
     display: flex !important;
@@ -261,18 +277,20 @@ div[class*="base-card"] > div:last-child {
     border: none !important;
 }
 
-/* 5. Pastille beige d'Obsidian (Titre de la matière) */
-.base-card-title,
-.base-card a,
+/* 5. Pastille beige d'Obsidian (nom de la matière) */
+div[class*="cards-item"] a,
+div[class*="cards"] a,
 div[class*="base-card"] a,
+div[class*="cards"] [class*="title"],
+div[class*="cards-item"] [class*="title"],
 div[class*="base-card"] [class*="title"],
-div[class*="base-card"] .file-title {
+div[class*="cards-item"] .file-title {
     display: inline-block !important;
-    background-color: #e8dccf !important;          /* Fond café au lait */
-    border: 1px solid #d6c5b5 !important;          /* Bordure fine noisette */
-    border-radius: 6px !important;                 /* Arrondi badge */
+    background-color: #e8dccf !important;
+    border: 1px solid #d6c5b5 !important;
+    border-radius: 6px !important;
     padding: 4px 14px !important;
-    color: #3d2b1f !important;                     /* Marron bistre */
+    color: #3d2b1f !important;
     font-family: var(--font-interface), system-ui, -apple-system, sans-serif !important;
     font-size: 0.85rem !important;
     font-weight: 600 !important;
@@ -281,25 +299,44 @@ div[class*="base-card"] .file-title {
     text-decoration: none !important;
     box-shadow: none !important;
     outline: none !important;
-    margin: 0 !important;
+    margin: 0 auto !important;
 }
 
-/* 6. ÉRADICATION TOTALE DES MÉTADONNÉES PARASITES (Sector, Semester, dates...) */
-.base-card-properties,
-div[class*="card-properties"],
+div[class*="cards-item"] a:hover,
+div[class*="cards"] a:hover,
+div[class*="base-card"] a:hover {
+    color: #241810 !important;
+    text-decoration: none !important;
+    border-color: #c4b09e !important;
+}
+
+/* 6. Éradication de TOUTES les métadonnées (dates, Eleventy, Sector, poignées...) */
+div[class*="cards-item"] > div > *:not(:first-child),
+div[class*="cards"] > div > div > *:not(:first-child),
+div[class*="base-card"] > div > *:not(:first-child),
+div[class*="cards-item"] [class*="property"],
+div[class*="cards"] [class*="property"],
 div[class*="base-card"] [class*="property"],
+div[class*="cards-item"] [class*="row"],
+div[class*="cards"] [class*="row"],
 div[class*="base-card"] [class*="row"],
+div[class*="cards-item"] [class*="meta"],
+div[class*="cards"] [class*="meta"],
 div[class*="base-card"] [class*="meta"],
-div[class*="base-card"] [class*="label"],
-div[class*="base-card"] [class*="drag"],
-div[class*="base-card"] [class*="handle"],
+div[class*="cards-item"] [class*="drag"],
+div[class*="cards-item"] [class*="handle"],
+div[class*="cards"] [class*="drag"],
+div[class*="cards"] [class*="handle"],
+div[class*="cards-item"] svg,
+div[class*="cards"] svg,
 div[class*="base-card"] svg,
-div[class*="base-card"] span:not(.file-title):not([class*="title"]) {
+.base-card-properties,
+div[class*="card-properties"] {
     display: none !important;
 }
 
 /* ==========================================================
-   6. DATAVIEW
+   6. TABLEAUX ET LISTES DATAVIEW
    ========================================================== */
 
 .dataview.list-view-ul a.internal-link,
