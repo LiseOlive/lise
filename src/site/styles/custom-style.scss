@@ -1,6 +1,6 @@
 /* ==========================================================================
-   THEME ANUPPUCCIN SANDY BEACHES - FICHIER COMPLET UNIFIÉ
-   Obsidian Digital Garden : custom-style.scss
+   THEME ANUPPUCCIN SANDY BEACHES - OBSIDIAN DIGITAL GARDEN
+   Configuration finale : Grille 3x3, cartel brun chaud & typographie sérif
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
@@ -11,7 +11,7 @@ html,
 body,
 .theme-light,
 .theme-dark {
-    /* Palette de base Sandy Beaches */
+    /* Palette générale Sandy Beaches */
     --background-primary: #f0eae2 !important;
     --background-primary-alt: #f4ece4 !important;
     --background-secondary: #ede7e0 !important;
@@ -19,7 +19,7 @@ body,
     --background-modifier-border: #d6c5b5 !important;
     --background-modifier-hover: #ded8d1 !important;
 
-    /* Typographie et contrastes bistre / noisette */
+    /* Textes et contrastes bistre / noisette */
     --text-normal: #685850 !important;
     --text-muted: #82756e !important;
     --text-faint: #a6988d !important;
@@ -28,17 +28,17 @@ body,
     /* Cartes de cours et cartels */
     --card-brown-bg: #f4ece4;
     --card-brown-border: #d6c5b5;
-    --card-cartel-bg: #dfcebf;         /* Chamois chaud / terre cuite plus foncé et rouge */
-    --card-cartel-border: #cca892;     /* Liseré noisette cuivré */
+    --card-cartel-bg: #ded2c4;         /* Brun café au lait / noisette chaud (sans rouge) */
+    --card-cartel-border: #c9b4a1;     /* Liseré noisette assorti */
     --card-brown-title: #3d2b1f;      /* Bistre profond */
 
-    /* Liens textuels */
+    /* Liens textuels du thème */
     --link-color: #6d4b3a !important;
     --link-color-hover: #4a3225 !important;
     --link-unresolved-color: #6d4b3a !important;
     --link-unresolved-opacity: 1 !important;
 
-    /* Largeur de lecture pour loger 3 colonnes de fiches */
+    /* Largeur de page calibrée pour accueillir 3 colonnes de cartes */
     --dg-content-max-width: 1250px !important;
 
     background-color: #f0eae2 !important;
@@ -59,7 +59,7 @@ article,
 /* --------------------------------------------------------------------------
    2. BARRES LATÉRALES (ARBORESCENCE & GRAPH VIEW)
    -------------------------------------------------------------------------- */
-/* Barre latérale gauche (arborescence des dossiers claire) */
+/* Barre latérale gauche claire */
 .filetree-sidebar,
 .sidebar,
 aside,
@@ -109,7 +109,7 @@ a.is-unresolved {
     }
 }
 
-/* Listes à puces avec tiret minéral */
+/* Puces tirets minéraux */
 ul > li::marker {
     color: #9a7a6a !important;
     content: "⁃ " !important;
@@ -125,7 +125,6 @@ ol > li::marker {
 /* --------------------------------------------------------------------------
    4. SUPPRESSION D'UN DES DEUX "IN OLIVUM"
    -------------------------------------------------------------------------- */
-/* Masque le titre automatique généré par le moteur Digital Garden */
 .page-title,
 .note-title,
 header.page-title,
@@ -137,7 +136,7 @@ h1 + h1 {
     display: none !important;
 }
 
-/* Style néoclassique du titre de page conservé */
+/* Style du titre de page restant */
 h1 {
     color: #3d2b1f !important;
     font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif !important;
@@ -145,7 +144,7 @@ h1 {
 }
 
 /* --------------------------------------------------------------------------
-   5. GRILLE 3x3 ET CARTES ÉPURÉES (LOGIQUE SÉCURISÉE)
+   5. GRILLE 3x3 ET CARTES ÉPURÉES
    -------------------------------------------------------------------------- */
 /* 1. Disposition en grille 3 colonnes stricte */
 div[class*="cards"],
@@ -170,7 +169,7 @@ div[class*="grid"],
     }
 }
 
-/* 2. La carte unique (uniquement le premier niveau, neutralise la double bordure) */
+/* 2. La carte unique (neutralise les doubles bordures) */
 div[class*="cards"] > div,
 .bases-cards > div,
 .base-cards > div {
@@ -186,7 +185,7 @@ div[class*="cards"] > div,
     box-sizing: border-box !important;
 }
 
-/* Neutralise les bordures parasites sur tous les conteneurs internes */
+/* Neutralise les bordures parasites des conteneurs internes */
 div[class*="cards"] > div div {
     border: none !important;
     box-shadow: none !important;
@@ -208,7 +207,7 @@ div[class*="cards"] > div img,
     padding: 0 !important;
 }
 
-/* 4. Cartel sous la photo : plus foncé et chaud/rougeâtre (chamois terracotta) */
+/* 4. Cartel sous la photo : plus foncé et brun noisette */
 div[class*="cards"] > div > div:last-child {
     background-color: var(--card-cartel-bg) !important;
     border-top: 1px solid var(--card-cartel-border) !important;
@@ -225,7 +224,7 @@ div[class*="cards"] > div > div:last-child {
     border-radius: 0 0 9px 9px !important;
 }
 
-/* 5. Titre : affiché, majuscules, sérif néoclassique, bistre profond */
+/* 5. Titre : Sérif néoclassique, majuscules, bistre profond */
 div[class*="cards"] > div > div:last-child > *:first-child,
 div[class*="cards"] > div > div:last-child > *:first-child a,
 div[class*="cards"] > div [class*="title"] {
@@ -246,7 +245,7 @@ div[class*="cards"] > div [class*="title"] {
     line-height: 1.3 !important;
 }
 
-/* 6. Métadonnées : masque tout ce qui suit le premier élément (dates, drag handles, svg, liens secondaires...) */
+/* 6. Métadonnées : masque tout ce qui suit le titre */
 div[class*="cards"] > div > div:last-child > *:not(:first-child),
 div[class*="cards"] > div > *:nth-child(n+3),
 div[class*="cards"] [class*="drag"],
