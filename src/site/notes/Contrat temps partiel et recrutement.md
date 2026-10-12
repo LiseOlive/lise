@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contrat-temps-partiel-et-recrutement/","dg-note-properties":{"date created":"2026-10-08, 23 31","date modified":"2026-10-09, 13 46","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]","tags":[],"Title":"Contrat temps partiel et recrutement","Recorded At":"2026-10-08T22:40:20"}}
+{"dg-publish":true,"permalink":"/contrat-temps-partiel-et-recrutement/","dg-note-properties":{"subject":null,"date created":"2026-10-08, 23 31","date modified":"2026-10-12, 10 05","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]","tags":[],"Title":"Contrat temps partiel et recrutement","Recorded At":"2026-10-08T22:40:20"}}
 ---
 
 

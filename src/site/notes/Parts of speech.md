@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parts-of-speech/","dg-note-properties":{"subject":null,"date created":"2026-10-06, 0 08","date modified":"2026-10-10, 17 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Anglais]]","form":"[[References/TD]]","part":"[[References/2]]","tags":[]}}
+{"dg-publish":true,"permalink":"/parts-of-speech/","dg-note-properties":{"subject":null,"date created":"2026-10-06, 0 08","date modified":"2026-10-12, 21 29","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Anglais]]","form":"[[References/TD]]","part":"[[References/2]]","tags":[]}}
 ---
 
 

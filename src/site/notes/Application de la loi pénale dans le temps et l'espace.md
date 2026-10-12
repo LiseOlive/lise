@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/application-de-la-loi-penale-dans-le-temps-et-l-espace/","dg-note-properties":{"date created":"2026-10-08, 23 29","date modified":"2026-10-08, 23 40","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]","tags":[],"Title":"Application de la loi pénale dans le temps et l'espace","Recorded At":"2026-10-08T22:40:19"}}
+{"dg-publish":true,"permalink":"/application-de-la-loi-penale-dans-le-temps-et-l-espace/","dg-note-properties":{"subject":null,"date created":"2026-10-08, 23 29","date modified":"2026-10-12, 10 05","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]","tags":[],"Title":"Application de la loi pénale dans le temps et l'espace","Recorded At":"2026-10-08T22:40:19"}}
 ---
 
 
