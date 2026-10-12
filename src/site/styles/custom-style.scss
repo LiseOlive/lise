@@ -1,139 +1,110 @@
 /* ==========================================================================
-   THEME ANUPPUCCIN SANDY BEACHES - OBSIDIAN DIGITAL GARDEN
-   Configuration d'intégration : custom-style.scss
+   THEME ANUPPUCCIN SANDY BEACHES - OBSIDIAN DIGITAL GARDEN (FIX BASES 3x3)
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
-   1. VARIABLES GLOBALES & PALETTE CHROMATIQUE SANDY BEACHES
+   1. PALETTE GLOBALE ET SURCHARGE DU FOND / BARRES LATÉRALES
    -------------------------------------------------------------------------- */
-:root {
-    /* Palette fondamentale AnuPpuccin Sandy Beaches Light */
+:root,
+html,
+body,
+.theme-light,
+.theme-dark {
+    /* Palette Sandy Beaches */
     --ctp-base: #f0eae2;
     --ctp-mantle: #ede7e0;
     --ctp-crust: #e6dfd8;
-    --ctp-surface0: #ded8d1;
-    --ctp-surface1: #d4cdc8;
-    --ctp-surface2: #cdc5c1;
     --ctp-text: #685850;
-    --ctp-subtext0: #6f6058;
-    --ctp-subtext1: #6c5c54;
-    --ctp-overlay0: #82756e;
-    --ctp-peach: #c7a187;
-    --ctp-accent-brown: #92644d;
+    --link-color: #6d4b3a;
+    --link-color-hover: #4a3225;
+    --text-accent: #92644d;
 
-    /* Constantes chromatiques des fiches de cours */
-    --card-brown-bg: #f4ece4;
-    --card-brown-border: #d6c5b5;
-    --card-brown-badge: #e8dccf;
-    --card-brown-title: #3d2b1f;
-    --card-brown-meta: #6e5746;
-    --card-brown-link: #6d4b3a;
-    --card-brown-link-hover: #4a3225;
+    /* Surcharges système Digital Garden */
+    --background-primary: #f0eae2 !important;
+    --background-primary-alt: #f4ece4 !important;
+    --background-secondary: #ede7e0 !important;
+    --background-secondary-alt: #e6dfd8 !important;
+    --background-modifier-border: #d6c5b5 !important;
+    --text-normal: #685850 !important;
+    --text-muted: #82756e !important;
+    --link-unresolved-color: #6d4b3a !important;
 
-    /* Surcharges des propriétés système Digital Garden / Obsidian */
-    --background-primary: var(--ctp-base);
-    --background-primary-alt: var(--card-brown-bg);
-    --background-secondary: var(--ctp-mantle);
-    --background-secondary-alt: var(--ctp-crust);
-    --background-modifier-border: var(--card-brown-border);
-    --background-modifier-hover: var(--ctp-surface0);
+    /* Largeur suffisante pour 3 colonnes de fiches */
+    --dg-content-max-width: 1200px !important;
 
-    --text-normal: var(--ctp-text);
-    --text-muted: var(--ctp-subtext0);
-    --text-faint: var(--ctp-overlay0);
-    --text-accent: var(--ctp-accent-brown);
-    --text-accent-hover: var(--card-brown-link-hover);
-
-    --interactive-accent: var(--ctp-accent-brown);
-    --interactive-accent-hover: var(--card-brown-link-hover);
-    --interactive-normal: var(--ctp-surface0);
-
-    --link-color: var(--card-brown-link);
-    --link-color-hover: var(--card-brown-link-hover);
-    --link-unresolved-color: var(--ctp-overlay0);
-
-    /* Dimensions du conteneur adaptées pour l'affichage 3 colonnes */
-    --dg-content-max-width: 1180px;
-    --dg-content-font-size: 16px;
-    --dg-sidebar-max-width: 320px;
-    --dg-filetree-width: 260px;
+    background-color: #f0eae2 !important;
+    color: #685850 !important;
 }
 
-/* --------------------------------------------------------------------------
-   2. TYPOGRAPHIE ET ELEMENTS DE CONTENU MARKDOWN
-   -------------------------------------------------------------------------- */
-body {
-    background-color: var(--background-primary) !important;
-    color: var(--text-normal) !important;
-    font-family: var(--font-interface, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif);
+/* Zone centrale et conteneur de note */
+.content,
+main,
+article,
+.markdown-rendered {
+    background-color: #f0eae2 !important;
+    max-width: 1200px !important;
 }
 
-/* Titres de sections */
-h1, h2, h3, h4, h5, h6 {
-    color: var(--card-brown-title) !important;
-    font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif;
-    letter-spacing: 0.05em;
+/* Barre latérale gauche (arborescence des dossiers et fichiers) */
+.filetree-sidebar,
+.sidebar,
+aside,
+.nav-files-container {
+    background-color: #e6dfd8 !important;
+    border-right: 1px solid #d6c5b5 !important;
+
+    a,
+    span,
+    .nav-file-title,
+    .nav-folder-title {
+        color: #685850 !important;
+    }
 }
 
-/* Liens textuels semi-gras (600) avec soulignement atténué */
+/* Neutralisation des liens rouges par défaut */
 a,
+a:visited,
 .internal-link,
-.external-link {
-    color: var(--link-color) !important;
+.external-link,
+.nav-file-title,
+.is-unresolved,
+a.is-unresolved {
+    color: #6d4b3a !important;
     font-weight: 600 !important;
     text-decoration: underline !important;
     text-decoration-thickness: 1px !important;
     text-underline-offset: 2px !important;
-    text-decoration-color: color-mix(in srgb, var(--link-color, currentColor) 60%, transparent) !important;
+    text-decoration-color: rgba(109, 75, 58, 0.45) !important;
     transition: color 0.15s ease, text-decoration-color 0.15s ease;
 
     &:hover {
-        color: var(--link-color-hover) !important;
-        text-decoration-color: var(--link-color-hover) !important;
+        color: #4a3225 !important;
+        text-decoration-color: #4a3225 !important;
     }
 }
 
-/* Italique calibré */
-em, i {
-    font-weight: 450 !important;
-    font-style: italic !important;
-    -webkit-text-stroke: 0.2px currentColor !important;
-}
-
-/* Listes non ordonnées avec tiret minéral */
-ul > li {
-    &::marker {
-        color: #9a7a6a !important;
-        content: "⁃ " !important;
-        font-size: 1em !important;
-        font-weight: 600 !important;
-    }
-}
-
-/* Listes ordonnées numérotées */
-ol > li {
-    &::marker {
-        color: #9a7a6a !important;
-        font-weight: 500 !important;
-    }
+/* En-têtes typographiques avec empattement */
+h1, h2, h3, h4, h5, h6 {
+    color: #3d2b1f !important;
+    font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif !important;
 }
 
 /* --------------------------------------------------------------------------
-   3. CONFIGURATION DE LA GRILLE MATRICIELLE 3x3
+   2. MISE EN FORME DE LA GRILLE OBSIDIAN BASES (3x3)
    -------------------------------------------------------------------------- */
-.grid-3x3,
-.cards > ul,
-.cards-container,
-.dataview.cards,
-.block-language-dataview.cards,
-div[class*="cards-container"],
-div[class*="base-cards-container"] {
+.bases-view,
+.bases-cards,
+.bases-cards-container,
+div[class*="bases-cards"] {
     display: grid !important;
     grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
     gap: 1.25rem !important;
-    padding: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    position: relative !important;
+    height: auto !important;
     margin: 1.5rem 0 !important;
-    list-style: none !important;
+    padding: 0 !important;
 
     /* Paliers responsifs */
     @media (max-width: 1023px) {
@@ -146,17 +117,22 @@ div[class*="base-cards-container"] {
 }
 
 /* --------------------------------------------------------------------------
-   4. STRUCTURE DES CARTES DE COURS ET EFFET CARTEL
+   3. STRUCTURE DES CARTES (FICHES DE MATIÈRES)
    -------------------------------------------------------------------------- */
-.bases-cards-item,
-.base-cards-item,
-div[class*="cards-item"],
-div[class*="base-card"],
-.cards > ul > li,
-.grid-3x3 > div,
-.grid-3x3 > li {
-    background-color: var(--card-brown-bg) !important;
-    border: 1px solid var(--card-brown-border) !important;
+.bases-cards-item {
+    /* Annulation des coordonnées absolues de Bases */
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    min-height: auto !important;
+
+    background-color: #f4ece4 !important;
+    border: 1px solid #d6c5b5 !important;
     border-radius: 10px !important;
     overflow: hidden !important;
     display: flex !important;
@@ -164,142 +140,61 @@ div[class*="base-card"],
     box-shadow: none !important;
     transform: none !important;
     outline: none !important;
-    transition: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
 
-    /* Suppression des altérations de focus et survol */
+    /* Aucun effet de saut ou de survol agressif */
     &:hover,
     &:focus,
     &:focus-within {
-        background-color: var(--card-brown-bg) !important;
-        border: 1px solid var(--card-brown-border) !important;
-        box-shadow: none !important;
-        transform: none !important;
-        outline: none !important;
-    }
-
-    /* Images de tête d'article */
-    img,
-    .image-embed {
-        width: 100% !important;
-        height: 180px !important;
-        object-fit: cover !important;
-        display: block !important;
-        border-radius: 9px 9px 0 0 !important;
-        border-bottom: 1px solid var(--card-brown-border) !important;
-        margin: 0 !important;
+        background-color: #f4ece4 !important;
+        border: 1px solid #d6c5b5 !important;
         box-shadow: none !important;
         transform: none !important;
     }
+}
 
-    /* Zone de cartel textuel sous l'image */
-    > div,
-    div[class*="card-content"],
-    div[class*="card-body"],
-    div[class*="card-text"] {
-        background-color: var(--card-brown-bg) !important;
-        padding: 12px 14px !important;
-        display: flex !important;
-        flex-direction: column !important;
-        align-items: center !important;
-        text-align: center !important;
-        gap: 6px !important;
-        flex-grow: 1 !important;
-        justify-content: center !important;
-    }
+/* Illustration en tête de carte */
+.bases-cards-cover,
+.bases-cards-cover img,
+.bases-cards-item img {
+    width: 100% !important;
+    height: 180px !important;
+    object-fit: cover !important;
+    border-radius: 9px 9px 0 0 !important;
+    border-bottom: 1px solid #d6c5b5 !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    background: transparent !important;
+}
 
-    /* Titres des fiches en capitales avec empattement */
-    div[class*="title"],
-    div[class*="card-title"],
-    a,
-    .file-title,
-    h3, h4 {
+/* Cartel du titre sous l'image */
+.bases-cards-property.mod-title,
+.bases-cards-item .mod-title,
+.bases-cards-item div[class*="title"] {
+    background-color: #f4ece4 !important;
+    padding: 12px 14px !important;
+    text-align: center !important;
+    margin: 0 !important;
+    border: none !important;
+    width: 100% !important;
+
+    * {
         font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif !important;
         font-size: 0.95rem !important;
         font-weight: 600 !important;
         text-transform: uppercase !important;
         letter-spacing: 0.12em !important;
-        color: var(--card-brown-title) !important;
+        color: #3d2b1f !important;
         text-decoration: none !important;
-        border-bottom: none !important;
-        margin: 0 !important;
         line-height: 1.3 !important;
     }
-
-    /* Pastilles de statut et métadonnées */
-    div[class*="property"],
-    div[class*="badge"],
-    div[class*="pill"],
-    span.tag {
-        font-family: var(--font-interface) !important;
-        font-size: 0.68rem !important;
-        font-weight: 600 !important;
-        text-transform: uppercase !important;
-        letter-spacing: 0.08em !important;
-        background-color: var(--card-brown-badge) !important;
-        color: var(--card-brown-meta) !important;
-        border: 1px solid var(--card-brown-border) !important;
-        border-radius: 6px !important;
-        padding: 2px 8px !important;
-        margin-top: 4px !important;
-        box-shadow: none !important;
-        display: inline-block !important;
-    }
 }
 
-/* --------------------------------------------------------------------------
-   5. ARBORESCENCE ET NAVIGATION LATERALE
-   -------------------------------------------------------------------------- */
-.filetree-sidebar,
-.nav-files-container {
-    background-color: var(--background-secondary-alt) !important;
-    border-right: 1px solid var(--card-brown-border) !important;
-
-    .nav-file-title,
-    .nav-folder-title {
-        color: var(--text-normal) !important;
-        border-radius: 4px !important;
-
-        &.is-active {
-            background-color: var(--ctp-surface1) !important;
-            color: var(--card-brown-title) !important;
-            font-weight: 600 !important;
-        }
-
-        &:focus-visible {
-            outline: 1px solid var(--ctp-accent-brown) !important;
-            box-shadow: none !important;
-        }
-    }
-}
-
-/* --------------------------------------------------------------------------
-   6. TABLEAUX DE SOMMAIRE DATAVIEW
-   -------------------------------------------------------------------------- */
-table.dataview {
-    width: 100% !important;
-    border-collapse: collapse !important;
-    margin: 12px 0 !important;
-
-    thead th {
-        font-family: var(--font-interface) !important;
-        font-size: 0.85rem !important;
-        font-weight: 600 !important;
-        color: var(--card-brown-meta) !important;
-        border-bottom: 1px solid var(--card-brown-border) !important;
-        border-top: none !important;
-        padding: 6px 10px !important;
-        text-align: left !important;
-        background: transparent !important;
-    }
-
-    tbody td {
-        padding: 8px 10px !important;
-        border-bottom: 1px solid rgba(140, 115, 101, 0.15) !important;
-        border-top: none !important;
-        background: transparent !important;
-    }
-
-    tr:hover {
-        background-color: rgba(146, 100, 77, 0.04) !important;
-    }
+/* Masquage de toutes les propriétés superflues (Dates, Sector, Semester, Cover) */
+.bases-cards-property:not(.mod-title),
+.bases-cards-label {
+    display: none !important;
 }
