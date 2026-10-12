@@ -1,0 +1,311 @@
+/* ==========================================================================
+   THEME ANUPPUCCIN SANDY BEACHES - OBSIDIAN DIGITAL GARDEN
+   Correctif 4 points : 3x3 stricte, cartel chaud/rouge, sans métadonnées, titre unique
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. COULEURS GLOBALES SANDY BEACHES (MODE CLAIR)
+   -------------------------------------------------------------------------- */
+:root,
+html,
+body,
+.theme-light,
+.theme-dark {
+    /* Palette Sandy Beaches */
+    --background-primary: #f0eae2 !important;
+    --background-primary-alt: #f4ece4 !important;
+    --background-secondary: #ede7e0 !important;
+    --background-secondary-alt: #e6dfd8 !important;
+    --background-modifier-border: #d6c5b5 !important;
+    --background-modifier-hover: #ded8d1 !important;
+
+    --text-normal: #685850 !important;
+    --text-muted: #82756e !important;
+    --text-faint: #a6988d !important;
+    --text-accent: #6d4b3a !important;
+    --text-accent-hover: #4a3225 !important;
+
+    /* Suppression des liens rouges par défaut */
+    --link-color: #6d4b3a !important;
+    --link-color-hover: #4a3225 !important;
+    --link-unresolved-color: #6d4b3a !important;
+    --link-unresolved-opacity: 1 !important;
+
+    /* Largeur étendue pour les 3 colonnes */
+    --dg-content-max-width: 1200px !important;
+
+    background-color: #f0eae2 !important;
+    color: #685850 !important;
+}
+
+/* Zone centrale */
+.site-body,
+.content,
+main,
+article,
+.markdown-rendered,
+.center {
+    background-color: #f0eae2 !important;
+    max-width: 1200px !important;
+    width: 100% !important;
+}
+
+/* Barre latérale gauche (arborescence des dossiers) */
+.filetree-sidebar,
+.sidebar,
+aside,
+.nav-files-container,
+.file-tree {
+    background-color: #e6dfd8 !important;
+    border-right: 1px solid #d6c5b5 !important;
+
+    *,
+    a,
+    span,
+    .nav-file-title,
+    .nav-folder-title {
+        color: #685850 !important;
+        text-decoration: none !important;
+    }
+
+    .is-active,
+    .active {
+        background-color: #ded8d1 !important;
+        color: #3d2b1f !important;
+        font-weight: 600 !important;
+    }
+}
+
+/* Barre latérale droite */
+.sidebar-right,
+.graph-view-container {
+    background-color: #f0eae2 !important;
+}
+
+/* Liens du texte */
+a,
+a:visited,
+.internal-link,
+.external-link {
+    color: #6d4b3a !important;
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+    text-decoration-thickness: 1px !important;
+    text-underline-offset: 2px !important;
+    text-decoration-color: rgba(109, 75, 58, 0.45) !important;
+
+    &:hover {
+        color: #4a3225 !important;
+        text-decoration-color: #4a3225 !important;
+    }
+}
+
+/* Puces tirets du coffre */
+ul > li::marker {
+    color: #9a7a6a !important;
+    content: "⁃ " !important;
+    font-size: 1em !important;
+    font-weight: 600 !important;
+}
+
+/* --------------------------------------------------------------------------
+   POINT 3 : SUPPRESSION D'UN DES DEUX "IN OLIVUM"
+   -------------------------------------------------------------------------- */
+/* Masque le titre en double généré par l'en-tête du template */
+.note-title,
+.page-title,
+header h1,
+.content > h1:first-of-type + h1,
+.markdown-rendered > h1:first-of-type + h1 {
+    display: none !important;
+}
+
+/* Style du titre restant */
+h1 {
+    color: #3d2b1f !important;
+    font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif !important;
+    letter-spacing: 0.05em !important;
+    margin-bottom: 1.5rem !important;
+}
+
+/* --------------------------------------------------------------------------
+   POINT 4 : GRILLE 3x3 STRICTE
+   -------------------------------------------------------------------------- */
+/* Conteneur parent de la vue */
+.bases-view,
+div.bases-view {
+    display: block !important;
+    width: 100% !important;
+    margin: 1.5rem 0 !important;
+}
+
+/* En-tête "View 9 results" */
+.bases-view-header,
+.bases-header {
+    display: flex !important;
+    align-items: center !important;
+    width: 100% !important;
+    margin-bottom: 1.25rem !important;
+    color: #82756e !important;
+}
+
+/* La grille contenant les fiches : verrouillée à 3 colonnes */
+.bases-view > div:last-child,
+.bases-view > div:nth-child(2),
+.bases-cards,
+.base-cards,
+[class*="bases-cards"],
+[class*="base-cards"],
+div[class*="cards"] {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+    gap: 1.25rem !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+
+    /* Paliers responsifs */
+    @media (max-width: 990px) {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    }
+
+    @media (max-width: 620px) {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+/* Structure de chaque carte individuelle */
+.bases-view > div:last-child > *,
+.bases-view > div:nth-child(2) > *,
+.bases-cards > *,
+.base-cards > *,
+[class*="bases-cards"] > div,
+[class*="bases-cards-item"],
+[class*="base-card"] {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important; /* Neutralise tout min-width hérité */
+    background-color: #f4ece4 !important;
+    border: 1px solid #d6c5b5 !important;
+    border-radius: 10px !important;
+    overflow: hidden !important;
+    display: flex !important;
+    flex-direction: column !important;
+    box-sizing: border-box !important;
+    box-shadow: none !important;
+    transform: none !important;
+
+    &:hover {
+        border-color: #d6c5b5 !important;
+        box-shadow: none !important;
+        transform: none !important;
+    }
+}
+
+/* Recadrage paysage uniforme des peintures */
+.bases-view img,
+[class*="cards"] img,
+[class*="card"] img {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+    height: 145px !important;
+    min-height: 145px !important;
+    max-height: 145px !important;
+    object-fit: cover !important;
+    display: block !important;
+    border-radius: 9px 9px 0 0 !important;
+    border-bottom: 1px solid #cca892 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+}
+
+/* --------------------------------------------------------------------------
+   POINT 2 : CADRE DU TITRE PLUS FONCÉ ET ROUGEÂTRE (TERRACOTTA / CHAMOIS)
+   -------------------------------------------------------------------------- */
+.bases-view > div:last-child > * > div:last-child,
+.bases-view > div:last-child > * > div:nth-child(2),
+[class*="cards"] > div > div:last-child,
+[class*="cards"] > div > div:nth-child(2),
+.bases-cards-item .mod-title,
+[class*="card"] [class*="title"] {
+    background-color: #e5d2c3 !important; /* Teinte plus chaude, foncée et légèrement rougeâtre */
+    border-top: 1px solid #cca892 !important;
+    padding: 11px 14px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    margin: 0 !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    border-radius: 0 0 9px 9px !important;
+}
+
+/* Typographie du titre sous la photo */
+.bases-view > div:last-child > * a,
+[class*="cards"] a,
+[class*="card"] a,
+.bases-cards-item a {
+    font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif !important;
+    font-size: 0.95rem !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.12em !important;
+    color: #3d2b1f !important; /* Bistre profond */
+    text-decoration: none !important;
+    border-bottom: none !important;
+    line-height: 1.3 !important;
+    display: inline-block !important;
+
+    &:hover {
+        color: #6d4b3a !important;
+        text-decoration: none !important;
+    }
+}
+
+/* --------------------------------------------------------------------------
+   POINT 1 : SUPPRESSION STRICTE DE TOUTES LES MÉTADONNÉES
+   -------------------------------------------------------------------------- */
+/* 1. Masque tous les éléments frères qui suivent le lien du titre */
+.bases-view a ~ *,
+[class*="cards"] a ~ *,
+[class*="card"] a ~ *,
+.mod-title ~ *,
+[class*="title"] ~ * {
+    display: none !important;
+}
+
+/* 2. Masque tout élément situé après le titre dans le bloc textuel */
+.bases-view > div:last-child > * > div:last-child > *:nth-child(n+2),
+.bases-view > div:last-child > * > div:nth-child(2) > *:nth-child(n+2),
+[class*="cards"] > div > div:last-child > *:nth-child(n+2),
+[class*="cards"] > div > div:nth-child(2) > *:nth-child(n+2) {
+    display: none !important;
+}
+
+/* 3. Masque tout bloc au-delà du 2e enfant si les propriétés sont à la racine de la carte */
+.bases-view > div:last-child > * > *:nth-child(n+3),
+[class*="cards"] > div > *:nth-child(n+3) {
+    display: none !important;
+}
+
+/* 4. Masque les liens secondaires (ex: liens vers Sector, Cover, etc.) */
+.bases-view > div:last-child > * a:not(:first-of-type),
+[class*="cards"] a:not(:first-of-type) {
+    display: none !important;
+}
+
+/* 5. Masque les classes et balises de champs résiduelles */
+.bases-cards-property:not(.mod-title):not(:first-child),
+.bases-cards-label,
+[class*="property"]:not([class*="title"]):not(:first-child),
+[class*="label"],
+[class*="field"],
+[class*="meta"] {
+    display: none !important;
+}
