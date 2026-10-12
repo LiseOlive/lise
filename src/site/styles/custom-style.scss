@@ -1,6 +1,6 @@
 /* ==========================================================================
    THEME ANUPPUCCIN SANDY BEACHES - OBSIDIAN DIGITAL GARDEN
-   Configuration finale : Grille 3x3, cartel brun chaud & typographie sérif
+   Configuration finale : Grille 3x3
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
@@ -224,12 +224,12 @@ div[class*="cards"] > div > div:last-child {
     border-radius: 0 0 9px 9px !important;
 }
 
-/* 5. Titre : Sérif néoclassique, majuscules, bistre profond */
+/* 5. Titre : majuscules, bistre profond */
 div[class*="cards"] > div > div:last-child > *:first-child,
 div[class*="cards"] > div > div:last-child > *:first-child a,
 div[class*="cards"] > div [class*="title"] {
     display: block !important;
-    font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif !important;
+    font-family: var(--font-interface), system-ui, -apple-system, sans-serif !important;
     font-size: 0.95rem !important;
     font-weight: 600 !important;
     text-transform: uppercase !important;
