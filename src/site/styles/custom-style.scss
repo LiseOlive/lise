@@ -1,0 +1,200 @@
+/* ==========================================================================
+   THEME ANUPPUCCIN SANDY BEACHES - OBSIDIAN DIGITAL GARDEN (FIX BASES 3x3)
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. PALETTE GLOBALE ET SURCHARGE DU FOND / BARRES LATÉRALES
+   -------------------------------------------------------------------------- */
+:root,
+html,
+body,
+.theme-light,
+.theme-dark {
+    /* Palette Sandy Beaches */
+    --ctp-base: #f0eae2;
+    --ctp-mantle: #ede7e0;
+    --ctp-crust: #e6dfd8;
+    --ctp-text: #685850;
+    --link-color: #6d4b3a;
+    --link-color-hover: #4a3225;
+    --text-accent: #92644d;
+
+    /* Surcharges système Digital Garden */
+    --background-primary: #f0eae2 !important;
+    --background-primary-alt: #f4ece4 !important;
+    --background-secondary: #ede7e0 !important;
+    --background-secondary-alt: #e6dfd8 !important;
+    --background-modifier-border: #d6c5b5 !important;
+    --text-normal: #685850 !important;
+    --text-muted: #82756e !important;
+    --link-unresolved-color: #6d4b3a !important;
+
+    /* Largeur suffisante pour 3 colonnes de fiches */
+    --dg-content-max-width: 1200px !important;
+
+    background-color: #f0eae2 !important;
+    color: #685850 !important;
+}
+
+/* Zone centrale et conteneur de note */
+.content,
+main,
+article,
+.markdown-rendered {
+    background-color: #f0eae2 !important;
+    max-width: 1200px !important;
+}
+
+/* Barre latérale gauche (arborescence des dossiers et fichiers) */
+.filetree-sidebar,
+.sidebar,
+aside,
+.nav-files-container {
+    background-color: #e6dfd8 !important;
+    border-right: 1px solid #d6c5b5 !important;
+
+    a,
+    span,
+    .nav-file-title,
+    .nav-folder-title {
+        color: #685850 !important;
+    }
+}
+
+/* Neutralisation des liens rouges par défaut */
+a,
+a:visited,
+.internal-link,
+.external-link,
+.nav-file-title,
+.is-unresolved,
+a.is-unresolved {
+    color: #6d4b3a !important;
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+    text-decoration-thickness: 1px !important;
+    text-underline-offset: 2px !important;
+    text-decoration-color: rgba(109, 75, 58, 0.45) !important;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease;
+
+    &:hover {
+        color: #4a3225 !important;
+        text-decoration-color: #4a3225 !important;
+    }
+}
+
+/* En-têtes typographiques avec empattement */
+h1, h2, h3, h4, h5, h6 {
+    color: #3d2b1f !important;
+    font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif !important;
+}
+
+/* --------------------------------------------------------------------------
+   2. MISE EN FORME DE LA GRILLE OBSIDIAN BASES (3x3)
+   -------------------------------------------------------------------------- */
+.bases-view,
+.bases-cards,
+.bases-cards-container,
+div[class*="bases-cards"] {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+    gap: 1.25rem !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    position: relative !important;
+    height: auto !important;
+    margin: 1.5rem 0 !important;
+    padding: 0 !important;
+
+    /* Paliers responsifs */
+    @media (max-width: 1023px) {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    }
+
+    @media (max-width: 680px) {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+/* --------------------------------------------------------------------------
+   3. STRUCTURE DES CARTES (FICHES DE MATIÈRES)
+   -------------------------------------------------------------------------- */
+.bases-cards-item {
+    /* Annulation des coordonnées absolues de Bases */
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    min-height: auto !important;
+
+    background-color: #f4ece4 !important;
+    border: 1px solid #d6c5b5 !important;
+    border-radius: 10px !important;
+    overflow: hidden !important;
+    display: flex !important;
+    flex-direction: column !important;
+    box-shadow: none !important;
+    transform: none !important;
+    outline: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+
+    /* Aucun effet de saut ou de survol agressif */
+    &:hover,
+    &:focus,
+    &:focus-within {
+        background-color: #f4ece4 !important;
+        border: 1px solid #d6c5b5 !important;
+        box-shadow: none !important;
+        transform: none !important;
+    }
+}
+
+/* Illustration en tête de carte */
+.bases-cards-cover,
+.bases-cards-cover img,
+.bases-cards-item img {
+    width: 100% !important;
+    height: 180px !important;
+    object-fit: cover !important;
+    border-radius: 9px 9px 0 0 !important;
+    border-bottom: 1px solid #d6c5b5 !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    background: transparent !important;
+}
+
+/* Cartel du titre sous l'image */
+.bases-cards-property.mod-title,
+.bases-cards-item .mod-title,
+.bases-cards-item div[class*="title"] {
+    background-color: #f4ece4 !important;
+    padding: 12px 14px !important;
+    text-align: center !important;
+    margin: 0 !important;
+    border: none !important;
+    width: 100% !important;
+
+    * {
+        font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif !important;
+        font-size: 0.95rem !important;
+        font-weight: 600 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 0.12em !important;
+        color: #3d2b1f !important;
+        text-decoration: none !important;
+        line-height: 1.3 !important;
+    }
+}
+
+/* Masquage de toutes les propriétés superflues (Dates, Sector, Semester, Cover) */
+.bases-cards-property:not(.mod-title),
+.bases-cards-label {
+    display: none !important;
+}
