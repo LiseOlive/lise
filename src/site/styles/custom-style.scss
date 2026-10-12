@@ -1,10 +1,10 @@
 /* ==========================================================================
    THEME ANUPPUCCIN SANDY BEACHES - OBSIDIAN DIGITAL GARDEN
-   Correctif 4 points : 3x3, cartel terracotta, sans métadonnées, titre unique
+   Consolidation : Grille 3x3, cartel terracotta, masquage métadonnées & titre unique
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
-   COULEURS GLOBALES SANDY BEACHES (MODE CLAIR)
+   1. VARIABLES & PALETTE GLOBALE (SANDY BEACHES LIGHT)
    -------------------------------------------------------------------------- */
 :root,
 html,
@@ -16,25 +16,29 @@ body,
     --background-secondary: #ede7e0 !important;
     --background-secondary-alt: #e6dfd8 !important;
     --background-modifier-border: #d6c5b5 !important;
+    --background-modifier-hover: #ded8d1 !important;
 
     --text-normal: #685850 !important;
     --text-muted: #82756e !important;
     --text-accent: #6d4b3a !important;
 
-    /* Liens noisette (neutralise le rouge natif) */
     --link-color: #6d4b3a !important;
     --link-color-hover: #4a3225 !important;
     --link-unresolved-color: #6d4b3a !important;
     --link-unresolved-opacity: 1 !important;
 
-    /* Largeur de page calibrée pour accueillir 3 colonnes */
+    /* Largeur maximale étendue pour le 3x3 */
     --dg-content-max-width: 1200px !important;
+
+    /* Variables internes Obsidian Bases */
+    --bases-cards-card-width: 32% !important;
+    --bases-cards-min-width: 0 !important;
 
     background-color: #f0eae2 !important;
     color: #685850 !important;
 }
 
-/* Zone de contenu principale */
+/* Zone éditoriale centrale */
 .site-body,
 .content,
 main,
@@ -45,7 +49,7 @@ article,
     width: 100% !important;
 }
 
-/* Barre latérale gauche claire */
+/* Barre latérale gauche (arborescence des dossiers) */
 .filetree-sidebar,
 .sidebar,
 aside,
@@ -64,7 +68,7 @@ aside,
     background-color: #f0eae2 !important;
 }
 
-/* Typographie et liens Markdown */
+/* Typographie des liens du coffre */
 a,
 .internal-link,
 .external-link,
@@ -83,6 +87,7 @@ a.is-unresolved {
     }
 }
 
+/* Puces tirets minéraux */
 ul > li::marker {
     color: #9a7a6a !important;
     content: "⁃ " !important;
@@ -91,15 +96,15 @@ ul > li::marker {
 }
 
 /* --------------------------------------------------------------------------
-   POINT 3 : ENLEVER UN DES DEUX "IN OLIVUM"
+   POINT 3 : SUPPRESSION D'UN DES DEUX "IN OLIVUM"
    -------------------------------------------------------------------------- */
-/* Masque le titre automatique généré par le gabarit */
 .page-title,
 .note-title,
 header.page-title,
-.content > h1:first-of-type,
-article > h1:first-of-type,
-.markdown-rendered > h1:first-of-type,
+header h1,
+.site-body > header,
+.content > header h1,
+.markdown-rendered > h1:first-of-type + h1,
 h1 + h1 {
     display: none !important;
 }
@@ -111,39 +116,58 @@ h1 {
 }
 
 /* --------------------------------------------------------------------------
-   POINT 4 : GRILLE STRICTE EN 3x3
+   POINT 4 : GRILLE 3x3 STRICTE (OBSIDIAN BASES)
    -------------------------------------------------------------------------- */
-/* Ciblage universel du conteneur de cartes */
-.markdown-rendered:has(img) > div:has(img),
-main:has(img) > div:has(img),
-article:has(img) > div:has(img),
-[class*="bases"]:has(img),
-[class*="cards"]:has(img),
-div:has(> div:has(img)) {
+.bases-view {
+    display: block !important;
+    width: 100% !important;
+    margin: 1.5rem 0 !important;
+}
+
+/* Conteneur immédiat des cartes */
+.bases-cards-group,
+.bases-cards,
+.bases-view-cards,
+.bases-view-content,
+[data-view-type="cards"],
+.bases-view > div:last-child {
     display: grid !important;
     grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
     gap: 1.25rem !important;
     width: 100% !important;
     max-width: 100% !important;
-    margin: 1.5rem 0 !important;
+    margin: 1rem 0 !important;
     padding: 0 !important;
     box-sizing: border-box !important;
+}
 
-    /* Paliers responsifs tablettes et mobiles */
-    @media (max-width: 960px) {
+/* Paliers responsifs : 3 colonnes maintenues jusqu'à 768px */
+@media (max-width: 768px) {
+    .bases-cards-group,
+    .bases-cards,
+    .bases-view-cards,
+    .bases-view-content,
+    [data-view-type="cards"],
+    .bases-view > div:last-child {
         grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
     }
-    @media (max-width: 620px) {
+}
+
+@media (max-width: 500px) {
+    .bases-cards-group,
+    .bases-cards,
+    .bases-view-cards,
+    .bases-view-content,
+    [data-view-type="cards"],
+    .bases-view > div:last-child {
         grid-template-columns: 1fr !important;
     }
 }
 
-/* Structure de chaque fiche individuelle */
-div:has(> img),
-div:has(> div > img),
-[class*="cards-item"],
-[class*="card-item"],
-[class*="base-card"] {
+/* Structure unitaire de chaque carte */
+.bases-cards-item,
+.bases-cards-group > div,
+.bases-view > div:last-child > div {
     background-color: #f4ece4 !important;
     border: 1px solid #d6c5b5 !important;
     border-radius: 10px !important;
@@ -157,6 +181,7 @@ div:has(> div > img),
     padding: 0 !important;
     margin: 0 !important;
     box-sizing: border-box !important;
+    position: relative !important;
 
     &:hover {
         border-color: #d6c5b5 !important;
@@ -166,9 +191,10 @@ div:has(> div > img),
 }
 
 /* Recadrage paysage uniforme de l'illustration (145px) */
-.markdown-rendered img:not(.logo),
-main img:not(.logo),
-article img:not(.logo) {
+.bases-cards-cover,
+.bases-cards-cover img,
+.bases-cards-item img,
+.bases-view img {
     width: 100% !important;
     min-width: 100% !important;
     max-width: 100% !important;
@@ -184,16 +210,19 @@ article img:not(.logo) {
     box-shadow: none !important;
 }
 
+.bases-cards-cover {
+    height: 145px !important;
+    overflow: hidden !important;
+}
+
 /* --------------------------------------------------------------------------
-   POINT 2 : LE CADRE DU TITRE PLUS FONCÉ ET ROUGEÂTRE (CHAMOIS / TERRACOTTA)
+   POINT 2 : CADRE DU TITRE PLUS FONCÉ ET ROUGEÂTRE (TERRACOTTA / CHAMOIS)
    -------------------------------------------------------------------------- */
-/* Zone du cartel sous l'illustration */
-div:has(> img) > div:last-child,
-div:has(> div > img) > div:last-child,
-div:has(> img) > div:nth-child(2),
-[class*="cards-item"] > div:last-child,
-[class*="mod-title"] {
-    background-color: #dfc5b2 !important; /* Teinte chamois / terre cuite plus foncée et chaude */
+.bases-cards-property.mod-title,
+.bases-cards-item > .mod-title,
+.bases-cards-item > div:nth-child(2),
+.bases-cards-group > div > div:nth-child(2) {
+    background-color: #dfc5b2 !important; /* Teinte chamois / terracotta cuivrée plus foncée */
     border-top: 1px solid #cca892 !important;
     padding: 10px 14px !important;
     min-height: 44px !important;
@@ -207,17 +236,18 @@ div:has(> img) > div:nth-child(2),
     border-radius: 0 0 9px 9px !important;
 }
 
-/* Typographie de la matière : Majuscules, sérif néoclassique et bistre profond */
-div:has(> img) a:first-of-type,
-div:has(> div > img) a:first-of-type,
-[class*="cards-item"] a:first-of-type,
-[class*="mod-title"] a {
+/* Typographie de l'intitulé de la matière */
+.bases-cards-property.mod-title a,
+.bases-cards-property.mod-title .bases-cards-line,
+.bases-cards-item .mod-title a,
+.bases-cards-item .mod-title .bases-cards-line,
+.bases-cards-item > div:nth-child(2) a {
     font-family: "Cinzel", "Playfair Display", "Baskerville", "Georgia", serif !important;
     font-size: 0.95rem !important;
     font-weight: 600 !important;
     text-transform: uppercase !important;
     letter-spacing: 0.12em !important;
-    color: #3d2b1f !important; /* Bistre foncé */
+    color: #3d2b1f !important; /* Marron bistre profond */
     text-decoration: none !important;
     border-bottom: none !important;
     line-height: 1.3 !important;
@@ -232,27 +262,17 @@ div:has(> div > img) a:first-of-type,
 /* --------------------------------------------------------------------------
    POINT 1 : SUPPRESSION STRICTE DES MÉTADONNÉES
    -------------------------------------------------------------------------- */
-/* 1. Masque tous les éléments qui suivent le premier lien du titre */
-div:has(> img) a:first-of-type ~ *,
-div:has(> div > img) a:first-of-type ~ * {
-    display: none !important;
-}
-
-/* 2. Masque tout bloc au-delà du 2e enfant de la carte */
-div:has(> img) > *:nth-child(n+3),
-div:has(> div > img) > *:nth-child(n+3),
-[class*="cards-item"] > *:nth-child(n+3) {
-    display: none !important;
-}
-
-/* 3. Masque les liens secondaires (Sector, Semester, Cover...) */
-div:has(> img) a:not(:first-of-type),
-div:has(> div > img) a:not(:first-of-type),
-[class*="cards-item"] a:not(:first-of-type) {
-    display: none !important;
-}
-
-/* 4. Masque les balises de champs résiduelles */
-div:has(> img) :is(p, dl, dt, dd, [class*="prop"], [class*="field"], [class*="label"], [class*="meta"]) {
+/* Masquage de toutes les lignes de propriétés sauf le titre */
+.bases-cards-property:not(.mod-title),
+.bases-cards-item .bases-cards-property:not(.mod-title),
+.bases-cards-label,
+.bases-cards-item dl,
+.bases-cards-item dt,
+.bases-cards-item dd,
+.bases-cards-item p,
+.bases-cards-item > *:nth-child(n+3),
+.bases-cards-group > div > *:nth-child(n+3),
+.bases-cards-property.mod-title ~ *,
+.bases-cards-item a:not(:first-of-type) {
     display: none !important;
 }
