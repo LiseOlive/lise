@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-introduction-microeconomie/","tags":["AES/S3/micro","CM","éco","AES/S3"],"dg-note-properties":{"tags":["AES/S3/micro","CM","éco","AES/S3"],"class":"[[References/Micro]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-09, 14 17","date modified":"2026-09-23, 21 15"}}
+{"dg-publish":true,"permalink":"/i-introduction-microeconomie/","tags":["AES/S3/micro","CM","éco","AES/S3"],"ctime":"2026-09-09T14:17:25.480+02:00","mtime":"2026-10-13T17:34:02.174+02:00","dg-note-properties":{"tags":["AES/S3/micro","CM","éco","AES/S3"],"class":"[[References/Micro]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-09, 14 17","date modified":"2026-09-23, 21 15"}}
 ---
 
 

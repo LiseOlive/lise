@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-introduction-droit-admin/","tags":["admin","CM","droit","AES/S3"],"dg-note-properties":{"tags":["admin","CM","droit","AES/S3"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-10, 15 15","date modified":"2026-10-09, 12 03"}}
+{"dg-publish":true,"permalink":"/1-introduction-droit-admin/","tags":["admin","CM","droit","AES/S3"],"ctime":"2026-09-10T15:15:32.302+02:00","mtime":"2026-10-13T17:34:02.039+02:00","dg-note-properties":{"tags":["admin","CM","droit","AES/S3"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-10, 15 15","date modified":"2026-10-09, 12 03"}}
 ---
 
 

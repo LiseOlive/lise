@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-24-avril-2013-sanctions-pecuniaires/","dg-note-properties":{"date created":"2026-09-29, 23 10","date modified":"2026-10-05, 13 47","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/cass-soc-24-avril-2013-sanctions-pecuniaires/","ctime":"2026-09-29T23:10:52.820+02:00","mtime":"2026-10-13T17:34:01.642+02:00","dg-note-properties":{"date created":"2026-09-29, 23 10","date modified":"2026-10-05, 13 47","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 

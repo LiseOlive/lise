@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-sources-du-droit-administratif/","tags":["admin","CM","droit","AES/S3"],"dg-note-properties":{"date created":"2026-09-24, 16 30","date modified":"2026-10-05, 11 42","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/2]]","tags":["admin","CM","droit","AES/S3"]}}
+{"dg-publish":true,"permalink":"/2-sources-du-droit-administratif/","tags":["admin","CM","droit","AES/S3"],"ctime":"2026-09-24T16:30:42.193+02:00","mtime":"2026-10-13T17:34:01.783+02:00","dg-note-properties":{"date created":"2026-09-24, 16 30","date modified":"2026-10-05, 11 42","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/2]]","tags":["admin","CM","droit","AES/S3"]}}
 ---
 
 

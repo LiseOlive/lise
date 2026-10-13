@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introduction-generale-1-ccpe/","tags":["AES/S3/ccpe","CM","éco","AES/S3"],"dg-note-properties":{"tags":["AES/S3/ccpe","CM","éco","AES/S3"],"class":"[[References/CCPE]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-09, 16 07","date modified":"2026-09-23, 21 17"}}
+{"dg-publish":true,"permalink":"/introduction-generale-1-ccpe/","tags":["AES/S3/ccpe","CM","éco","AES/S3"],"ctime":"2026-09-09T16:07:15.340+02:00","mtime":"2026-10-13T17:34:02.139+02:00","dg-note-properties":{"tags":["AES/S3/ccpe","CM","éco","AES/S3"],"class":"[[References/CCPE]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-09, 16 07","date modified":"2026-09-23, 21 17"}}
 ---
 
 

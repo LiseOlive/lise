@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-2-le-modele-keynesien-simple-et-la-politique-economique/","tags":["AP/S2/macro","CM","éco","AP/S2"],"dg-note-properties":{"tags":["AP/S2/macro","CM","éco","AP/S2"],"class":"[[Macro]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-21, 12 00","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/chapitre-2-le-modele-keynesien-simple-et-la-politique-economique/","tags":["AP/S2/macro","CM","éco","AP/S2"],"ctime":"2026-01-21T12:00:28.000+01:00","mtime":"2026-10-13T17:34:02.690+02:00","dg-note-properties":{"tags":["AP/S2/macro","CM","éco","AP/S2"],"class":"[[Macro]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-21, 12 00","date modified":"2026-09-21, 23 12"}}
 ---
 
 

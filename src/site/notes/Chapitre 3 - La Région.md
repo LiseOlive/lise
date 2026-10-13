@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-3-la-region/","tags":["admin","CM","droit","AP/S2"],"dg-note-properties":{"tags":["admin","CM","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-04-09, 22 54","date modified":"2026-09-27, 16 29"}}
+{"dg-publish":true,"permalink":"/chapitre-3-la-region/","tags":["admin","CM","droit","AP/S2"],"ctime":"2026-04-09T22:54:16.000+02:00","mtime":"2026-10-13T17:34:02.306+02:00","dg-note-properties":{"tags":["admin","CM","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-04-09, 22 54","date modified":"2026-09-27, 16 29"}}
 ---
 
 

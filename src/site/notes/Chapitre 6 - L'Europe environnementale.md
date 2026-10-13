@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-6-l-europe-environnementale/","tags":["AP/S2/ue","CM","droit","AP/S2"],"dg-note-properties":{"tags":["AP/S2/ue","CM","droit","AP/S2"],"class":"[[Union Européenne]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-04-09, 16 01","date modified":"2026-09-27, 16 29"}}
+{"dg-publish":true,"permalink":"/chapitre-6-l-europe-environnementale/","tags":["AP/S2/ue","CM","droit","AP/S2"],"ctime":"2026-04-09T16:01:13.000+02:00","mtime":"2026-10-13T17:34:02.332+02:00","dg-note-properties":{"tags":["AP/S2/ue","CM","droit","AP/S2"],"class":"[[Union Européenne]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-04-09, 16 01","date modified":"2026-09-27, 16 29"}}
 ---
 
 

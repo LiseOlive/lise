@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-2-les-probabilites-elementaires/","tags":["AP/S2/tq","CM","maths","AP/S2"],"dg-note-properties":{"tags":["AP/S2/tq","CM","maths","AP/S2"],"class":"[[TQ]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-29, 15 09","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/chapitre-2-les-probabilites-elementaires/","tags":["AP/S2/tq","CM","maths","AP/S2"],"ctime":"2026-01-29T15:09:34.000+01:00","mtime":"2026-10-13T17:34:02.647+02:00","dg-note-properties":{"tags":["AP/S2/tq","CM","maths","AP/S2"],"class":"[[TQ]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-29, 15 09","date modified":"2026-09-21, 23 12"}}
 ---
 
 

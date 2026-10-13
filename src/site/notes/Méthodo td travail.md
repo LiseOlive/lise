@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/methodo-td-travail/","tags":["AES","droit","travail","TD","examen"],"dg-note-properties":{"date created":"2026-09-25, 8 07","date modified":"2026-09-28, 14 22","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/1]]","tags":["AES","droit","travail","TD","examen"]}}
+{"dg-publish":true,"permalink":"/methodo-td-travail/","tags":["AES","droit","travail","TD","examen"],"ctime":"2026-09-25T08:07:41.935+02:00","mtime":"2026-10-13T17:34:01.749+02:00","dg-note-properties":{"date created":"2026-09-25, 8 07","date modified":"2026-09-28, 14 22","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/1]]","tags":["AES","droit","travail","TD","examen"]}}
 ---
 
 

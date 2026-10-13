@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiche-examen-le-contrat-de-travail/","tags":["AES","droit","TD","examen","travail"],"dg-note-properties":{"date created":"2026-09-28, 14 20","date modified":"2026-10-05, 11 42","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/1]]","tags":["AES","droit","TD","examen","travail"]}}
+{"dg-publish":true,"permalink":"/fiche-examen-le-contrat-de-travail/","tags":["AES","droit","TD","examen","travail"],"ctime":"2026-09-28T14:20:02.327+02:00","mtime":"2026-10-13T17:34:01.735+02:00","dg-note-properties":{"date created":"2026-09-28, 14 20","date modified":"2026-10-05, 11 42","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/1]]","tags":["AES","droit","TD","examen","travail"]}}
 ---
 
 

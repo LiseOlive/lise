@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1ere-partie-la-responsabilite-contractuelle/","tags":["AP/S2/resp","CM","droit","AP/S2"],"dg-note-properties":{"tags":["AP/S2/resp","CM","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-22, 9 11","date modified":"2026-10-09, 12 02"}}
+{"dg-publish":true,"permalink":"/1ere-partie-la-responsabilite-contractuelle/","tags":["AP/S2/resp","CM","droit","AP/S2"],"ctime":"2026-01-22T09:11:39.000+01:00","mtime":"2026-10-13T17:34:02.674+02:00","dg-note-properties":{"tags":["AP/S2/resp","CM","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-22, 9 11","date modified":"2026-10-09, 12 02"}}
 ---
 
 

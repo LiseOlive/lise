@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiche-perso/","tags":["tcc"],"dg-note-properties":{"tags":["tcc"],"class":null,"sector":"[[TCC]]","semester":null,"form":null,"part":null,"date created":"2026-03-26, 17 37","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/fiche-perso/","tags":["tcc"],"ctime":"2026-03-26T17:37:34.000+01:00","mtime":"2026-10-13T17:34:02.397+02:00","dg-note-properties":{"tags":["tcc"],"class":null,"sector":"[[TCC]]","semester":null,"form":null,"part":null,"date created":"2026-03-26, 17 37","date modified":"2026-09-21, 23 12"}}
 ---
 
 

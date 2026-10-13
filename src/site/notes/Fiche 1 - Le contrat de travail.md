@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fiche-1-le-contrat-de-travail/","tags":["travail","AES/S3","droit","TD"],"dg-note-properties":{"date created":"2026-09-24, 23 00","date modified":"2026-10-09, 8 25","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/1]]","tags":["travail","AES/S3","droit","TD"]}}
+{"dg-publish":true,"permalink":"/fiche-1-le-contrat-de-travail/","tags":["travail","AES/S3","droit","TD"],"ctime":"2026-09-24T23:00:59.890+02:00","mtime":"2026-10-13T17:34:01.763+02:00","dg-note-properties":{"date created":"2026-09-24, 23 00","date modified":"2026-10-09, 8 25","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/1]]","tags":["travail","AES/S3","droit","TD"]}}
 ---
 
 

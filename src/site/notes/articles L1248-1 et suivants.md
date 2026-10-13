@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/articles-l1248-1-et-suivants/","dg-note-properties":{"date created":"2026-10-01, 13 13","date modified":"2026-10-05, 20 44","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/articles-l1248-1-et-suivants/","ctime":"2026-10-01T13:13:02.674+02:00","mtime":"2026-10-13T17:34:01.520+02:00","dg-note-properties":{"date created":"2026-10-01, 13 13","date modified":"2026-10-05, 20 44","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-4-le-modele-is-lm-et-la-politique-economique/","tags":["AP/S2/macro","CM","éco","AP/S2"],"dg-note-properties":{"tags":["AP/S2/macro","CM","éco","AP/S2"],"class":"[[Macro]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-03-18, 12 19","date modified":"2026-10-05, 12 31"}}
+{"dg-publish":true,"permalink":"/chapitre-4-le-modele-is-lm-et-la-politique-economique/","tags":["AP/S2/macro","CM","éco","AP/S2"],"ctime":"2026-03-18T12:19:14.000+01:00","mtime":"2026-10-13T17:34:02.460+02:00","dg-note-properties":{"tags":["AP/S2/macro","CM","éco","AP/S2"],"class":"[[Macro]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-03-18, 12 19","date modified":"2026-10-05, 12 31"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/l-article-l1242-5/","dg-note-properties":{"subject":null,"date created":"2026-10-01, 13 06","date modified":"2026-10-12, 21 29","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/l-article-l1242-5/","ctime":"2026-10-01T13:06:02.009+02:00","mtime":"2026-10-13T17:34:01.575+02:00","dg-note-properties":{"subject":null,"date created":"2026-10-01, 13 06","date modified":"2026-10-12, 21 29","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 

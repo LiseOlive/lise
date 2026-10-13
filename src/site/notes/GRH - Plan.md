@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/grh-plan/","tags":["AES/S3/grh","CM","éco","AES/S3"],"dg-note-properties":{"tags":["AES/S3/grh","CM","éco","AES/S3"],"class":"[[References/GRH]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[0]]","date created":"2026-09-14, 17 34","date modified":"2026-10-05, 11 57"}}
+{"dg-publish":true,"permalink":"/grh-plan/","tags":["AES/S3/grh","CM","éco","AES/S3"],"ctime":"2026-09-14T17:34:11.608+02:00","mtime":"2026-10-13T17:34:01.973+02:00","dg-note-properties":{"tags":["AES/S3/grh","CM","éco","AES/S3"],"class":"[[References/GRH]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[0]]","date created":"2026-09-14, 17 34","date modified":"2026-10-05, 11 57"}}
 ---
 
 

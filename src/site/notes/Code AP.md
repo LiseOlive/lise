@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/code-ap/","tags":["code","CM","droit","AP/S2"],"dg-note-properties":{"tags":["code","CM","droit","AP/S2"],"class":null,"sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/Code]]","part":null,"date created":"2026-01-20, 12 10","date modified":"2026-10-05, 12 31"}}
+{"dg-publish":true,"permalink":"/code-ap/","tags":["code","CM","droit","AP/S2"],"ctime":"2026-01-20T12:10:43.000+01:00","mtime":"2026-10-13T17:34:02.724+02:00","dg-note-properties":{"tags":["code","CM","droit","AP/S2"],"class":null,"sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/Code]]","part":null,"date created":"2026-01-20, 12 10","date modified":"2026-10-05, 12 31"}}
 ---
 
 

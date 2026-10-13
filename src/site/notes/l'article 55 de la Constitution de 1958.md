@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/l-article-55-de-la-constitution-de-1958/","dg-note-properties":{"date created":"2026-09-30, 10 58","date modified":"2026-10-05, 13 41","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/l-article-55-de-la-constitution-de-1958/","ctime":"2026-09-30T10:58:02.799+02:00","mtime":"2026-10-13T17:34:01.597+02:00","dg-note-properties":{"date created":"2026-09-30, 10 58","date modified":"2026-10-05, 13 41","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 

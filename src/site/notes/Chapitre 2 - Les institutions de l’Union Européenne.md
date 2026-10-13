@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-2-les-institutions-de-l-union-europeenne/","tags":["AP/S2/ue","CM","droit","AP/S2"],"dg-note-properties":{"tags":["AP/S2/ue","CM","droit","AP/S2"],"class":"[[Union Européenne]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-02-15, 11 14","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/chapitre-2-les-institutions-de-l-union-europeenne/","tags":["AP/S2/ue","CM","droit","AP/S2"],"ctime":"2026-02-15T11:14:15.000+01:00","mtime":"2026-10-13T17:34:02.578+02:00","dg-note-properties":{"tags":["AP/S2/ue","CM","droit","AP/S2"],"class":"[[Union Européenne]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-02-15, 11 14","date modified":"2026-09-21, 23 12"}}
 ---
 
 

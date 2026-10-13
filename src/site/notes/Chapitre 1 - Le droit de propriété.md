@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-1-le-droit-de-propriete/","tags":["AP/S2/biens","CM","droit","AP/S2"],"dg-note-properties":{"tags":["AP/S2/biens","CM","droit","AP/S2"],"class":"[[Biens]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-20, 12 23","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/chapitre-1-le-droit-de-propriete/","tags":["AP/S2/biens","CM","droit","AP/S2"],"ctime":"2026-01-20T12:23:23.000+01:00","mtime":"2026-10-13T17:34:02.707+02:00","dg-note-properties":{"tags":["AP/S2/biens","CM","droit","AP/S2"],"class":"[[Biens]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-20, 12 23","date modified":"2026-09-21, 23 12"}}
 ---
 
 

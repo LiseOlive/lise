@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/article-l-8221-6-du-code-du-travail-presomption-de-non-salariat/","dg-note-properties":{"date created":"2026-09-29, 23 09","date modified":"2026-10-04, 1 13","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/article-l-8221-6-du-code-du-travail-presomption-de-non-salariat/","ctime":"2026-09-29T23:09:37.604+02:00","mtime":"2026-10-13T17:34:01.655+02:00","dg-note-properties":{"date created":"2026-09-29, 23 09","date modified":"2026-10-04, 1 13","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 

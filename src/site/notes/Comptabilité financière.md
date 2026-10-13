@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/comptabilite-financiere/","tags":["AES/S3/compta","CM","maths","AES/S3"],"dg-note-properties":{"tags":["AES/S3/compta","CM","maths","AES/S3"],"class":"[[References/Compta]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-15, 16 26","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/comptabilite-financiere/","tags":["AES/S3/compta","CM","maths","AES/S3"],"ctime":"2026-09-15T16:26:55.252+02:00","mtime":"2026-10-13T17:34:01.965+02:00","dg-note-properties":{"tags":["AES/S3/compta","CM","maths","AES/S3"],"class":"[[References/Compta]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-15, 16 26","date modified":"2026-09-21, 23 12"}}
 ---
 
 
