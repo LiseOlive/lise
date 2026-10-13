@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/td-2-les-differents-types-de-contrat/","dg-note-properties":{"subject":null,"date created":"2026-10-09, 11 54","date modified":"2026-10-12, 10 05","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/2]]","tags":[],"Title":"Meeting - Teams","Recorded At":"2026-10-09T07:59:06"}}
+{"dg-publish":true,"permalink":"/td-2-les-differents-types-de-contrat/","ctime":"2026-10-09T11:54:09.530+02:00","mtime":"2026-10-13T17:33:55.223+02:00","dg-note-properties":{"subject":null,"date created":"2026-10-09, 11 54","date modified":"2026-10-12, 10 05","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/2]]","tags":[],"Title":"Meeting - Teams","Recorded At":"2026-10-09T07:59:06"}}
 ---
 
 

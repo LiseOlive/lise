@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/td-seance-7-responsabilite-du-commettant-du-fait-du-prepose/","tags":["AP/S2/resp","TD","droit","AP/S2"],"dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/TD]]","part":null,"date created":"2026-03-14, 17 10","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/td-seance-7-responsabilite-du-commettant-du-fait-du-prepose/","tags":["AP/S2/resp","TD","droit","AP/S2"],"ctime":"2026-03-14T17:10:29.000+01:00","mtime":"2026-10-13T17:34:02.482+02:00","dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/TD]]","part":null,"date created":"2026-03-14, 17 10","date modified":"2026-09-21, 23 12"}}
 ---
 
 

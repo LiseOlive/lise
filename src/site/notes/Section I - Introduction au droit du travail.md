@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/section-i-introduction-au-droit-du-travail/","tags":["travail","CM","droit","AES/S3"],"dg-note-properties":{"subject":null,"tags":["travail","CM","droit","AES/S3"],"class":"[[References/Travail]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-10, 13 41","date modified":"2026-10-11, 12 29"}}
+{"dg-publish":true,"permalink":"/section-i-introduction-au-droit-du-travail/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-09-10T13:41:46.942+02:00","mtime":"2026-10-13T17:34:02.095+02:00","dg-note-properties":{"subject":null,"tags":["travail","CM","droit","AES/S3"],"class":"[[References/Travail]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-10, 13 41","date modified":"2026-10-11, 12 29"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/td-seance-6-responsabilite-du-fait-des-choses-et-du-fait-des-animaux/","tags":["AP/S2/resp","TD","droit","AP/S2"],"dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/TD]]","part":null,"date created":"2026-03-06, 12 05","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/td-seance-6-responsabilite-du-fait-des-choses-et-du-fait-des-animaux/","tags":["AP/S2/resp","TD","droit","AP/S2"],"ctime":"2026-03-06T12:05:11.000+01:00","mtime":"2026-10-13T17:34:02.548+02:00","dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/TD]]","part":null,"date created":"2026-03-06, 12 05","date modified":"2026-09-21, 23 12"}}
 ---
 
 

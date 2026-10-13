@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/partie-1-la-gestion-des-ressources-humaines/","tags":["AES/S3/grh","CM","éco","AES/S3"],"dg-note-properties":{"tags":["AES/S3/grh","CM","éco","AES/S3"],"class":"[[References/GRH]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-07, 18 00","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/partie-1-la-gestion-des-ressources-humaines/","tags":["AES/S3/grh","CM","éco","AES/S3"],"ctime":"2026-09-07T18:00:32.597+02:00","mtime":"2026-10-13T17:34:02.256+02:00","dg-note-properties":{"tags":["AES/S3/grh","CM","éco","AES/S3"],"class":"[[References/GRH]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-07, 18 00","date modified":"2026-09-21, 23 12"}}
 ---
 
 

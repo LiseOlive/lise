@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/ccpe/","dg-note-properties":{"date created":"2026-09-21, 23 19","date modified":"2026-10-09, 13 59","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/image_raguenet_nicolas_jean-baptiste_le_palais_des_t_p279_644272.jpg]]"}}
+{"dg-publish":true,"permalink":"/references/ccpe/","ctime":"2026-09-21T23:19:05.323+02:00","mtime":"2026-10-13T17:34:01.821+02:00","dg-note-properties":{"date created":"2026-09-21, 23 19","date modified":"2026-10-09, 13 59","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/image_raguenet_nicolas_jean-baptiste_le_palais_des_t_p279_644272.jpg]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/code/","dg-note-properties":{"date created":"2026-01-20, 12 10","date modified":"2026-10-05, 12 42","sector":"[[References]]","semester":null,"class":null,"form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/references/code/","ctime":"2026-01-20T12:10:43.000+01:00","mtime":"2026-10-13T17:34:02.738+02:00","dg-note-properties":{"date created":"2026-01-20, 12 10","date modified":"2026-10-05, 12 42","sector":"[[References]]","semester":null,"class":null,"form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 

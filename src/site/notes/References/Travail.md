@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/travail/","dg-note-properties":{"subject":null,"date created":"2026-09-21, 23 18","date modified":"2026-10-11, 12 17","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/EtienneBouhot-PlaceVendome.jpg]]"}}
+{"dg-publish":true,"permalink":"/references/travail/","ctime":"2026-09-21T23:18:57.582+02:00","mtime":"2026-10-13T17:34:01.871+02:00","dg-note-properties":{"subject":null,"date created":"2026-09-21, 23 18","date modified":"2026-10-11, 12 17","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/EtienneBouhot-PlaceVendome.jpg]]"}}
 ---
 
 

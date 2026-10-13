@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/penal/","dg-note-properties":{"date created":"2026-09-21, 23 19","date modified":"2026-10-09, 13 59","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/lancelot-thodore-turpin-de-criss-the-arch-of-constantine-seen-from-the-colosseum-181838...png]]"}}
+{"dg-publish":true,"permalink":"/references/penal/","ctime":"2026-09-21T23:19:04.417+02:00","mtime":"2026-10-13T17:34:01.862+02:00","dg-note-properties":{"date created":"2026-09-21, 23 19","date modified":"2026-10-09, 13 59","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/lancelot-thodore-turpin-de-criss-the-arch-of-constantine-seen-from-the-colosseum-181838...png]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/partie-i-l-impot-sur-le-revenu-ir/","tags":["AES/S3/fiscal","CM","éco","AES/S3"],"dg-note-properties":{"tags":["AES/S3/fiscal","CM","éco","AES/S3"],"class":"[[References/Fiscal]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-13, 23 48","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/partie-i-l-impot-sur-le-revenu-ir/","tags":["AES/S3/fiscal","CM","éco","AES/S3"],"ctime":"2026-09-13T23:48:54.128+02:00","mtime":"2026-10-13T17:34:01.990+02:00","dg-note-properties":{"tags":["AES/S3/fiscal","CM","éco","AES/S3"],"class":"[[References/Fiscal]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-13, 23 48","date modified":"2026-09-21, 23 12"}}
 ---
 
 

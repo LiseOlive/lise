@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/titre-1-le-fonctionnement-de-la-norme-penale/","tags":["AES/S3/pénal","CM","droit","AES/S3"],"dg-note-properties":{"tags":["AES/S3/pénal","CM","droit","AES/S3"],"class":"[[References/Pénal]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-16, 11 50","date modified":"2026-10-05, 20 40"}}
+{"dg-publish":true,"permalink":"/titre-1-le-fonctionnement-de-la-norme-penale/","tags":["AES/S3/pénal","CM","droit","AES/S3"],"ctime":"2026-09-16T11:50:11.958+02:00","mtime":"2026-10-13T17:34:01.949+02:00","dg-note-properties":{"tags":["AES/S3/pénal","CM","droit","AES/S3"],"class":"[[References/Pénal]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-16, 11 50","date modified":"2026-10-05, 20 40"}}
 ---
 
 

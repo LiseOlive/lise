@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/td-1-introducing-yourself/","tags":["anglais","TD","AES/S3"],"dg-note-properties":{"tags":["anglais","TD","AES/S3"],"class":"[[References/Anglais]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/TD]]","part":"[[References/1]]","date created":"2026-09-09, 8 29","date modified":"2026-10-05, 11 52"}}
+{"dg-publish":true,"permalink":"/td-1-introducing-yourself/","tags":["anglais","TD","AES/S3"],"ctime":"2026-09-09T08:29:27.667+02:00","mtime":"2026-10-13T17:34:02.240+02:00","dg-note-properties":{"tags":["anglais","TD","AES/S3"],"class":"[[References/Anglais]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/TD]]","part":"[[References/1]]","date created":"2026-09-09, 8 29","date modified":"2026-10-05, 11 52"}}
 ---
 
 

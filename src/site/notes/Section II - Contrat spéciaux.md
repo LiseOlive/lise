@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/section-ii-contrat-speciaux/","tags":["travail","CM","droit","AES/S3"],"dg-note-properties":{"subject":null,"date created":"2026-09-24, 13 03","date modified":"2026-10-12, 11 27","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/2]]","tags":["travail","CM","droit","AES/S3"]}}
+{"dg-publish":true,"permalink":"/section-ii-contrat-speciaux/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-09-24T13:03:33.204+02:00","mtime":"2026-10-13T17:34:01.797+02:00","dg-note-properties":{"subject":null,"date created":"2026-09-24, 13 03","date modified":"2026-10-12, 11 27","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/2]]","tags":["travail","CM","droit","AES/S3"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/periode-d-essai-renouvelable/","dg-note-properties":{"date created":"2026-10-08, 23 32","date modified":"2026-10-09, 13 46","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]","tags":[],"Title":"Période d'essai renouvelable","Recorded At":"2026-10-08T22:40:20"}}
+{"dg-publish":true,"permalink":"/periode-d-essai-renouvelable/","ctime":"2026-10-08T23:32:22.125+02:00","mtime":"2026-10-13T17:33:55.252+02:00","dg-note-properties":{"date created":"2026-10-08, 23 32","date modified":"2026-10-09, 13 46","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]","tags":[],"Title":"Période d'essai renouvelable","Recorded At":"2026-10-08T22:40:20"}}
 ---
 
 
