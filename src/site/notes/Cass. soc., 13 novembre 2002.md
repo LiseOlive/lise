@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/cass-soc-13-novembre-2002/","ctime":"2026-10-14T00:04:35.639+02:00","mtime":"2026-10-14T01:53:07.938+02:00","dg-note-properties":{"date created":"2026-10-14, 0 04","date modified":"2026-10-14, 0 04","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+---
+
+
+# Cass. soc., 13 novembre 2002
