@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/td-seance-10-seance-recapitulative/","tags":["AP/S2/resp","TD","droit","AP/S2"],"ctime":"2026-04-10T12:08:21.000+02:00","mtime":"2026-10-13T17:34:02.276+02:00","dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/TD]]","part":null,"date created":"2026-04-10, 12 08","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/td-seance-10-seance-recapitulative/","tags":["AP/S2/resp","TD","droit","AP/S2"],"ctime":"2026-04-10T12:08:21.000+02:00","mtime":"2026-10-13T17:34:02.276+02:00","dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[References/S2]]","form":"[[References/TD]]","part":null,"date created":"2026-04-10, 12 08","date modified":"2026-09-21, 23 12"}}
 ---
 
 

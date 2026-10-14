@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/td-seance-2-principe-de-non-cumul-des-responsabilites-contractuelles-et-extracontractuelles/","tags":["AP/S2/resp","TD","droit","AP/S2"],"ctime":"2026-02-01T11:50:00.000+01:00","mtime":"2026-10-13T17:34:02.637+02:00","dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[Responsabilité]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/TD]]","part":null,"date created":"2026-02-01, 11 50","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/td-seance-2-principe-de-non-cumul-des-responsabilites-contractuelles-et-extracontractuelles/","tags":["AP/S2/resp","TD","droit","AP/S2"],"ctime":"2026-02-01T11:50:00.000+01:00","mtime":"2026-10-13T17:34:02.637+02:00","dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[Responsabilité]]","sector":"[[References/AES]]","semester":"[[References/S2]]","form":"[[References/TD]]","part":null,"date created":"2026-02-01, 11 50","date modified":"2026-09-21, 23 12"}}
 ---
 
 

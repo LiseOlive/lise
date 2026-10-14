@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-1-definir-l-union-et-la-citoyennete-europeenne/","tags":["AP/S2/ue","CM","droit","AP/S2"],"ctime":"2026-01-26T16:42:25.000+01:00","mtime":"2026-10-13T17:34:02.656+02:00","dg-note-properties":{"tags":["AP/S2/ue","CM","droit","AP/S2"],"class":"[[Union Européenne]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-26, 16 42","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/chapitre-1-definir-l-union-et-la-citoyennete-europeenne/","tags":["AP/S2/ue","CM","droit","AP/S2"],"ctime":"2026-01-26T16:42:25.000+01:00","mtime":"2026-10-13T17:34:02.656+02:00","dg-note-properties":{"tags":["AP/S2/ue","CM","droit","AP/S2"],"class":"[[Union Européenne]]","sector":"[[References/AES]]","semester":"[[References/S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-26, 16 42","date modified":"2026-09-21, 23 12"}}
 ---
 
 

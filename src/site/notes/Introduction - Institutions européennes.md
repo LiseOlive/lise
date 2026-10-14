@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introduction-institutions-europeennes/","tags":["AP/S2/ue","CM","droit","AP/S2"],"ctime":"2026-01-16T01:31:29.000+01:00","mtime":"2026-10-13T17:34:02.824+02:00","dg-note-properties":{"tags":["AP/S2/ue","CM","droit","AP/S2"],"class":"[[Union Européenne]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-16, 1 31","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/introduction-institutions-europeennes/","tags":["AP/S2/ue","CM","droit","AP/S2"],"ctime":"2026-01-16T01:31:29.000+01:00","mtime":"2026-10-13T17:34:02.824+02:00","dg-note-properties":{"tags":["AP/S2/ue","CM","droit","AP/S2"],"class":"[[Union Européenne]]","sector":"[[References/AES]]","semester":"[[References/S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-16, 1 31","date modified":"2026-09-21, 23 12"}}
 ---
 
 

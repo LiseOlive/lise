@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/td-seance-8-responsabilite-des-parents-du-fait-de-leur-enfant-mineur/","tags":["AP/S2/resp","TD","droit","AP/S2"],"ctime":"2026-03-21T17:07:47.000+01:00","mtime":"2026-10-13T17:34:02.406+02:00","dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/TD]]","part":null,"date created":"2026-03-21, 17 07","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/td-seance-8-responsabilite-des-parents-du-fait-de-leur-enfant-mineur/","tags":["AP/S2/resp","TD","droit","AP/S2"],"ctime":"2026-03-21T17:07:47.000+01:00","mtime":"2026-10-13T17:34:02.406+02:00","dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[References/S2]]","form":"[[References/TD]]","part":null,"date created":"2026-03-21, 17 07","date modified":"2026-09-21, 23 12"}}
 ---
 
 

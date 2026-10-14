@@ -1,94 +1,91 @@
 ---
-{"dg-publish":true,"permalink":"/contrat-temps-partiel-et-recrutement/","ctime":"2026-10-08T23:31:16.795+02:00","mtime":"2026-10-13T17:33:55.276+02:00","dg-note-properties":{"subject":null,"date created":"2026-10-08, 23 31","date modified":"2026-10-12, 10 05","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]","tags":[],"Title":"Contrat temps partiel et recrutement","Recorded At":"2026-10-08T22:40:20"}}
+{"dg-publish":true,"permalink":"/contrat-temps-partiel-et-recrutement/","ctime":"2026-10-13T23:45:42.057+02:00","mtime":"2026-10-14T02:02:28.483+02:00","dg-note-properties":{"date created":"2026-10-13, 23 45","date modified":"2026-10-14, 2 02","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/2]]"}}
 ---
 
 
-# Contrat temps partiel et recrutement
+# Contrat à temps partiel et recrutement
 
-J'avais insisté sur cette exigence d'écrit, et en vous disant qu'il fallait aussi dans cet écrit un certain nombre de mentions obligatoires, avec un risque sinon de requalification en temps plein, le contrat est réputé à temps plein, si vous vous souvenez.
 
-Je vous avais énuméré les mentions obligatoires,
+# Chapitre 2 : Les contrats de travail spéciaux (suite)
 
-et donc encore une fois, à défaut de l'une de ces mentions obligatoires, le contrat est réputé à temps complet. Dans les mentions obligatoires, si vous vous souvenez, j'avais indiqué que l'écrit devait indiquer la durée du travail, la durée mensuelle ou la durée hebdomadaire. Et donc, logiquement, si le contrat est passé par écrit, mais qu'il n'indique pas cette durée hebdomadaire ou mensuelle, et bien, logiquement, la Cour de cassation considère que le contrat est présumé être à temps complet.
+## Section 2 : Le contrat de travail à temps partiel (suite)
 
-Vous avez notamment un arrêt du 3 juillet 2019, Chambre sociale, Cour de cassation, 3 juillet 2019. En réalité, il y en a plein d'autres, évidemment, des arrêts. Donc, s'il n'y a pas la durée mensuelle ou hebdomadaire qui est indiquée, même si le contrat est passé par écrit, il faut considérer que le contrat est à temps complet par principe présomption de temps complet dont on parlait la semaine dernière. Même chose, même sanction, si l'écrit est présent, mais n'indique pas la répartition de la durée du travail entre les jours de la semaine ou entre les semaines du mois.
+Le contrat de travail à temps partiel est un contrat réglementé visant à protéger le salarié contre la précarité et l'imprévisibilité de ses conditions de travail.
 
-Vous avez votre écrit, votre écrit est censé mentionner la répartition de cette durée du travail entre les jours de la semaine ou entre les semaines du mois. Si vous n'avez pas cette répartition, le contrat est présumé à temps complet. C'était par exemple un arrêt du 13 novembre 2002, un champ de social 13 novembre 2002, là encore la présomption de temps complet, c'est assez logique. Donc, sanctions assez sévères, on en a parlé la semaine dernière pour l'employeur, parce que ça peut lui coûter cher, tout simplement, rappel de salaire, etc. Mais sanctions, malgré tout, qui s'expliquent assez bien.
+### A. Les mentions obligatoires et la présomption de temps complet
 
-Qui s'expliquent assez bien, parce que, finalement,
+Le contrat à temps partiel est un contrat solennel qui exige impérativement un **écrit** comportant des mentions obligatoires légales ([[Art. L. 3123-6 C. trav.\|Art. L. 3123-6 C. trav.]]).
 
-si, comment dire, déjà, s'il n'y a pas la durée du travail à temps partiel qui est indiquée dans l'écrit, on ne sait pas que c'est à temps partiel, on ne sait pas que le contrat est à temps partiel. Donc c'est logique de présumer le salarié à temps complet. Si on n'a pas indiqué dans le contrat un volume horaire inférieur à la durée standard, on ne peut pas savoir que c'est à temps partiel. Donc la sanction, de ce point de vue-là, s'explique assez bien. Mais c'est pareil pour la répartition de la durée du travail entre les jours de la semaine ou entre les semaines du mois. C'est une mention fondamentale, parce que quel est l'intérêt de cette mention?
+1. **La durée du travail (hebdomadaire ou mensuelle)**
+   * **Sanction de l'omission** : L'absence de mention du volume horaire dans l'écrit entraîne la **présomption simple que le contrat a été conclu à temps complet**.
 
-Ça donne de la prévisibilité aux salariés. Le fait d'indiquer la répartition des heures de travail entre les jours de la semaine ou les semaines du mois, c'est ce qui donne la prévisibilité aux salariés sur l'organisation de son travail. C'est ce qui va lui permettre d'organiser déjà sa vie personnelle. Il sait que tel jour il ne travaille pas, il peut aller à la piscine ou je ne sais pas quoi, et inversement. Donc il peut organiser comme ça sa vie personnelle autour de son travail. et il peut s'organiser aussi éventuellement une autre vie professionnelle. C'est-à-dire que les jours où il ne travaille pas avec l'employeur chez qui il est à temps partiel, eh bien il pourrait travailler chez un autre employeur, à temps partiel éventuellement aussi, évidemment.
+   > **Jurisprudence majeure ([[Cass. soc., 3 juillet 2019\|Cass. soc., 3 juillet 2019]])** :  
+   > L'absence de mention écrite de la durée hebdomadaire ou mensuelle de travail fait présumer que le contrat est conclu à temps complet. Il appartient à l'employeur de rapporter la preuve contraire.
 
-Donc, si vous voulez, la prévisibilité du temps partiel est importante en ce qu'elle permet derrière aux salariés l'organisation de sa vie personnelle, même de sa vie professionnelle, parce que si ces périodes de travail, si les périodes de travail du salarié, au final, sont imprévisibles, eh bien, le salarié, non seulement, ne peut pas aller à la piscine quand il veut, mais surtout, il ne peut pas, par exemple, prendre un autre contrat de travail pour se faire un temps complet avec un autre contrat à temps partiel.
+2. **La répartition de la durée du travail**
+   * L'écrit doit fixer la répartition du temps de travail entre les jours de la semaine ou les semaines du mois.
 
-Parce qu'il ne peut pas prendre d'engagement, il ne peut pas prendre d'engagement auprès d'un autre employeur, notre salarié, et parce qu'il sera de fait, et ça c'est important, il sera de fait en permanence à disposition du premier employeur. Si le salarié ne peut pas prévoir les plages de travail chez l'employeur avec lequel il est lié par un contrat à temps partiel, et bien de fait, en réalité, notre salarié ne sera pas à temps partiel à disposition de son employeur, il sera en permanence à disposition de son employeur, ce qui n'est pas le but du temps partiel, le but c'est d'avoir une certaine prévisibilité encore une fois.
+   > **Jurisprudence majeure ([[Cass. soc., 13 novembre 2002\|Cass. soc., 13 novembre 2002]])** :  
+   > L'absence de mention de la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois fait présumer le contrat à temps complet.
 
-Et c'est pour ça également, pour cette raison d'éviter que le salarié soit en permanence à disposition de son employeur, chez qui il est censé être à temps partiel, C'est pour ça que la Cour de cassation va sanctionner par la requalification en temps complet le contrat à temps partiel lorsque la répartition des heures de travail varie de façon trop importante et de façon imprévisible. La cour de cassation va sanctionner par la présomption de temps complet la situation où, malgré un écrit qui prévoit officiellement un temps partiel, la répartition des heures de travail varie de façon extrêmement importante, de façon extrêmement imprévisible, avec une situation où le salarié est en permanence en train d'attendre que son employeur lui dise quand il travaillera. Donc quand le salarié est tout le temps dans l'expectative de savoir quand il travaillera, quand il ne travaillera pas, et bien la Cour de cassation considère assez logiquement que notre salarié est en permanence à disposition de son employeur à cause de cette variation intempestive, si vous voulez, des heures de travail, et que par conséquent, il est présumé à temps complet.
 
-Et de fait, il est à temps complet. On a par exemple un arrêt du 12 juillet 1999, Chambre sociale 12 juillet 1999, qui va dans ce sens-là, dans des situations où le salarié attend toujours après son employeur qui lui donne les heures auxquelles il travaillera. Un peu dans le même ordre d'idées, la semaine dernière, je vous avais dit que le contrat à temps partiel, à l'écrit, doit indiquer les cas de modification éventuelle de la répartition des heures de travail.
+### B. La prévisibilité du temps de travail et la mise à disposition permanente
 
-Je vous avais expliqué ça. Le contrat doit indiquer les éventuels cas dans lesquels l'employeur peut modifier la répartition des heures de travail. Ce que je vous avais dit aussi, c'est que l'employeur doit indiquer des cas précis. L'employeur doit indiquer des cas précis qui l'autorise à modifier la répartition des heures de travail. En gros, normalement, le salarié travaille le lundi et l'employeur veut le faire travailler le mardi à la place. Il faut indiquer dans le contrat dans quel cas précis l'employeur peut demander au salarié de travailler le mardi plutôt que le lundi. Alors du coup, il faut des cas précis, c'est-à-dire que les cas du style besoin du service, besoin de l'entreprise ou en fonction des circonstances, ce n'est pas assez précis.
+#### 1. La finalité de la prévisibilité
+La fixation de la durée et de la répartition des horaires garantit au salarié :
+* L'organisation de sa **vie personnelle**.
+* La possibilité de cumul d'activités en occupant un **second emploi à temps partiel** chez un autre employeur pour atteindre un équivalent temps plein.
 
-Ce n'est pas assez précis parce que ça laisse un pouvoir discrétionnaire à l'employeur de modifier cette répartition et du coup, ça supprime, comme je vous le disais précédemment, toute prévisibilité pour le salarié en termes d'organisation. En gros, ça veut dire que c'est l'employeur qui décide quand il travaille, selon sa propre volonté. Donc là, on risque, là encore, la présomption de temps complet, avec la problématique d'un salarié qui est tout le temps à disposition de son employeur, si le cas de modification de la répartition des heures de travail est trop imprécis.
+#### 2. La sanction de l'imprévisibilité et des variations intempestives
+Si les horaires du salarié varient de façon constante, imprévisible ou intempestive, le salarié ne peut pas prévoir son rythme de travail et se trouve contraint de se tenir en permanence à la disposition de son employeur.
 
-Donc, il faut que la clause permettant la modification de la répartition des heures de travail soit assez spécifique pour permettre de la prévisibilité au salarié. Par exemple, tes horaires habituels, c'est ça, mais on pourra les changer pendant les vacances scolaires pour faire face aux besoins nouveaux d'organisation. Vacances scolaires, si vous voulez, c'est plus précis. Le salarié sait que ça va arriver et que dans ces cas-là, peut-être, il y aura un peu de modifications possibles, si vous voulez. Donc ça, c'est un peu plus précis. Donc il faut éviter que le salarié n'ait aucune visibilité sur son emploi du temps, pour le résumer.
+> **Jurisprudence majeure ([[Cass. soc., 12 juillet 1999\|Cass. soc., 12 juillet 1999]])** :  
+> Lorsque la répartition des heures de travail varie de manière continuelle et imprévisible, le salarié est placé dans l'impossibilité de prévoir son rythme de travail et doit se tenir en permanence à la disposition de l'employeur. Le contrat est alors **requalifié à temps complet**.
 
-Sinon, pour finir sur ces clauses de modification des heures de travail, de la répartition des heures de travail, le code du travail impose un délai de prévenance d'au moins 7 jours. Le code du travail impose un délai de prévenance d'au moins 7 jours entre la date à laquelle le salarié est informé de la modification et la modification effective de ses heures de travail. Il doit y avoir 7 jours de prévenance en cas d'application de la clause de variation. Sachant que ça, c'est ce que dit le code du travail, mais la convention collective peut prévoir son propre délai. Une convention collective peut prévoir son propre délai de prévenance. Selon le Code du travail, c'est 7 jours, mais il faut tenir compte du délai éventuellement différent prévu par la convention collective.
+#### 3. Les clauses de modification de la répartition des horaires
+* **Exigence de motifs précis** : La clause contractuelle autorisant l'employeur à modifier la répartition des heures de travail doit mentionner la nature exacte des cas de modification (ex. " remplacement pendant les vacances scolaires ").
+* **Prohibition des clauses floues** : Les formules vagues (ex. " selon les besoins du service " ou " en fonction des circonstances ") sont illicites car elles confèrent un pouvoir discrétionnaire à l'employeur et suppriment toute prévisibilité.
 
-Sur ce délai de prévenance, je vous renvoie aux articles L3123-11 et L3123-31.
+#### 4. Le délai de prévenance légal (**[[Art. L. 3123-11\|Art. L. 3123-11]] et [[L. 3123-31 C. trav.\|L. 3123-31 C. trav.]]**)
+* **Délai de droit commun** : Toute modification de la répartition des horaires doit être notifiée au salarié au moins **7 jours ouvrés** avant sa prise d'effet.
+* **Dérogation conventionnelle** : Une convention ou un accord collectif de branche étendu peut prévoir un délai de prévenance différent.
 
-Donc l'idée, c'est d'éviter que le salarié soit en permanence à disposition de son employeur, si on résume, et il faut que ce soit respecté dans les faits. Alors, autre point important à mentionner, je vais passer un peu moins de temps, c'est la question de la durée du temps partiel. la durée du temps partiel. Comme je vous l'ai dit la semaine dernière,
 
-le salarié à temps partiel est considéré comme précaire. Et donc, on essaie de le protéger par les règles qu'on vient de voir notamment. Mais surtout, le but du législateur, depuis quelques années, c'est de garantir un minimum d'activité aux salariés à temps partiel. Donc pour l'affaire simple, le contrat à temps partiel doit prévoir une durée minimale de travail pour le salarié, pour lui éviter soi-disant la précarité. C'est très discutable, mais c'est comme ça.
+### C. La durée minimale légale du temps partiel (Plancher des 24 heures)
 
-Alors pour l'affaire courte, l'idée c'est qu'un contrat à temps partiel doit avoir une durée d'au moins 24 heures par semaine. La durée minimum pour un contrat à temps partiel, maintenant, c'est 24 heures par semaine, ce qui est interdit a priori, mais j'y reviendrai le mi-temps, par exemple, puisque le mi-temps, c'est moins de 24 heures par semaine. Le Code du travail impose 24 heures par semaine au minimum, mais une convention collective de branches étendues peut prévoir une durée minimum différente. Donc le code du travail dit 24 heures au minimum par semaine. La convention collective de branches étendues peut prévoir une autre durée minimum au temps partiel. Donc je vous donne les textes de référence.
+Afin de lutter contre le sous-emploi et la précarité des salariés, le législateur a instauré une durée minimale légale de travail.
 
-L3123-7, L3123-19 et L3123-27.
+#### 1. Le principe du plancher légal (**[[Art. L. 3123-7 C. trav.\|Art. L. 3123-7 C. trav.]]**)
+* **Durée minimale légale** : La durée minimale d'un contrat à temps partiel est fixée à **24 heures par semaine** (ou l'équivalent mensuel).
+* **Dérogation conventionnelle** (**[[Art. L. 3123-19\|Art. L. 3123-19]] et [[L. 3123-27 C. trav.\|L. 3123-27 C. trav.]]**) : Une convention collective de branche étendue peut fixer une durée minimale inférieure ou supérieure.
 
-L3123-27. Donc ça c'est le principe, au moins 24 heures par semaine. Maintenant, cette durée minimale, cette exigence de durée minimale, ne s'applique pas dans certains cas. D'abord, la durée de 24 heures minimum, ou celle prévue par la convention collective, elle est écartée lorsque le contrat à temps partiel est en même temps un CDD de 7 jours maximum.
+#### 2. Les exceptions légales au plancher des 24 heures
+L'exigence des 24 heures minimales ne s'applique pas dans quatre cas prévus par la loi :
 
-Donc ça c'est la première chose, si on a un CDD de 7 jours maximum, eh bien on peut faire un temps partiel de moins de 24 heures par semaine, c'est logique parce que de toute façon, a priori, vous avez au maximum 7 jours, donc peut-être que ça ne fera pas assez de temps pour faire les 24 heures. Pour les CDD jusqu'à 7 jours, le minimum de 24 heures n'est pas obligatoire. Même chose lorsqu'on a affaire à un CDD ou une mission d'intérim de remplacement d'un salarié absent. Lorsqu'il s'agit d'un CDD, non seulement c'est un temps partiel, mais en plus c'est un CDD ou un contrat d'intérim de remplacement d'un salarié absent, le minimum de 24 heures, là encore, ne s'applique pas.
+| Cas de dérogation légale                                                   | Conditions d'application                                                                                   |
+| :------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| **CDD de très courte durée**                                               | Contrats à durée déterminée d'une durée maximale de **7 jours**.                                           |
+| **CDD / Intérim de remplacement**                                          | Contrats conclus pour remplacer un salarié absent.                                                         |
+| **Demande écrite et motivée du salarié** (**[[Art. L. 3123-7 C. trav.\|Art. L. 3123-7 C. trav.]]**) | Permet au salarié de faire face à des contraintes personnelles ou de cumuler plusieurs emplois.            |
+| **Étudiants de moins de 26 ans**                                           | Salariés de moins de 26 ans poursuivant leurs études (compatibilité avec l'emploi du temps universitaire). |
 
-Donc premier cas d'exception au minimum de 24 heures par semaine, en gros le CDD dans certains cas. Sinon, heureusement, le salarié lui-même peut demander à travailler moins de 24 heures par semaine. Heureusement que le salarié a son mot à dire, donc le salarié peut demander à effectuer moins de 24 heures ou du minimum prévu par la convention collective par semaine. Mais pour ça, il faut qu'il fasse une demande écrite et motivée à son employeur, parce qu'apparemment le simple fait de demander, de vouloir travailler moins de 24 heures ne suffit pas, il faut qu'il justifie sa demande auprès de son employeur.
 
-Et vous avez l'article L3123-7 qui prévoit cette possibilité pour le salarié qui veut faire face à des contraintes personnelles ou occuper un autre emploi à temps partiel pour arriver à un temps complet. Donc ce que nous dit le code du travail, c'est que le salarié peut demander à faire moins de 24 heures par semaine, dans l'objectif de faire face à des contraintes personnelles, ou dans l'objectif d'occuper un autre emploi à temps partiel, dans l'idée de se faire un emploi à temps complet, en cumulant les deux si vous voulez.
 
-Après, on se demande ce que c'est que les contraintes personnelles, ça peut être tout et n'importe quoi, Je pense que ça pourrait même avoir un stage de piscine ou je ne sais pas quoi, pour être tout à fait clair, il n'y a pas de raison de refuser le temps partiel à moins de 24 heures aux salariés qui le demandent fondamentalement.
+# Chapitre 3 : Le recrutement du salarié
 
-Ça n'a pas grand sens tout ça, mais c'est comme ça. Autre cas que vous connaissez peut-être pour certains d'entre vous, c'est que peuvent également demander à faire moins de 24 heures par semaine les salariés de moins de 26 ans qui poursuivent des études. Les étudiants de moins de 26 ans peuvent demander à avoir un temps partiel de moins de 24 heures pour que ce soit compatible avec leurs études, pour leur permettre de suivre leurs études dans de meilleures conditions. Donc ce qu'on appelle en pratique les contrats étudiants, mais en réalité ce n'est pas un contrat spécifique, le contrat étudiant si vous voulez. Donc tout étudiant de moins de 26 ans peut justifier sa demande de travailler de moins de 24 heures simplement par la poursuite d'études, ce qui est assez logique encore une fois, et assez bienvenu. Donc voilà grosso modo sur le temps partiel ce que je voulais vous en dire. là-dessus.
 
-Après le temps partiel, de quoi va-t-on parler? On a vu un peu les contrats un peu spécifiques, et donc on va traiter un peu les problématiques dans l'ordre, et dans un chapitre 3, nous allons nous intéresser au recrutement du salarié. Comment ça se passe, le recrutement du salarié, quelles sont les différentes étapes du recrutement, Quels sont les principes applicables à ce moment-là?
+## Section 1 : Le choix du salarié
 
-Et de quelle manière va commencer la relation de travail entre l'employeur et le salarié? Alors la première question, section 1 si vous voulez, c'est la question du choix du salarié. Je vais essayer de passer assez vite sur cette problématique-là, sinon on n'aura pas le temps de voir des choses un peu plus techniques, peut-être un peu plus importantes. Donc section 1, le choix du salarié. Comment est-ce qu'on choisit, quand on est employeur, un nouveau salarié? Alors fondamentalement, je pense que vous connaissez tous plus ou moins le processus.
+Le processus de sélection des candidats s'amorce par la diffusion d'offres d'emploi. La liberté de recrutement de l'employeur est encadrée par des règles d'ordre public destinées à garantir la transparence et l'égalité d'accès à l'emploi.
+### A. La rédaction et la diffusion des offres d'emploi
 
-Dans un processus de recrutement, il y a toujours plus ou moins les mêmes étapes. Donc en gros, pour faire simple, caricaturer, vous allez avoir un employeur qui va publier une offre d'emploi, d'une manière ou d'une autre, une offre d'emploi qui va être faite. Ensuite, l'employeur va recevoir des candidatures, avec notamment des CV. Il va y avoir des entretiens d'embauche, pourquoi pas?
+1. **Obligation de rédaction en français** (**[[Art. L. 5331-4 C. trav.\|Art. L. 5331-4 C. trav.]]**)
+   * Toute offre d'emploi diffusée en France doit obligatoirement être rédigée en langue française.
 
-Et à l'issue du processus de sélection, l'employeur va choisir le ou les candidats qu'il retient. C'est tout à fait classique de ce point de vue-là. Et il existe un certain nombre de règles, je vais les mentionner plus que les développer. mais il existe un certain nombre de règles pour encadrer tout ça, pour limiter aussi les abus que pourraient commettre les employeurs. Alors commençons par le début et sur les offres d'emploi. L'offre d'emploi n'est pas toujours utilisée, parfois les offres d'emploi circulent par canaux très informels, de bouche à oreille, de façon assez confidentielle.
+1. **Interdiction des critères discriminatoires** (**[[Art. L. 5331-2 C. trav.\|Art. L. 5331-2 C. trav.]]**)
+   * Il est strictement interdit d'insérer dans une annonce des critères de sélection fondés sur l'âge, le sexe, la situation de famille, l'origine, la religion, le handicap ou l'état de santé.
+   * **Interdiction des limites d'âge** : Sauf si la loi ou le règlement impose un âge maximal (ex. réglementation de l'aviation civile pour les pilotes).
+   * **Interdiction de cibler le sexe** : Sauf dérogation légale expresse (**[[Art. R. 1142-1 C. trav.\|Art. R. 1142-1 C. trav.]]** pour les comédiens, artistes, mannequins et modèles).
 
-mais on peut aussi avoir des offres d'emploi à l'ancienne qui sont publiées par petites annonces dans des journaux, qui sont publiées sur Internet aussi évidemment beaucoup maintenant. Et quand on recourt à ces offres d'emploi, à ces petites annonces si vous voulez, il y a un certain nombre de principes à respecter.
-
-Mais sur le respect des principes, c'est un peu aléatoire, on ne va pas se mentir non plus, vous allez assez vite vous en rendre compte, Surtout lorsque les offres d'emploi sont publiées sur Internet, on ne va pas se mentir. Premier principe par exemple, le Code du travail impose que les offres d'emploi soient rédigées en français. Là, je vous renvoie à l'article L5331-4.
-
-Les offres d'emploi doivent être rédigées en français. Quand c'est Google qui le fait, même pour un poste à Paris, Google a tendance à s'asseoir un peu là-dessus. On ne va pas se mentir non plus là-dessus. Bref, vous avez compris l'idée.
-
-Autre évidence, l'offre d'emploi ne doit pas contenir de critères discriminatoires, vous en doutez. Donc une annonce qui précise qu'elle ne cherche à recruter que des grands blonds aux yeux bleus, surtout pas des juifs, des noirs ou des arabes ou des handicapés, vous avez compris l'idée, ça passe pas. Ce serait une annonce discriminatoire, donc aucune annonce ne doit contenir de critères discriminatoires, de critères illicites. Vous vous en doutez, mais on aura l'occasion de reparler de la discrimination à l'occasion.
-
-Donc, pas de discrimination illicite, évidemment, dans les offres d'emploi.
-
-ça implique aussi, du côté un peu pho-chlorique que j'ai mentionné en général les employeurs font attention mais par exemple une offre d'emploi ne doit pas contenir d'âge limite pour lutter contre la discrimination liée à l'âge, et bien l'offre d'emploi ne doit pas comporter d'âge limite de l'exiger des candidats, sauf s'il y a des contraintes légales ou réglementaires Ça, c'est ce que vous dit l'article L5331-2.
-
-L'annonce peut poser une limite d'âge lorsque ça lui est imposé par la loi. Je dis n'importe quoi, vous cherchez à recruter un pilote de ligne, je ne connais pas le détail de la réglementation sur l'aviation civile, mais mettons qu'il y a un âge maximum pour être pilote de ligne, vous pouvez mettre cette limite d'âge dans l'annonce, c'est logique. Donc si la loi impose une limite d'âge, ce n'est plus de la discrimination pour le dire autrement. Même chose pour la situation familiale ou le sexe du candidat. Au nom de l'interdiction des discriminations, l'annonce, l'offre d'emploi ne doit pas contenir d'exigences liées à la situation de famille, liées au sexe du candidat.
-
-Donc recherche célibataire seulement, recherche homme ou recherche femme seulement, tout ça c'est considéré comme discriminatoire. C'est une discrimination fondée sur la situation de famille, une discrimination fondée sur le sexe, donc on n'a pas le droit de faire ça. En principe, on n'a pas le droit de faire ça, vous savez plutôt ce qu'il en est en pratique, évidemment.
-
-Sachant que dans certains cas, le code du travail lui-même autorise à sélectionner le sexe des candidats, à rechercher plutôt un homme ou plutôt une femme. Je vous renvoie à l'article R1142-1 du code du travail, qui permet de cibler la recherche d'un homme ou d'une femme pour les acteurs ou les mannequins, grosso modo. Quand vous recherchez un acteur ou une actrice, un mannequin ou une mannequine, vous pouvez choisir si vous préférez un homme ou une femme. Vous recherchez un acteur pour incarner un super-héros plein de muscles et plein de testostérone, vous allez plutôt dire que vous cherchez un homme pour incarner le rôle, plutôt qu'une femme, que vous allez après gonfler à l'hélium, si vous voulez.
-
-Et inversement, si vous cherchez un rôle extrêmement féminin pour incarner une héroïne très féminine, vous allez plutôt chercher un profil du type Sydney Sweeney pour reparler d'elle que Henry Cavill ou quelqu'un comme ça. Donc, voyez l'idée, c'est relativement logique, mais ça reste assez spécifique. Sinon, on peut aussi parler de l'article L5331-3, qui nous dit en substance que l'offre d'emploi ne doit pas être mensongère ou trompeuse vis-à-vis des candidats. L'offre d'emploi ne doit pas être mensongère ou trompeuse à l'égard des candidats.
-
-Donc en gros, on ne doit pas leur vendre un emploi qui n'existe pas. On ne doit pas les pousser à candidater à un emploi qui n'existe en réalité pas. Donc on ne doit pas leur mentir sur le type d'emploi, sur les perspectives d'évolution, sur les conditions de travail éventuelles, etc. Ou même sur l'existence du poste qui est proposé. C'est-à-dire qu'il y a des employeurs qui se font une pratique illicite de publier des annonces pour des postes qui ne sont pas disponibles, simplement dans le but d'obtenir des candidatures et donc des CV pour quand il en aura besoin. Ça, c'est un mensonge.
-
-Publier une annonce concernant un poste qui n'est pas disponible, juste pour obtenir des CV, c'est mentir sur la disponibilité de l'emploi, c'est interdit. De la même manière que vous ne pouvez pas mentir sur les conditions de travail. Par exemple, vous dites poste au grand air, proche de la nature et des gens, pour salariés qui aiment les activités d'extérieur, pour ramasser les poubelles, c'est un peu se foutre de la gueule du monde. Donc ce genre de choses est à prohiber également. Et ainsi de suite.
-
-Je ne vais pas trop développer ce point-là, mais je pense que fondamentalement, vous avez compris l'idée générale. Donc, voilà pour ce premier point. euh…
+1. **Prohibition des annonces mensongères ou trompeuses** (**[[Art. L. 5331-3 C. trav.\|Art. L. 5331-3 C. trav.]]**)
+   * L'offre d'emploi ne doit pas comporter d'indications fausses ou de nature à induire le candidat en erreur sur la réalité de l'emploi proposé, la disponibilité du poste, le type de contrat, la rémunération ou le lieu de travail.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/partie-preliminaire-les-conditions-communes-de-la-responsabilite/","tags":["AP/S2/resp","CM","droit","AP/S2"],"ctime":"2026-01-16T01:19:47.000+01:00","mtime":"2026-10-13T17:34:02.840+02:00","dg-note-properties":{"tags":["AP/S2/resp","CM","droit","AP/S2"],"class":"[[References/Administratif]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-16, 1 19","date modified":"2026-09-21, 23 12","sector":"[[References/AES]]"}}
+{"dg-publish":true,"permalink":"/partie-preliminaire-les-conditions-communes-de-la-responsabilite/","tags":["AP/S2/resp","CM","droit","AP/S2"],"ctime":"2026-01-16T01:19:47.000+01:00","mtime":"2026-10-13T17:34:02.840+02:00","dg-note-properties":{"tags":["AP/S2/resp","CM","droit","AP/S2"],"class":"[[References/Administratif]]","semester":"[[References/S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-16, 1 19","date modified":"2026-09-21, 23 12","sector":"[[References/AES]]"}}
 ---
 
 

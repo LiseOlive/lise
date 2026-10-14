@@ -1,104 +1,114 @@
 ---
-{"dg-publish":true,"permalink":"/periode-d-essai-renouvelable/","ctime":"2026-10-08T23:32:22.125+02:00","mtime":"2026-10-13T17:33:55.252+02:00","dg-note-properties":{"date created":"2026-10-08, 23 32","date modified":"2026-10-09, 13 46","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]","tags":[],"Title":"Période d'essai renouvelable","Recorded At":"2026-10-08T22:40:20"}}
+{"dg-publish":true,"permalink":"/periode-d-essai-renouvelable/","ctime":"2026-10-13T23:45:42.015+02:00","mtime":"2026-10-14T02:12:49.585+02:00","dg-note-properties":{"date created":"2026-10-13, 23 45","date modified":"2026-10-14, 2 12","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/5]]"}}
 ---
 
 
 # Période d'essai renouvelable
 
-Alors maintenant, un point sur lequel on va passer un peu plus de temps dans le cadre de la question du recrutement d'un nouveau salarié, c'est section 3, la question de la période d'essai. Donc section 3, la période d'essai, très utile, très pratique, très pratiquée également à l'occasion d'un nouveau contrat de travail. Alors la période d'essai, on va développer un peu tout ça, c'est assez technique. Donc commençons, paragraphe 1, par l'existence de la période d'essai, c'est assez général, il y a pas mal de choses à dire là-dessus.
 
-Donc paragraphe 1, l'existence, la question de l'existence de la période d'essai,
+# Section 3 : La période d'essai
 
-et commencer, grand A, par quelques généralités sur la période d'essai, pour voir de quoi on parle tout bêtement. Donc grand A, quelques généralités, principes généraux si vous voulez, sur la période d'essai. D'abord, définition de la période d'essai. La période d'essai vous est définie par l'article L1221-20 du Code du Travail, donc L1221-20 qui définit la période d'essai.
+La période d'essai constitue la phase probatoire située au début de l'exécution du contrat de travail. Très pratiquée en droit du travail, elle offre une flexibilité de rupture aux deux parties tout en demeurant strictement encadrée par le législateur et la jurisprudence.
 
-Je vous cite le LMI 221-20. La période d'essai permet à l'employeur d'évaluer les compétences du salarié dans son travail,
+## Paragraphe 1 : L'existence de la période d'essai
 
-notamment au regard de son expérience. La période d'essai permet à l'employeur d'évaluer les compétences du salarié dans son travail, notamment au regard de son expérience, mais ce n'est pas fini. et elle permet également aux salariés d'apprécier si les fonctions occupées lui conviennent. La période d'essai permet également aux salariés d'apprécier si les fonctions occupées lui conviennent. Donc ça, il faut bien l'avoir en tête. La période d'essai permet à l'employeur d'évaluer les compétences du salarié dans son travail, notamment au regard de son expérience, et aux salariés d'apprécier si les fonctions occupées lui conviennent. Alors, on reviendra sur tout ça au fur et à mesure.
+### A. Généralités et principes généraux
 
-L'intérêt majeur, surtout, il faut le mentionner tout de suite, de la période d'essai, c'est que pendant la période d'essai, pendant cette période, chaque partie, l'employeur comme le salarié, peut mettre fin facilement au contrat de travail si elle considère que l'essai n'est pas concluant. C'est tout l'intérêt de la période d'essai, c'est que pendant cette période, l'employeur comme le salarié peut mettre fin, peut rompre facilement le contrat de travail dès lors qu'elle estime que l'essai n'est pas concluant.
+#### 1. Définition légale
+La période d'essai est définie à l'article **[[L. 1221-20 du Code du travail\|L. 1221-20 du Code du travail]]**.
 
-Ce que je veux dire, c'est que surtout côté employeur, il n'y a pas à respecter les règles habituelles de rupture du contrat. En particulier, l'employeur n'a pas à respecter les règles du licenciement. Lorsque l'employeur rompt le contrat en invoquant la période d'essai, il n'a pas à respecter les règles du licenciement, ce qui est vachement plus simple pour lui. Et pareil pour le salarié qui n'a pas à respecter les règles de la démission. Les règles de la démission, si on attend de le voir, on verrait que ce n'est pas très contraignant. Mais pour l'employeur, c'est très avantageux.
+> **[[L. 1221-20 du Code du travail\|L. 1221-20 du Code du travail]]** :  
+> *" La période d'essai permet à l'employeur d'évaluer les compétences du salarié dans son travail, notamment au regard de son expérience, et au salarié d'apprécier si les fonctions occupées lui conviennent. "*
 
-il n'a pas à respecter les règles du licenciement lorsqu'il rend la période d'essai. Donc c'est ça. Alors attention aussi, un point important, c'est que quand la période d'essai est en cours, c'est bien le contrat de travail qui est en cours, qu'on soit bien d'accord. La période d'essai, ce n'est pas une phase préalable au contrat de travail. Il n'y a pas la période d'essai, puis ensuite le contrat de travail. C'est le contrat de travail qui démarre tout de suite, Et au début du contrat de travail, vous avez une période d'essai.
+#### 2. Intérêt majeur : La souplesse de rupture
+* **Pour l'employeur** : Permet de rompre le contrat sans avoir à respecter le droit du licenciement (pas de convocation à un entretien préalable, pas de motivation obligatoire, pas d'indemnité de licenciement).
+* **Pour le salarié** : Permet de quitter l'entreprise sans subir les contraintes de la démission classique.
 
-Pendant la période d'essai, pour le dire autrement, le salarié est déjà soumis au contrat de travail. Pour le dire encore autrement, puisque la Cour de cassation a eu l'occasion de le faire, la période d'essai, ce n'est pas un test d'aptitude préalable au statut de salarié. Vous avez par exemple un arrêt du 4 janvier 2000, Un arrêt du 4 janvier 2000, où la cour de cassation distingue bien la période d'essai du test professionnel. C'est-à-dire que si vous êtes dans une phase où vous êtes juste en train d'évaluer les compétences du salarié, si vous n'êtes pas dans des conditions normales d'emploi, vous n'êtes pas en contrat de travail, vous n'êtes pas en période d'essai, vous êtes simplement en phase de test.
+#### 3. Nature juridique : Contrat de travail en cours vs Test professionnel
+La période d'essai s'inscrit pleinement dans le cadre du contrat de travail : le contrat est déjà formé et en cours d'exécution dès le premier jour. Elle se distingue nettement du test professionnel préalable.
 
-dans l'arrêt du 4 janvier 2000, c'était un chauffeur de bus à qui on faisait passer un test de conduite d'un bus sans passager. Donc là, l'employeur a juste testé les aptitudes professionnelles du chauffeur de bus en lui faisant conduire un bus sans passager pendant quelques heures. Ce n'était pas le contrat de travail, c'était juste un test professionnel. Donc le chauffeur de bus n'était même pas encore en période d'essai, si vous voulez. Il faut bien distinguer le test préalable de la période d'essai proprement dite. La période d'essai proprement dite, c'est également le contrat de travail proprement dit. Autre question importante sur la période d'essai, grand B, c'est la stipulation de la période d'essai.
+> **Jurisprudence majeure ([[Cass. soc., 4 janvier 2000\|Cass. soc., 4 janvier 2000]])** :  
+> La Cour de cassation distingue la période d'essai du simple **test professionnel**. Un essai suppose l'exécution de la prestation dans les conditions normales d'emploi. Un test préalable d'aptitude (ex. faire conduire à un chauffeur un bus sans passager durant quelques heures) n'est pas un contrat de travail et ne constitue pas une période d'essai.
 
-Dans la stipulation de la période d'essai, grand B, qu'est-ce que je veux dire par là? Je veux dire que la période d'essai doit être expressément stipulée. c'est depuis une loi de 2008, une loi du 25 juin 2008, ça commence à dater pas mal, on ne va pas se mentir. Je vous cite l'article L1221-23, qui nous dit que la période d'essai et la possibilité de la renouveler ne se présument pas. Elles, la période d'essai et la possibilité de la renouveler, elles au pluriel, elles sont expressément stipulées dans la lettre d'engagement ou le contrat de travail.
 
-La période d'essai et la possibilité de renouvellement ne se présument pas, elles doivent être expressément stipulées dans la lettre d'engagement ou le contrat de travail. Qu'est-ce que ça veut dire? Ça veut dire d'abord qu'il faut un accord des parties à la mise en place de la période d'essai. L'existence de la période d'essai, qui va profiter aux deux parties au passage, employeur comme salarié, l'existence de la période d'essai doit résulter d'un accord des parties. Il n'est pas question qu'une partie impose la période d'essai à l'insu de l'autre. Il faut un consentement des deux parties, employeur comme salarié, à l'existence de la période d'essai.
+### B. La stipulation de la période d'essai
 
-Cela veut dire aussi que cela va permettre de vérifier que la période d'essai a été mise en place dès le début de la relation de travail et pas après. On aura l'occasion d'en reparler. La période d'essai doit être mise en place au début de la relation de travail et pas quelques semaines, quelques mois plus tard. ça doit être fait dès le début, donc cette exigence de stipulation express de la période d'essai dans le contrat de travail ou la lettre d'engagement permet de vérifier que la période d'essai a été mise en place dès le début de la relation de travail et pas ensuite. Ensuite, pour être tout à fait clair, on doit avoir donc une période d'essai et la possibilité de renouvellement dont on reparlera, il doit y avoir une stipulation express de la période d'essai dans le contrat de travail ou la lettre d'engagement.
+#### 1. L'exigence d'une stipulation expresse (**[[Art. L. 1221-23 C. trav.\|Art. L. 1221-23 C. trav.]]**)
+Issu de la loi du 25 juin 2008, l'article **[[Art. L. 1221-23 C. trav.\|Art. L. 1221-23 C. trav.]]** pose une règle stricte d'ordre public.
 
-Et autrement dit, s'il n'y a pas de mention, s'il n'y a pas de mention de la période d'essai, de mention express de la période d'essai dans le contrat de travail, eh bien, il n'y a pas du tout de période d'essai. Aucune des parties, ni l'employeur, ni le salarié, ne peuvent invoquer une période d'essai qui n'est pas expressément stipulée dans le contrat de travail pour rompre plus facilement ce contrat de travail.
+> **[[Art. L. 1221-23 C. trav.\|Art. L. 1221-23 C. trav.]]** :  
+> *" La période d'essai et la possibilité de la renouveler ne se présument pas. Elles sont expressément stipulées dans la lettre d'engagement ou le contrat de travail. "*
 
-Et donc, s'il n'y a pas de période d'essai expressément stipulée, pour rompre le contrat, il faut respecter les règles habituelles, il faut faire une démission ou il faut faire un licenciement. L'absence de période d'essai, même au bout de deux semaines de contrat, il faudra licencier, il faudra démissionner. Donc, depuis la loi de 2008, c'est très clair, la période d'essai doit être expressément stipulée dans le contrat de travail ou au moins mentionnée dans la lettre d'engagement. Et ça, c'est très important.
+* **Consentement mutuel** : La période d'essai exige l'accord exprès des deux parties dès la conclusion du contrat.
+* **Absence de mention** : En l'absence de clause expresse écrite dans le contrat de travail ou la lettre d'engagement, le salarié est engagé définitivement sans période d'essai. Toute rupture ultérieure devra respecter la procédure de licenciement ou de démission.
 
-C'est très important parce que ça remet en cause beaucoup de solutions de la Cour de cassation antérieures à la loi de 2008, parce que pour la faire courte, avant la loi de 2008, la Cour de cassation retenait l'existence d'une période d'essai qui était prévue par la convention collective applicable dans l'entreprise. La Cour de cassation, avant la loi de 2008, avant cette exigence de stipulation express de la période d'essai, la Cour de cassation admettait de donner effet à une période d'essai qui n'était prévue que par la convention collective et pas reprise dans le contrat de travail. Aujourd'hui, c'est plus possible. Depuis la loi de 2008, c'est plus possible. C'est-à-dire que même si la convention collective met en place une période d'essai, ce n'est pas suffisant pour considérer que le salarié est soumis à une période d'essai.
+#### 2. Insuffisance de la seule convention collective
+* **Rupture avec la jurisprudence antérieure à 2008** : Avant la loi de 2008, la Cour de cassation admettait qu'une période d'essai prévue par la convention collective s'imposait au salarié si celui-ci en avait été informé.
+* **Droit positif** : Désormais, la mention d'une période d'essai dans la convention collective applicable ne suffit pas. Elle doit être **obligatoirement reprise et stipulée expressément** dans le contrat de travail ou la lettre d'engagement.
 
-même si la convention collective applicable dans l'entreprise prévoit une période d'essai, ça ne suffit pas à rendre cette période d'essai applicable aux salariés. Qu'est-ce qu'il faudrait faire?
 
-En admettant qu'on ait une période d'essai prévue par la convention collective, il faudrait reprendre cette période d'essai dans le contrat de travail ou dans la lettre d'engagement. C'est-à-dire qu'on va dire dans le contrat ou la lettre d'engagement le salarié est soumis à une période d'essai de X temps, telle qu'elle résulte de la convention collective numéro temps de telle date, etc. Mais il faut que cette période d'essai soit expressément mentionnée au niveau du contrat de travail. Le fait qu'elle soit mentionnée dans la convention collective, encore une fois, ne suffit pas.
+### C. Le moment de la période d'essai
 
-Il faut être très très vigilant là-dessus. Autre point important, j'y fais allusion tout à l'heure, grand C, c'est le moment de la période d'essai, le moment où doit se dérouler la période d'essai. Alors là c'est assez simple, en tout cas dans les grandes lignes, il faut prendre en compte la finalité de la période d'essai. La finalité de la période d'essai pour l'employeur c'est de vérifier les compétences de son salarié, l'aptitude de son salarié. Pour le salarié la finalité de la période d'essai c'est de vérifier si le poste lui convient. Donc assez logiquement, pour ces raisons-là, compte tenu de la finalité de la période d'essai, encore une fois, logiquement, la période d'essai doit intervenir, doit se dérouler au début de la relation de travail, dès le début de la relation de travail.
+#### 1. Fixation dès le début de la relation de travail
+En raison de sa finalité évaluative, la période d'essai doit se dérouler **intégralement dès le début** de la relation de travail.
+* **Interdiction de stipulation tardive** : Il est impossible d'introduire une période d'essai après le début d'exécution du contrat (ex. après 15 jours ou 1 mois de travail).
+* **Interdiction de période d'essai différée** : Une clause prévoyant que la période d'essai débutera un mois après la prise de poste est nulle.
 
-Autrement dit, on ne peut pas mettre en place une période d'essai alors que la relation de travail a déjà commencé. Vous avez un salarié qui travaille depuis 15 jours, un mois dans l'entreprise, on ne peut pas, au bout de 15 jours, un mois, décider d'introduire une période d'essai dans le contrat de travail. C'est trop tard, il fallait y penser avant. La période d'essai ne peut être stipulée, ne peut être mise en place que dès le début. De la même manière, vous ne pouvez pas dans le contrat de travail dire que le salarié sera en période d'essai à partir du mois prochain, avec un salarié qui travaille pendant un mois sans période d'essai, qui au bout d'un mois se retrouve en période d'essai pour un mois, etc. Là encore, ça n'aurait aucun sens.
+#### 2. Interdiction en cas de réembauche sur un même poste
 
-La période d'essai doit se dérouler intégralement dès le début de la relation de travail, c'est parfaitement logique. Et c'est pour cette raison, et c'est pour cette raison d'ailleurs, que la période d'essai ne se justifie pas en cas de réembauche d'un même salarié sur le même poste. Vous allez comprendre. Donc, selon la jurisprudence, de façon assez logique, une période d'essai ne se justifie pas lorsque le salarié est réembauché sur un poste qu'il a déjà précédemment occupé auprès du même employeur, évidemment. Donc en cas de réembauche d'un salarié par un même employeur sur un poste déjà occupé précédemment, la période d'essai est interdite.
+> **Jurisprudence majeure ([[Cass. soc., 28 septembre 2005\|Cass. soc., 28 septembre 2005]])** :  
+> La période d'essai ne se justifie pas lorsque le salarié est réembauché par le même employeur sur des fonctions identiques qu'il a déjà occupées précédemment. L'employeur ayant déjà été en mesure d'apprécier les capacités professionnelles du salarié (ex. chef de cuisine réembauché 2 ans plus tard dans le même établissement), la stipulation d'une nouvelle période d'essai est illicite.
 
-Un exemple avec un arrêt du 28 septembre 2005, cours de cassation 28 septembre 2005, chambre sociale, où on avait un salarié qui était chef de cuisine. Et ce chef de cuisine avait travaillé pour un employeur, pour un restaurant, entre 1996 et 1999.
 
-En 1999, le chef de cuisine part vers de nouvelles aventures, il va voir quelqu'un d'autre, et en 2001, il revient chez son précédent employeur. En 2001, il revient dans le restaurant où il avait déjà travaillé. Ce que nous dit la Cour de cassation, c'est qu'en 2001, on ne peut pas soumettre notre salarié à une nouvelle période d'essai, parce qu'en fait, le salarié a déjà fait ses preuves. Le salarié en 2001 n'a pas besoin d'être soumis à un nouvel essai, puisque entre 1996 et 1999, ce qui n'est plus pas très vieux à l'époque, l'employeur a déjà pu apprécier les qualités de son salarié, ce qui est assez logique.
 
-Donc si vous voulez, lors d'une première embauche, on peut soumettre le salarié à une période d'essai, c'est logique, c'est la finalité de la période d'essai, mais en cas de nouvelle embauche du même salarié sur le même poste chez le nouvel employeur, logiquement, la période d'essai ne se justifie absolument plus. Donc voilà également sur ce point concernant le moment de la période d'essai. Alors, concernant la période d'essai, il y a évidemment une autre question qui est très importante, qu'on va voir dans un paragraphe 2, c'est la durée de la période d'essai.
+## Paragraphe 2 : La durée de la période d'essai
 
-Paragraphe 2, la durée de la période d'essai. Alors, la durée de la période d'essai, la question est simple, combien de temps peut durer une période d'essai? Alors, vous avez une durée maximale. Donc on va voir grand A, la durée maximale de la période d'essai. Cette durée maximale est réglementée depuis la loi de 2008, dont je vous parlais tout à l'heure. Avant, il n'y avait pas de durée maximale prévue par les textes.
+### A. La durée maximale de la période d'essai
 
-Donc une durée maximale qui est prévue par l'article L1221-19,
+#### 1. Durées maximales initiales en CDI (**[[Art. L. 1221-19 C. trav.\|Art. L. 1221-19 C. trav.]]**)
+La loi du 25 juin 2008 encadre la durée maximale de la période d'essai initiale selon la qualification professionnelle du salarié :
 
-qui prévoit une durée maximale à la période d'essai, et cette durée maximale dépend de la qualification professionnelle du salarié. Donc on a une durée maximale et cette durée maximale est dépendante de la qualification professionnelle du salarié, vous allez comprendre. Donc pour les ouvriers et les employés, la période d'essai maximale initiale est de deux mois. Donc deux mois maximum de période d'essai initiale pour les ouvriers et les employés. Pour les agents de maîtrise et les techniciens, on passe à 3 mois. Pour les agents de maîtrise et les techniciens, la période d'essai maximale initiale est de 3 mois.
+> **[[Art. L. 1221-19 C. trav.\|Art. L. 1221-19 C. trav.]]** :  
+> * **Ouvriers et employés** : **2 mois** maximum.  
+> * **Agents de maîtrise et techniciens** : **3 mois** maximum.  
+> * **Cadres** : **4 mois** maximum.
 
-Et pour les cadres, on passe à 4 mois de période d'essai initiale. 4 mois pour les cadres de période d'essai initiale. Je pense que vous avez compris l'idée. Maintenant, il faut tenir compte d'un éventuel renouvellement. On en parlera du renouvellement. Concernant le renouvellement, vous avez l'article L1221-21,
+#### 2. Durées maximales renouvellement compris (**[[Art. L. 1221-21 C. trav.\|Art. L. 1221-21 C. trav.]]**)
+En cas de renouvellement, la durée totale de la période d'essai (période initiale + renouvellement) ne peut excéder des plafonds légaux stricts :
 
-qui fixe la durée totale de la période d'essai, la durée maximale totale de la période d'essai en cas de renouvellement. Donc, renouvellement compris, lorsque le renouvellement est possible, évidemment, quelle est la durée maximale totale de la période d'essai? Eh bien, c'est un peu la même chose, le mécanisme est le même, ça dépend toujours de la qualification professionnelle.
+* **Ouvriers et employés** : **4 mois** maximum.
+* **Agents de maîtrise et techniciens** : **6 mois** maximum.
+* **Cadres** : **8 mois** maximum.
 
-Donc au total, on ne peut pas dépasser 4 mois de période d'essai pour les ouvriers et les employés, 4 mois pour les ouvriers et les employés, 6 mois pour les agents de maîtrise et techniciens au total, donc on double, vous avez remarqué, 6 mois maximum pour les agents de maîtrise et les techniciens, et on passe à 8 mois pour les cadres, donc 8 mois de période d'essai totale, renouvellement compris, pour les cadres, 4 mois, 6 mois, 8 mois, vous avez compris l'idée, encore une fois, on double.
+#### 3. Durée de la période d'essai en CDD (**[[Art. L. 1242-10 C. trav.\|Art. L. 1242-10 C. trav.]]**)
+Pour les contrats à durée déterminée, la durée est proportionnelle à la durée du contrat :
+* **Règle générale** : **1 jour de période d'essai par semaine** de travail prévue au contrat.
+* **Plafonds légaux** :
+  * **2 semaines** maximum pour les CDD d'une durée inférieure ou égale à 6 mois.
+  * **1 mois** maximum pour les CDD d'une durée supérieure à 6 mois.
 
-Sachant que, du coup, vu la combinaison de ces textes, vous pouvez très bien avoir une période renouvelée plus longue que la période initiale, du moment que vous respectez le maximum pour la période initiale et que pour la période d'essai totale, mais rien n'empêche théoriquement d'avoir une période plus longue après renouvellement qu'avant renouvellement de la combinaison des textes. Donc voilà pour les principes de base, sachant que vous avez des règles spéciales pour les CDD. Pour les CDD, comme le contrat ne dure pas très longtemps par définition, l'article 1242-10 fixe la durée maximale de la période d'essai dans le cadre d'un contrat à durée déterminée.
+#### 4. Exigence d'une durée raisonnable ([[Convention n° 158 de l'OIT\|Convention n° 158 de l'OIT]])
+* La Cour de cassation vérifie que la durée de l'essai reste raisonnable au regard de la technicité du poste (*Cass. soc., 4 juin 2009*, annulant une période d'essai d'un an fixée antérieurement à la loi de 2008).
 
-Alors, j'allais dire pour faire simple, mais c'est un peu délicat. Donc, selon ce texte, 1242-10, la période d'essai totale maximale dans un CDD, c'est un jour par semaine de travail prévu au contrat. Donc, un jour de période d'essai par semaine de travail prévu, dans la limite de deux semaines pour les contrats de six mois maximum, donc un plafond à deux semaines pour les contrats de six mois maximum, et un mois maximum lorsque ça dure plus de six mois.
+#### 5. Décompte calendaire et prolongation pour suspension
 
-Un mois maximum lorsque le contrat dure plus de six mois. Donc en gros, déjà vous avez deux plafonds. Pour les contrats de plus de six mois, c'est un mois maximum de période d'essai. Pour les contrats de moins de six mois, c'est deux semaines maximum de période d'essai. Et pour les contrats les plus courts, c'est un jour de période d'essai maximum par semaine travaillée. Vous avez un contrat de trois semaines, c'est trois jours de période d'essai maximum, etc. Donc dans la limite des plafonds que je viens de citer.
+* **Décompte calendaire** : La période d'essai se décompte en jours, semaines ou mois calendaires (et non en jours travaillés ou ouvrés).
+* **Prolongation en cas de suspension du contrat** :
 
-De manière encore plus générale, la Cour de cassation estime, sur la base d'une convention numéro 158 de l'OIT, mais peu importe, la Cour de cassation estime qu'en toute hypothèse, la période d'essai doit avoir une durée raisonnable. La période d'essai doit avoir une durée raisonnable, c'est-à-dire que les périodes d'essai doivent être proportionnées, si vous voulez, à l'objectif d'analyse des capacités du salarié, etc. Vous avez un arrêt du 4 juin 2009 qui écarte une période d'essai d'un an en la jugeant excessive. La Cour de cassation nous dit qu'un an de période d'essai, c'est trop long, c'est d'une durée déraisonnable, donc on écarte cette période d'essai.
+> **Jurisprudence majeure ([[Cass. soc., 23 mai 2007\|Cass. soc., 23 mai 2007]])** :  
+> Si le contrat de travail est suspendu pendant la période d'essai (ex. arrêt maladie, accident du travail, congés), la période d'essai est **prolongée d'une durée strictement équivalente à celle de l'absence** du salarié, afin de permettre à l'employeur d'exercer son pouvoir d'évaluation.
 
-Maintenant, c'est un arrêt qui a été rendu avant la loi de 2008. Il est de 2009, mais ça a été rendu pour des faits antérieurs à la loi de 2008. Donc maintenant, on n'est plus trop censé avoir ce genre de questions qui se posent. Mais de manière générale, le principe général, c'est que la période d'essai doit avoir une durée raisonnable, encore une fois. Alors, autre précision sur la durée de la période d'essai. La période d'essai, elle va être exprimée en mois, elle va être exprimée en semaines, elle va être exprimée en jours, peu importe.
 
-Dans tous les cas, on raisonne en mois, semaines ou jours calendaires.
+### B. Le renouvellement de la période d'essai
 
-On regarde un calendrier pour savoir si la période est écoulée. Quand on dit la période d'essai est d'un mois, par exemple, elle commence le 7 octobre, et bien si elle est d'un mois, elle sera terminée le 7 novembre à 0 heure, si vous voulez. Elle prendra fin en regardant le calendrier. Vous avez une période d'essai qui était d'une semaine, elle commence un mardi, et bien elle sera terminée le lundi soir prochain, si vous voulez.
+#### 1. Conditions cumulatives de validité (**[[Art. L. 1221-21 C. trav.\|Art. L. 1221-21 C. trav.]]**)
+Le renouvellement de la période d'essai n'est ni automatique ni discrétionnaire. Il est soumis à des conditions cumulatives très strictes :
 
-Ce que je veux dire par là, c'est que pour regarder si la période d'essai est écoulée ou pas, on ne regarde pas s'il s'agit de jours travaillés, de jours ouvrables, de jours ouvrés, etc. On regarde le nombre de jours, le nombre de semaines écoulées. Peu importe que dedans, il y a des jours fériés, des semaines non travaillées, etc.
+> **[[Art. L. 1221-23 C. trav.\|Art. L. 1221-23 C. trav.]]** :  
+> Le renouvellement de la période d'essai ne peut être effectué qu'une **seule et unique fois**, sous réserve de respecter deux conditions cumulatives :
+> 1. Le renouvellement doit être expressément prévu et autorisé par une **convention ou un accord de branche étendu**.
+> 2. La possibilité du renouvellement doit être **expressément stipulée dans la lettre d'engagement ou le contrat de travail** (**[[Art. L. 1221-23 C. trav.\|Art. L. 1221-23 C. trav.]]**).
 
-Qu'est-ce qu'on peut préciser d'autre là-dessus? Un point peut-être important, si pendant la période d'essai,
-
-le contrat est suspendu. On reparlera de la suspension du contrat plus tard, mais il peut arriver que pendant la période d'essai, le contrat soit suspendu. Par exemple, le salarié est malade, il est en arrêt maladie, ça entraîne la suspension du contrat. En cas de suspension du contrat pendant la période d'essai, la Cour de cassation considère que la période d'essai va être prolongée d'une durée équivalente à celle de l'absence du salarié. Donc vous avez un arrêt du 23 mai 2007 par exemple, la période d'essai est prolongée d'une durée équivalente à la période pendant laquelle le contrat a été suspendu. Donc le salarié est absent une semaine pour congé maladie pendant sa période d'essai, sa période d'essai va être prolongée d'une semaine parce qu'il n'était pas là pendant une partie de la période d'essai.
-
-Donc c'est assez logique par rapport à la finalité de la période d'essai, parce que pendant l'absence, l'employeur n'a pas pu apprécier l'aptitude du salarié à son poste. Donc assez logiquement, la Cour de cassation prévoit un report, une prolongation de la période d'essai pour tenir compte de l'absence éventuelle du salarié.
-
-Alors un peu dans le prolongement de tout ça, je reviens sur la question que j'ai évoquée tout à l'heure, grand B du renouvellement. Un grand B, donc le renouvellement de la période d'essai. On l'a vu tout à l'heure, je l'ai évoqué en tout cas implicitement, la période d'essai peut être renouvelée, on va détailler un peu tout ça. Sur le renouvellement, vous avez l'article L1221-21. L1221-21, qu'est-ce qu'il vous dit? Il vous dit que la période d'essai peut être renouvelée une fois si un accord de branche étendu le prévoit.
-
-La période d'essai peut être renouvelée une fois si un accord de branche étendu le prévoit. Autrement dit, le renouvellement n'a rien d'automatique. Il y a certaines conditions pour que la période d'essai puisse être renouvelée une fois expirée. D'abord, remarque générale, vous l'avez compris, il ne peut y avoir qu'un seul renouvellement de la période d'essai. La période d'essai ne peut être renouvelée qu'une seule fois.
-
-Même si on est encore dans le maximum, etc., on ne peut prévoir qu'un seul renouvellement de la période d'essai. Il ne peut y avoir qu'un seul renouvellement. Vous ne pouvez pas faire trois renouvellements, même si vous restez dans les maximas prévus pour la période initiale et pour la période totale. Un seul renouvellement en toute hypothèse. Ça, c'est très clair. Ensuite, un point important, comme nous le dit le texte, la possibilité de renouvellement doit être autorisée par une convention collective de branches étendues.
-
-Donc, un accord de branches pas étendu, ça ne suffit pas. Il faut que ce soit un accord de branches étendu qui autorise le renouvellement. Donc ça, c'est un point très important.
-
-quelles que soient les stipulations du contrat de travail, je vais y revenir, elles ne peuvent pas à elles seules, ces stipulations du contrat de travail, autoriser le renouvellement si en amont, une convention de branche étendue ne l'a pas autorisée. La convention de branche étendue, je ne sais plus si je vous en ai parlé, il me semble que oui, mais en gros, elle a plus de force juridique, on va dire que la convention de branche n'est pas étendue. Je referme la parenthèse.
-
-Enfin, autre point très important, cette possibilité de renouvellement doit en plus être indiquée, comme on l'a vu tout à l'heure, dans le contrat de travail ou la lettre d'engagement. La seule autorisation de la convention de branche étendue ne suffit pas. Encore faut-il que la possibilité de renouvellement soit prévue également par le contrat de travail ou la lettre d'engagement. Donc si on récapitule, pour que la période d'essai soit renouvelable, Il faut que d'une part, ce soit autorisé, permis par une convention de branche et une convention de branche étendue, et en plus, il faut que ce soit prévu par le contrat de travail lui-même, comme l'indique l'article 1221-23 qu'on a vu tout à l'heure.
-
-Donc il doit y avoir deux sources au renouvellement,
-
-la convention de branche étendue et le contrat de travail lui-même. Donc ça c'est extrêmement important.
+#### 2. Accord exprès et non équivoque du salarié
+* Le renouvellement exige l'accord **exprès, libre et non équivoque** du salarié donné avant l'expiration de la période d'essai initiale.
+* La simple signature du salarié précédée de la mention manuscrite " lu et approuvé " sur la lettre de renouvellement notifiée par l'employeur ne suffit pas à caractériser son accord exprès (*[[Cass. soc., 8 juillet 2015\|Cass. soc., 8 juillet 2015]]*).

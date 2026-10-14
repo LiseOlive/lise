@@ -1,90 +1,99 @@
 ---
-{"dg-publish":true,"permalink":"/rupture-periode-essai/","ctime":"2026-10-08T23:32:33.262+02:00","mtime":"2026-10-13T17:33:55.263+02:00","dg-note-properties":{"date created":"2026-10-08, 23 32","date modified":"2026-10-09, 13 46","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]","tags":[],"Title":"Rupture période essai","Recorded At":"2026-10-08T22:40:20"}}
+{"dg-publish":true,"permalink":"/rupture-periode-essai/","ctime":"2026-10-13T23:45:42.029+02:00","mtime":"2026-10-14T02:12:03.165+02:00","dg-note-properties":{"date created":"2026-10-13, 23 45","date modified":"2026-10-14, 2 12","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
 ---
 
 
 # Rupture période essai
 
-On en vient maintenant à un autre point important, qui est, paragraphe 3, la rupture de la période d'essai. Je vous ai dit, le point intéressant pour l'employeur comme pour le salarié de la période d'essai, c'est de pouvoir rompre le contrat plus facilement pendant la période d'essai. Donc, ce n'est pas un licenciement quand c'est l'employeur qui rompt la période d'essai, ce n'est pas une démission quand c'est le salarié qui rompt la période d'essai. D'ailleurs, en fait, on dit on rompt la période d'essai, mais c'est le contrat de travail qui est rompu.
 
-C'est le contrat de travail qui est rompu en invoquant la période d'essai avec plus de facilité. Et donc, c'est assez facile, mais les abus sont encadrés, comme on va le voir au fur et à mesure. Donc commençons, grand A, par la mise en œuvre de la rupture de la période d'essai, enfin du contrat pendant la période d'essai plus exactement. Donc grand A, la mise en œuvre de cette rupture. Donc, vous l'avez compris, le principe c'est la facilité de rupture.
+## Paragraphe 3 : La rupture de la période d'essai
 
-Facilité qui est prévue par l'article L1231-1.
+La période d'essai présente un intérêt majeur pour l'employeur comme pour le salarié : elle permet de mettre fin au contrat de travail de manière simplifiée si l'essai ne s'avère pas concluant, sans avoir à subir la rigueur des procédures de droit commun.
 
-Je vous cite le texte. Les règles qui encadrent habituellement la rupture du contrat à durée indéterminée ne sont pas applicables pendant la période d'essai. Les règles de rupture d'un contrat à durée indéterminée ne sont pas applicables pendant la période d'essai. C'est ce que je vous ai dit. La rupture fondée sur la période d'essai, ce n'est pas un licenciement ou une démission selon les cas. Ça a un certain nombre d'intérêts. D'abord, c'est que la rupture du contrat pendant la période d'essai n'a pas à être justifiée. contrairement au licenciement. Contrairement au licenciement, parce que pour licencier, il faut un motif de licenciement, il n'y a pas de motif à fournir quand c'est l'employeur qui rompt le contrat pendant la période d'essai.
+### A. La mise en œuvre de la rupture du contrat pendant la période d'essai
 
-Alors, comme on le reverra, éventuellement, même s'il n'y a pas de motif à fournir, ce sera aux salariés de démontrer que, comment dire, l'employeur a commis un abus, et il démontrera que l'employeur a commis un abus lorsque la rupture n'est pas justifiée par les qualités professionnelles du salarié. On en reparlera.
+#### 1. Le principe de liberté et de facilité de rupture
 
-Donc, l'employeur n'a pas à justifier quoi que ce soit. Et en cas de contentieux, ce sera au salarié de démontrer que l'employeur a commis un abus
+L'article **[[L. 1231-1 du Code du travail\|L. 1231-1 du Code du travail]]** pose le principe fondamental selon lequel les règles régissant la rupture du contrat de travail (licenciement ou démission) ne s'appliquent pas pendant la période d'essai.
 
-en démontrant que le motif de la rupture, le vrai motif de la rupture, était étranger aux qualités professionnelles du salarié. Par contre, pour le salarié, la rupture d'une période d'essai, ça ne fait pas trop de différence, parce que le salarié n'est pas à justifier sa démission, donc qu'il n'ait pas à justifier sa rupture de la période d'essai, pour lui, ça ne fait pas une grande différence. Mais bref, l'employeur n'a pas à fournir de motif, contrairement à un licenciement, et comme on le reverra, il vaut mieux qu'il ne fournisse absolument aucun motif.
+> **Article [[L. 1231-1 du Code du travail\|L. 1231-1 du Code du travail]] :  
+> *" Le contrat de travail à durée indéterminée peut être rompu à l'initiative de l'employeur ou du salarié […]. Les dispositions du présent titre ne sont pas applicables pendant la période d'essai. "*
 
-Ensuite, autre intérêt de la rupture de la période d'essai, quant à la rupture du contrat, c'est que la rupture du contrat ne donne lieu à aucun formalisme. La rupture du contrat ne donne lieu à aucun formalisme, contrairement à un licenciement où vous avez une procédure à respecter, notamment, il n'y a pas de procédure particulière à respecter. Alors, éventuellement, vous pouvez avoir la convention collective ou le contrat de travail.
+* **Côté employeur** : La rupture n'est pas un licenciement. L'employeur est dispensé de convoquer le salarié à un entretien préalable, de notifier la rupture par lettre recommandée motivée ou de verser des indemnités de licenciement.
+* **Côté salarié** : La rupture n'est pas une démission. Le salarié peut quitter l'entreprise sans préavis classique de démission.
 
-Pourquoi? pas, qui impose un certain formalisme, par exemple une lettre recommandée ou je ne sais pas quoi, mais à ce moment-là, il faudra le respecter. Mais au-delà, la rupture du contrat pendant la période d'essai ne suppose aucune procédure particulière. La seule chose qu'il faut, au minimum, en dehors des prévisions du contrat ou de la convention collective, c'est qu'il faut que l'une des parties notifie sa volonté de rompre le contrat pendant la période d'essai.
+#### 2. L'absence de motif et de formalisme légal strict
 
-Il faut qu'il y ait un acte de volonté notifié à l'autre de rompre le contrat. Donc ça c'est important quand même, il faut quand même savoir que l'une des parties veut rompre le contrat. Par contre, il faut une volonté exprimée, et par exemple la Cour de cassation décide assez logiquement
+* **Absence d'obligation de motif** : L'employeur n'a pas à justifier sa décision ni à fournir de motif lors de la notification de la rupture. Il lui suffit d'indiquer que l'essai n'est pas concluant.
+* **Absence de procédure légale impérative** : Sauf disposition contraire du contrat de travail ou de la convention collective exigeant un formalisme particulier (ex. lettre recommandée avec accusé de réception), la rupture ne nécessite aucun formalisme légal strict.
 
-qu'on ne peut pas prévoir que le contrat prendra fin automatiquement à la fin de la période d'essai. Ça, on ne peut pas le faire. Il n'est pas possible de stipuler dans le contrat de travail que le contrat prendra fin automatiquement à l'expiration de la période d'essai. Vous savez, notamment un arrêt du 13 novembre 1996. Un arrêt du 13 novembre 1996, il ne peut pas y avoir de fin automatique du contrat à l'expiration de la période d'essai. Ce serait un peu excessif, on va dire, et ce serait carrément un détournement d'ailleurs des règles sur le CDD et sur la période d'essai. Ce sera un détournement de la période d'essai, tout simplement.
+#### 3. L'exigence d'une manifestation claire de volonté
 
-Ensuite, qu'est-ce qu'on peut mentionner? Il n'y a pas de formalisme, certes, il n'y a pas de procédure à respecter, certes. Néanmoins, il y a depuis la loi de 2008 un délai de prévenance à respecter. C'est-à-dire que, par exemple, quand vous avez une rupture de contrat par licenciement ou par démission, le salarié doit respecter un préavis, ou le salarié a droit à un préavis, c'est selon. Alors on ne parle pas de préavis exactement pour la rupture de la période d'essai, mais de délai de prévenance, parce que c'est beaucoup plus court qu'un délai de préavis classique la plupart du temps.
+Bien qu'aucun formalisme lourd ne soit exigé, la rupture requiert impérativement une **notification explicite de la volonté de rompre** le contrat adressée à l'autre partie.
 
-Donc le délai de prévenance qui est imposé depuis 2008, c'est une espèce de préavis réduit pour atténuer un petit peu la brutalité de la rupture tout en respectant un peu la finalité de la période d'essai qui est de pouvoir rompre le contrat facilement. Alors le délai de prévenance, il est d'abord imposé à l'employeur. L'employeur doit respecter ce délai de prévenance. Alors quel est le délai de prévenance imposé à l'employeur? je vous renvoie à l'article L1221-25
+> **Jurisprudence majeure ([[Cass. soc., 13 novembre 1996\|Cass. soc., 13 novembre 1996]])** :  
+> Il est interdit de stipuler dans le contrat de travail que celui-ci prendra fin automatiquement à l'expiration de la période d'essai. La rupture ne peut jamais être automatique ; elle exige un acte positif de volonté notifié par l'une des parties.
 
-qui n'est imposé que pour les périodes d'essai d'au moins une semaine donc on a un délai de prévenance que l'employeur doit respecter qui ne concerne que les périodes d'essai qui durent au moins une semaine donc en dessous il n'y a pas de délai de prévenance donc en gros l'employeur qui veut rompre la période d'essai au delà d'une semaine, enfin au delà d'essai d'une semaine, doit respecter un délai de prévenance, c'est à dire que le salarié va continuer à travailler pendant le délai de prévenance, vous l'avez compris Ce délai de prévenance, il est de 24 heures au-dessous de 8 jours de présence dans l'entreprise. Donc si le salarié est présent dans l'entreprise depuis moins de 8 jours, et bien c'est un délai de prévenance de 24 heures, donc assez court.
+#### 4. Les délais de prévenance obligatoires ([[Loi du 25 juin 2008\|Loi du 25 juin 2008]])
 
-On passe à 48 heures entre 8 jours et 1 mois de présence. 48 heures entre 8 jours et 1 mois de présence.
+Pour atténuer la brutalité d'une rupture soudaine, la loi de 2008 a instauré des **délais de prévenance** obligatoires pour l'employeur et le salarié.
 
-Après 1 mois de présence, c'est 2 semaines. Donc là, ça devient un peu plus long. Lorsque le salarié est présent depuis plus d'un mois, il a droit à un délai de prévenance depuis au moins deux semaines. Un délai de prévenance de au moins deux semaines. Je vais y arriver, pardon, je ne vais pas fouiller. Donc, deux semaines après un mois de présence, et on passe à un mois au-delà de trois mois de présence dans l'entreprise. Donc lorsque le salarié est présent depuis plus de trois mois dans l'entreprise, il a droit à un délai de prévenance d'un mois.
+##### a. Délais de prévenance imposés à l'employeur (**[[Art. L. 1221-25 C. trav.\|Art. L. 1221-25 C. trav.]]**)
 
-Là, c'est presque un délai de préavis. Donc voilà le délai de prévenance que l'employeur doit respecter avant de mettre fin au contrat en invoquant la période d'essai de son salarié. Alors maintenant, ce délai de prévenance, c'est intéressant, parce que ça se transforme en préavis au bout d'un certain temps, quasiment. C'est assimilable à un délai de préavis, mais ça peut causer des difficultés. Pourquoi? Parce que ce que nous dit l'article 1221-25, c'est que le délai de prévenance ne peut pas avoir pour effet de prolonger la période d'essai.
+L'employeur qui prend l'initiative de rompre la période d'essai d'un contrat fixant une durée d'essai d'au moins une semaine doit respecter un délai de prévenance calculé selon le temps de présence du salarié dans l'entreprise :
 
-l'application, le respect du délai de prévenance,
+| Temps de présence du salarié dans l'entreprise | Délai de prévenance obligatoire |
+| :--- | :--- |
+| **Moins de 8 jours** | **24 heures** |
+| **Entre 8 jours et 1 mois** | **48 heures** |
+| **Entre 1 mois et 3 mois** | **2 semaines** |
+| **Plus de 3 mois** | **1 mois** |
 
-n'a pas pour effet de prolonger la période d'essai. Qu'est-ce que ça veut dire? Supposons que le salarié ait droit à un délai de prévenance de deux semaines. Il est présent depuis assez longtemps dans l'entreprise. Notre salarié a droit à un délai de prévenance de deux semaines. Sauf qu'il est à une semaine de la fin de sa période d'essai. Sa période d'essai se termine dans une semaine. L'employeur lui notifie aujourd'hui la fin de sa période d'essai, fin de son contrat de travail. Mais, compte tenu de son ancienneté, le salarié a droit à deux semaines de délai de prévenance.
+##### b. Chevauchement avec la fin de la période d'essai et indemnisation compensatrice
 
-Alors, de deux choses. Une, soit on respecte le délai de prévenance,
+L'article [[Art. L. 1221-25 C. trav.\|Art. L. 1221-25 C. trav.]] précise que le respect du délai de prévenance **ne peut pas avoir pour effet de prolonger la durée de la période d'essai**.
 
-et si on le respecte, on arrive une semaine après la fin de la période d'essai. Donc le salarié n'est plus en période d'essai, donc on est obligé de le licencier, on ne peut plus invoquer la période d'essai. Donc soit on respecte le délai de prévenance, et le respect du délai de prévenance oblige l'employeur à garder le salarié au-delà de la période d'essai, et donc va empêcher l'employeur de se prévaloir de la période d'essai. Soit à l'inverse, le salarié dégage avant la fin de la période d'essai, donc l'employeur demande au salarié de partir avant la fin de la période d'essai, mais dans quel cas l'employeur ne respecte pas le délai de prévenance, ce qui est fautif.
+> **Problématique du chevauchement** : Si l'employeur notifie la rupture tardivement (ex. à 3 jours du terme de l'essai alors que le délai de prévenance applicable est de 2 semaines), le respect intégral du délai ferait dépasser la date de fin d'essai. Or, dépasser le terme transformerait la rupture en licenciement sans cause réelle et sérieuse.
 
-Donc l'employeur est coincé. L'employeur est coincé, soit il ne peut pas respecter le délai de prévenance, soit il ne peut pas profiter de la période d'essai.
+* **Solution légale** : L'employeur doit mettre fin au contrat avant la fin de la période d'essai. En contrepartie du délai de prévenance non exécuté, l'employeur doit verser au salarié une **indemnité compensatrice** égale au montant des salaires et avantages qu'il aurait perçus s'il avait travaillé jusqu'au terme du délai de prévenance.
 
-C'est un dilemme, l'employeur est coincé. Donc, ce que prévoit le texte, l'article 1221-25, c'est que si l'employeur ne respecte pas le délai de prévenance, si l'employeur fait partir le salarié avant la fin du délai de prévenance, comme dans mon exemple, Eh bien, l'employeur commet une faute. L'employeur commet une faute puisqu'il ne respecte pas le délai de prévenance.
+##### c. Délais de prévenance imposés au salarié (**[[Art. L. 1221-26 C. trav.\|Art. L. 1221-26 C. trav.]]**)
 
-Mais, du coup, ce que précise l'article 1221-25, c'est simplement que l'employeur doit indemniser le salarié qui n'a pas bénéficié de son délai de prévenance. et il doit l'indemniser grosso modo en lui payant les salaires et tous les avantages que le salarié aurait perçus s'il était resté jusqu'au bout du délai de prévenance. Donc, ce que prévoit l'article 1221-25, c'est que lorsque l'employeur ne peut pas respecter le délai de prévenance, lorsque le salarié ne bénéficie pas de son délai de prévenance intégral, l'employeur doit lui verser une indemnité correspondant au minimum au salaire, aux sommes que le salarié aurait perçues s'il avait pu bénéficier de son délai de prévenance. Autrement dit, si je reprends mon exemple de tout à l'heure, il y a une semaine de délai de prévenance qui ne sera pas respectée.
+Lorsque le salarié prend l'initiative de rompre la période d'essai, il doit également respecter un délai de prévenance, réduit afin de préserver sa liberté de mobilité :
 
-Une semaine de délai de prévenance qui ne sera pas respectée. Donc, qu'est-ce qu'il va se passer? L'employeur va mettre dehors le salarié tout de suite, avant la fin de la période d'essai. Il n'aura pas respecté une semaine de délai de prévenance. Donc, ce qu'exige l'article 1221-25, c'est que l'employeur verse, dans mon exemple, une semaine de salaire aux salariés à titre d'indemnité, correspondant à la semaine de délai de prévenance qu'il n'a pas pu effectuer tout simplement.
+* **Moins de 8 jours de présence** : **24 heures**.
+* **8 jours de présence et plus** : **48 heures**.
 
-Donc voilà comment on gère ces questions de délai de prévenance qui débordent après la fin de la période d'essai. Et voilà pour le délai de prévenance qui est imposé à l'employeur. Sinon, pour terminer sur cette question des délais de prévenance, vous avez également un délai de prévenance qui est imposé au salarié, lorsque c'est le salarié qui veut mettre fin à son contrat en invoquant la période d'essai. Ce délai de prévenance, vous allez voir, il est plus court, il est prévu par l'article 1221-26.
 
-Alors, on retrouve un délai de 24 heures lorsque le salarié est présent depuis moins de 8 jours, 24 heures de prévenance en cas de présence inférieure à 8 jours dans l'entreprise, et on passe à 48 heures à partir de 8 jours de présence. 48 heures à partir de 8 jours de présence dans l'entreprise. Autrement dit, le salarié n'a à respecter qu'un délai de préavis assez court, 24 heures ou 48 heures, et pas plus.
+### B. L'encadrement de la rupture et la notion d'abus
 
-Sachant que, bon, il ne faut pas se mentir non plus, ça ne sert à rien de garder un salarié qui a décidé de partir trop longtemps, surtout dans le cadre d'une période d'essai. Le salarié ne va pas foutre grand-chose, on ne va pas se mentir, donc d'où des délais extrêmement raccourcis pour le salarié. Donc voilà grosso modo ce qu'on peut dire sur la rupture du contrat pendant la période d'essai. Ensuite, autre question importante, c'est quand même l'encadrement de la rupture. C'est facile de rompre un contrat pendant la période d'essai, mais ça reste encadré, donc grand B, l'encadrement de la rupture.
+#### 1. Le respect de la finalité légale de la période d'essai
 
-C'est-à-dire que si la loi permet de rompre facilement un contrat de travail pendant la période d'essai, cette facilité est justifiée par la finalité de la période d'essai. La finalité de la période d'essai, c'est ça qui guide l'appréciation de la validité de la rupture de la période d'essai. C'est-à-dire que la finalité de la période d'essai, pour l'employeur, c'est apprécier les compétences professionnelles du salarié. La finalité pour le salarié, c'est vérifier si le poste lui convient. C'est surtout côté employeur que ça va poser problème. Est-ce que l'employeur, quand il rompt le contrat, respecte bien cette finalité qui est uniquement d'apprécier les qualités professionnelles, les compétences professionnelles de son salarié?
+Si la rupture de la période d'essai est libre dans son principe, ce droit n'est pas absolu. La liberté de rupture est strictement conditionnée par le respect de la finalité légale fixée par l'article **[[L. 1221-20 du Code du travail\|L. 1221-20 du Code du travail]]** :
+* **Pour l'employeur** : Apprécier les compétences et aptitudes professionnelles du salarié sur le poste.
+* **Pour le salarié** : Vérifier si les fonctions occupées lui conviennent.
 
-Autrement dit, un employeur ne peut pas rompre le contrat pour un motif étranger aux qualités professionnelles du salarié. L'employeur ne peut pas invoquer la période d'essai pour rompre le contrat pour un motif qui serait étranger aux qualités professionnelles du salarié. Encore une fois, l'employeur n'a pas de motif à fournir. Lorsqu'il décide de la rupture, il n'a pas expressément à fournir de motif. Mais le salarié pourra derrière contester la rupture pour essayer de démontrer qu'elle est abusive. et à ce moment-là, le salarié essaiera de démontrer, d'établir le véritable motif de la rupture. En fait, en quelque sorte, la charge de la preuve va poser sur le salarié, c'est-à-dire que le salarié a été mis dehors avec un employeur qui dit simplement " et c'est non concluant " et donc le salarié devra, pour contester la rupture, démontrer quel est le véritable motif de la rupture du contrat par l'employeur et démontrer que ce véritable motif est étranger aux qualités professionnelles du salarié et que par conséquent, la rupture est abusive.
+#### 2. La caractérisation de l'abus de droit et la charge de la preuve
 
-La rupture par l'employeur en invoquant la période d'essai est abusive. Donc c'est pour ça qu'il vaut mieux que l'employeur ferme sa gueule. Quand il décide de la rupture d'une période d'essai, c'est pour ça qu'il vaut mieux que l'employeur s'abstienne de fournir tout motif, qu'il se contente de dire " essai non concluant ", parce que s'il invoque un motif quelconque, il a vite fait de commettre une erreur, et de se mettre en dehors des clous, et d'invoquer un motif qui en réalité n'a rien à voir avec les qualités professionnelles du salarié. Parce que du coup, c'est au salarié de faire tout le travail de démontrer d'une part le véritable motif, et ensuite de démontrer que ce véritable motif est sans lien avec la finalité légale de la période d'essai.
+Toute rupture décidée par l'employeur pour un **motif étranger aux qualités professionnelles** du salarié constitue un **abus de droit** rendant la rupture abusive (ex. rupture motivée par des difficultés économiques de l'entreprise, une réorganisation de service ou la fermeture de l'établissement).
 
-Alors, on va creuser un peu cette question de l'abus de la rupture dans la période d'essai, donc qu'est-ce que ça donne en pratique? Évidemment, déjà, par exemple, la rupture de la période d'essai, la rupture du contrat pendant la période d'essai, ne doit pas être une mesure discriminatoire à l'égard du salarié. C'est-à-dire que si l'employeur rompt le contrat pour un motif illicite, pour un motif constitutif d'une discrimination, eh bien, il n'a pas le droit de le faire, il commet une discrimination.
+* **Absence de motif obligatoire lors de la notification** : Il est vivement conseillé à l'employeur de ne mentionner aucun motif sur la lettre de rupture (se contenter d'indiquer " essai non concluant "), car la mention d'un motif erroné ou extra-professionnel établirait l'abus.
+* **Charge de la preuve** : La charge de la preuve pèse sur le salarié. C'est au salarié qui conteste la rupture d'établir devant le Conseil de Prud'hommes le véritable motif poursuivi par l'employeur et de démontrer que ce motif est sans lien avec ses aptitudes professionnelles.
 
-Il y a des décisions que l'employeur ne peut pas prendre à l'égard de son salarié sur la base d'un critère considéré comme discriminatoire. Alors, les critères discriminatoires, vous les trouvez à l'article L1132-1.
+#### 3. L'interdiction des ruptures discriminatoires (**[[Art. L. 1132-1 C. trav.\|Art. L. 1132-1 C. trav.]]**)
 
-Donc, grosso modo, je pense que vous connaissez plus ou moins les principes, l'employeur ne peut pas prendre à l'égard de son salarié de décisions qui seraient fondées sur son origine, sur l'origine du salarié, sur le sexe du salarié, sur son orientation sexuelle, par exemple, sur son état de santé, sur sa situation de famille, sur son âge,
+L'employeur ne peut en aucun cas rompre la période d'essai en se fondant sur un critère prohibé par la loi.
 
-sur son appartenance syndicale, sur son appartenance politique, etc.
+> **[[Art. L. 1132-1 C. trav.\|Art. L. 1132-1 C. trav.]]** :  
+> Il est interdit de rompre le contrat de travail d'un salarié en raison de son origine, de son sexe, de sa situation de famille, de son état de santé, de son handicap, de son orientation sexuelle, de son âge, de ses opinions politiques ou de ses activités syndicales.
 
-Donc il y a toute une liste de critères que l'employeur n'a pas le droit de prendre en compte lorsqu'il prend une décision à l'égard du salarié, et s'il le fait, il commet une discrimination. Donc évidemment, l'employeur n'a pas le droit de rompre le contrat en invoquant la période d'essai, dès lors que le vrai motif de la rupture, c'est un de ces motifs illicites. Par exemple, l'employeur dit " essai non concluant ", mais en réalité, l'employeur a décidé de mettre fin au contrat parce que son salarié est corse, et que l'employeur qui est breton n'aime pas les corses.
+* **Exemple de rupture discriminatoire** : Rompre la période d'essai d'un salarié en raison de son état de santé (arrêt maladie) ou de sa grossesse.
 
-Ça, c'est une décision discriminatoire. Alors évidemment déjà, c'est un abus, puisque c'est une décision qui est étrangère à la finalité de la période d'essai,
+#### 4. Sanction spécifique : La nullité de la rupture et la réintégration (**[[Art. L. 1132-4 C. trav.\|Art. L. 1132-4 C. trav.]]**)
 
-à savoir apprécier les qualités professionnelles du salarié. Ce n'est pas parce qu'il est corse qu'il est feignant et qu'il bosse mal, qu'on soit clair. Donc évidemment, on est en dehors de la finalité légale de l'essai, mais surtout on a une décision qui est discriminatoire. On a une décision qui est discriminatoire, et donc c'est grave, c'est grave la discrimination, puisque une décision discriminatoire de l'employeur peut être annulée.
+Il convient de distinguer les sanctions selon la nature de l'irrégularité :
 
-C'est un des rares cas où on peut annuler une décision de l'employeur. La décision considérée comme discriminatoire de l'employeur peut être annulée. C'est ce que vous dit l'article L1132-4.
-
-la décision entachée de discrimination peut être annulée. Donc ce n'est pas juste un abus, c'est une discrimination. Ce n'est pas un abus dans la rupture de la période d'essai, c'est une discrimination en tant que telle qui est sanctionnée par l'annulation de la décision de rupture du contrat. Donc un droit à réintégration du salarié, ce qui est exceptionnel.
-
-La plupart du temps, quand vous avez un simple abus, on le reverra, eh bien la rupture du contrat n'est pas annulée, le contrat reste rompu. Donc voilà sur cette première illustration de l'abus dans la rupture de la période d'essai. Plus exactement, l'employeur ne peut pas rompre la période d'essai en commettant une discrimination. On n'a pas tout à fait fini sur le sujet, évidemment, de la période d'essai. Maintenant, vu le temps depuis lequel je parle, je pense qu'on est à peu près bon en termes de contenu.
-
-donc on va s'arrêter là pour aujourd'hui et j'espère qu'on reprendra dans de bonnes conditions la semaine prochaine comme je vous disais, on va espérer pour le meilleur donc merci à vous, bon courage pour la suite et puis si vous avez des questions, évidemment, n'hésitez pas au revoir
+* **En cas de simple abus de droit** (motif extra-professionnel non discriminatoire) : La rupture reste valable pour mettre fin au contrat, mais elle ouvre droit pour le salarié à des **dommages-intérêts** en réparation du préjudice subi.
+* **En cas de rupture discriminatoire** (**[[Art. L. 1132-4 C. trav.\|Art. L. 1132-4 C. trav.]]**) :
+  > La rupture prononcée en violation des dispositions de l'article [[Art. L. 1132-1 C. trav.\|Art. L. 1132-1 C. trav.]] est **frappée de nullité de plein droit**.
+  * **Conséquence** : Le salarié peut exiger sa **réintégration** dans l'entreprise avec versement des salaires perdus depuis la rupture, ou opter pour des indemnités réparatrices si la réintégration est impossible.

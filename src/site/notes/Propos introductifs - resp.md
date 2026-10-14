@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/propos-introductifs-resp/","tags":["AP/S2/resp","CM","droit","AP/S2"],"ctime":"2026-01-13T23:36:57.000+01:00","mtime":"2026-10-13T17:34:02.859+02:00","dg-note-properties":{"tags":["AP/S2/resp","CM","droit","AP/S2"],"sector":"[[References/AES]]","class":"[[References/Administratif]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-13, 23 36","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/propos-introductifs-resp/","tags":["AP/S2/resp","CM","droit","AP/S2"],"ctime":"2026-01-13T23:36:57.000+01:00","mtime":"2026-10-13T17:34:02.859+02:00","dg-note-properties":{"tags":["AP/S2/resp","CM","droit","AP/S2"],"sector":"[[References/AES]]","class":"[[References/Administratif]]","semester":"[[References/S2]]","form":"[[References/CM]]","part":null,"date created":"2026-01-13, 23 36","date modified":"2026-09-21, 23 12"}}
 ---
 
 

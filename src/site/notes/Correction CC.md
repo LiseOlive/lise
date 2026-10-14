@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/correction-cc/","tags":["AP/S2/resp","CM","droit","AP/S2"],"ctime":"2026-04-13T15:14:57.000+02:00","mtime":"2026-10-13T17:34:02.270+02:00","dg-note-properties":{"tags":["AP/S2/resp","CM","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-04-13, 15 14","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/correction-cc/","tags":["AP/S2/resp","CM","droit","AP/S2"],"ctime":"2026-04-13T15:14:57.000+02:00","mtime":"2026-10-13T17:34:02.270+02:00","dg-note-properties":{"tags":["AP/S2/resp","CM","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[References/S2]]","form":"[[References/CM]]","part":null,"date created":"2026-04-13, 15 14","date modified":"2026-09-21, 23 12"}}
 ---
 
 

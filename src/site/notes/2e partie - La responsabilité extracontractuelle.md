@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2e-partie-la-responsabilite-extracontractuelle/","tags":["AP/S2/resp","CM","droit","AP/S2"],"ctime":"2026-02-12T08:43:00.000+01:00","mtime":"2026-10-13T17:34:02.589+02:00","dg-note-properties":{"tags":["AP/S2/resp","CM","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[S2]]","form":"[[References/CM]]","part":null,"date created":"2026-02-12, 8 43","date modified":"2026-09-21, 23 45"}}
+{"dg-publish":true,"permalink":"/2e-partie-la-responsabilite-extracontractuelle/","tags":["AP/S2/resp","CM","droit","AP/S2"],"ctime":"2026-02-12T08:43:00.000+01:00","mtime":"2026-10-13T17:34:02.589+02:00","dg-note-properties":{"tags":["AP/S2/resp","CM","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[References/S2]]","form":"[[References/CM]]","part":null,"date created":"2026-02-12, 8 43","date modified":"2026-09-21, 23 45"}}
 ---
 
 
