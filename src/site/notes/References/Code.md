@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/code/","ctime":"2026-01-20T12:10:43.000+01:00","mtime":"2026-10-13T17:34:02.738+02:00","dg-note-properties":{"date created":"2026-01-20, 12 10","date modified":"2026-10-05, 12 42","sector":"[[References]]","semester":null,"class":null,"form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/references/code/","ctime":"2026-01-20T12:10:43.000+01:00","mtime":"2026-10-15T14:28:18.894+02:00","dg-note-properties":{"date created":"2026-01-20, 12 10","date modified":"2026-10-15, 14 28","sector":"[[References]]","semester":null,"class":null,"form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 
@@ -12,7 +12,7 @@ views:
     name: Table
     filters:
       and:
-        - sector == link("Code")
+        - form == link("Code")
         - '!file.inFolder("References")'
     order:
       - file.name
@@ -21,7 +21,7 @@ views:
       - property: file.name
         direction: ASC
       - property: class
-        direction: ASC
+        direction: DESC
       - property: date created
         direction: DESC
       - property: file.basename

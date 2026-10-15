@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/methodo-ccpe/","tags":["AES/S3/ccpe","CM","éco","AES/S3"],"ctime":"2026-09-09T15:05:51.102+02:00","mtime":"2026-10-13T17:34:02.156+02:00","dg-note-properties":{"tags":["AES/S3/ccpe","CM","éco","AES/S3"],"class":"[[References/CCPE]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/0]]","date created":"2026-09-09, 15 05","date modified":"2026-09-21, 23 12"}}
+{"dg-publish":true,"permalink":"/methodo-ccpe/","tags":["AES/S3/ccpe","CM","éco","AES/S3"],"ctime":"2026-09-09T15:05:51.102+02:00","mtime":"2026-10-15T21:14:19.817+02:00","dg-note-properties":{"tags":["AES/S3/ccpe","CM","éco","AES/S3"],"class":"[[References/CCPE]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/0]]","date created":"2026-09-09, 15 05","date modified":"2026-10-15, 21 14"}}
 ---
 
 
@@ -15,7 +15,7 @@
 - Development as Freedom (1999) - Sen Amartya
 # [[Méthodo - CCPE\|Continuité et controverses de la pensée économique]]
 
-# [[Introduction générale 1 - CCPE\|Introduction générale 1]]
+# [[Introduction générale\|Introduction générale 1]]
 
 # <font color="#f8ca8f">Mercantilistes et physiocrates</font>
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/application-de-la-loi-penale-dans-le-temps-et-l-espace/","ctime":"2026-10-13T23:26:07.929+02:00","mtime":"2026-10-13T23:33:04.701+02:00","dg-note-properties":{"subject":"[[References/Pénal]]","date created":"2026-10-13, 23 26","date modified":"2026-10-13, 23 33","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/application-de-la-loi-penale-dans-le-temps-et-l-espace/","ctime":"2026-10-13T23:26:07.929+02:00","mtime":"2026-10-14T16:23:48.048+02:00","dg-note-properties":{"tags":[],"date created":"2026-10-13, 23 26","date modified":"2026-10-14, 14 59","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]"}}
 ---
 
 
 # Application de la loi pénale dans le temps et l espace
 
-### Titre 2 - L'application de la norme pénale
+# Titre 2 - L'application de la norme pénale
 
 > [!abstract] **Principes d'application de la règle pénale**
 >* **Durée d'application** : Par principe, la norme pénale est applicable de son entrée en vigueur jusqu'à son **abrogation**.
@@ -23,7 +23,7 @@
 
 ---
 
-#### Chapitre 1 - L'application de la loi pénale dans le temps
+## Chapitre 1 - L'application de la loi pénale dans le temps
 
 ```mermaid
 flowchart TD
@@ -34,11 +34,11 @@ flowchart TD
     C -->|"Plus douce (In mitius)"| F["<b>Rétroactivité in mitius</b><br/>Loi nouvelle s'applique aux faits<br/>non définitivement jugés<br/><i>(art. 112-1 al. 3 C. pénal)</i>"]
 ```
 
-##### 1. Les règles de conflit applicables au droit pénal de fond
+### 1. Les règles de conflit applicables au droit pénal de fond
 
 * **Condition préalable du conflit de lois** : Un fait commis sous l'empire de la loi ancienne **ne doit pas avoir fait l'objet d'une condamnation définitive** (épuisement des voies de recours ou expiration des délais d'exercice de ces recours). Ce qui est définitivement jugé ne peut plus être remis en cause.
 
-###### A. Le principe de non-rétroactivité des lois pénales de fond plus sévères
+#### A. Le principe de non-rétroactivité des lois pénales de fond plus sévères
 
 * **Ancrage légal** : [[art. 112-1 al. 1 et 2 du Code pénal\|art. 112-1 al. 1 et 2 du Code pénal]]
   * *Alinéa 1* : Sont seuls punissables les faits constitutifs d'une infraction à la date à laquelle ils ont été commis.
@@ -57,7 +57,7 @@ flowchart TD
     * Adjonction d'une peine complémentaire obligatoire ou facultative.
     * Passage d'un délit à un crime (*criminalisation légale*).
 
-###### B. L'exception : La rétroactivité *in mitius* des lois pénales de fond plus favorables
+#### B. L'exception : La rétroactivité *in mitius* des lois pénales de fond plus favorables
 
 >[!cite] **[[art. 112-1 al. 3 du Code pénal\|art. 112-1 al. 3 du Code pénal]]**
 *"Toutefois, les dispositions nouvelles s'appliquent aux infractions commises avant leur entrée en vigueur et n'ayant pas donné lieu à une condamnation passée en force de chose jugée lorsqu'elles sont moins sévères que les dispositions anciennes."*
@@ -80,7 +80,7 @@ flowchart TD
 | **Création d'une infraction / Réponse plus sévère** | Loi de fond plus sévère | **Non-rétroactivité** (Appliquée uniquement aux faits futurs) |
 | **Dépénalisation / Peine réduite / Immunité** | Loi de fond plus douce (*In mitius*) | **Rétroactivité *in mitius*** (Appliquée aux faits non définitivement jugés) |
 
-###### C. La mise en œuvre des principes : la qualification et le moment de commission de l'infraction
+#### C. La mise en œuvre des principes : la qualification et le moment de commission de l'infraction
 
 Pour déterminer quelle loi s'applique, le juge doit localiser précisément la date de consommation de l'élément matériel de l'infraction :
 
@@ -98,7 +98,7 @@ Pour déterminer quelle loi s'applique, le juge doit localiser précisément la 
 
 ---
 
-##### 2. Le principe de l'application immédiate du droit pénal formel
+### 2. Le principe de l'application immédiate du droit pénal formel
 
 >[!abstract] **Règle générale de procédure**
 >* **Textes d'ancrage** : Articles [[art. 112-2 du Code pénal\|112-2 à 112-4 du Code pénal]].
@@ -118,12 +118,12 @@ Pour déterminer quelle loi s'applique, le juge doit localiser précisément la 
 
 ---
 
-#### Chapitre 2 - L'application de la loi pénale dans l'espace
+## Chapitre 2 - L'application de la loi pénale dans l'espace
 
 >[!abstract] **Principe de coïncidence des compétences**
 >En droit pénal, la compétence de la loi pénale d'un État et la compétence de ses juridictions répressives sont indissociables : dès lors que la **loi pénale française** est applicable, le **juge pénal français** est exclusivement compétent pour l'appliquer.
 
-##### Les 4 systèmes théoriques d'application de la loi dans l'espace
+### 1 - Les 4 systèmes théoriques d'application de la loi dans l'espace
 
 | Système théorique | Critère de rattachement | Avantages / Inconvénients |
 | :--- | :--- | :--- |
@@ -139,14 +139,14 @@ Pour déterminer quelle loi s'applique, le juge doit localiser précisément la 
 
 ---
 
-##### 1. Les infractions commises sur le territoire de la République (Compétence territoriale)
+#### A - Les infractions commises sur le territoire de la République (Compétence territoriale)
 
 >[!cite] **[[art. 113-2 al. 1 du Code pénal\|art. 113-2 al. 1 du Code pénal]]**
 >*"La loi pénale française est applicable aux infractions commises sur le territoire de la République."*
 
 * **Portée du principe** : Principe général et absolu. Il s'applique aux auteurs et victimes français comme étrangers, dès lors que l'infraction est localisée sur le territoire national.
 
-###### Définition juridique du territoire français ([[art. 113-1 du Code pénal\|art. 113-1 du Code pénal]])
+##### a - Définition juridique du territoire français ([[art. 113-1 du Code pénal\|art. 113-1 du Code pénal]])
 
 1. **Espace terrestre** :
    * La France métropolitaine.
