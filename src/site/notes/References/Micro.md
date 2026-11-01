@@ -5,7 +5,7 @@
 
 # [[References/Micro\|Micro]]
 
-- [[Production, coûts, salariés, graphes, fonctions\|Production, coûts, salariés, graphes, fonctions]]: — 15/10/2026
+- [[Production, coûts, salariés, graphes, fonctions\|Production, coûts, salariés, graphes, fonctions]]: — 17/10/2026
 - [[Fonction de production\|Fonction de production]]: — 16/09/2026
 - [[Introduction -Microéconomie\|Introduction -Microéconomie]]: — 09/09/2026
 - [[Microéconomie de la production -Méthodo\|Microéconomie de la production -Méthodo]]: — 09/09/2026

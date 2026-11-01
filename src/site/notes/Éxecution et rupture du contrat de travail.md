@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/execution-et-rupture-du-contrat-de-travail/","ctime":"2026-10-15T14:10:34.912+02:00","mtime":"2026-10-15T14:37:58.585+02:00","dg-note-properties":{"date created":"2026-10-15, 14 10","date modified":"2026-10-15, 14 37","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
+{"dg-publish":true,"permalink":"/execution-et-rupture-du-contrat-de-travail/","ctime":"2026-10-15T14:10:34.912+02:00","mtime":"2026-10-23T15:21:20.702+02:00","dg-note-properties":{"date created":"2026-10-15, 14 10","date modified":"2026-10-23, 15 21","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
 ---
 
 
@@ -14,14 +14,14 @@ Bien que l'employeur dispose du droit de rompre le contrat de travail pendant la
 > **Article [[L. 1231-1 du Code du travail\|L. 1231-1 du Code du travail]]** :  
 > Les règles encadrant la rupture du contrat de travail à durée indéterminée ne s'appliquent pas pendant la période d'essai. L'employeur peut y mettre fin de manière discrétionnaire sans énoncer de motif.
 
-> [[Jurisprudence majeure (Cass. soc., 15 mai 2008\|Jurisprudence majeure (Cass. soc., 15 mai 2008]]) :  
+> [[JURIS MAJEURE Cass. soc., 15 mai 2008\|JURIS MAJEURE Cass. soc., 15 mai 2008]]) :  
 > Le droit discrétionnaire de l'employeur de rompre le contrat de travail en invoquant la période d'essai ne doit pas dégénérer en abus.
 
 L'employeur n'a aucun motif à fournir lors de la notification de la rupture. Il lui est d'ailleurs vivement recommandé en pratique de s'en tenir à la formule neutre " essai non concluant ". Toutefois, le salarié conserve la faculté de contester la rupture a posteriori devant le [[Conseil de Prud'hommes\|Conseil de Prud'hommes]].
 
 Pour obtenir gain de cause, la charge de la preuve pèse intégralement sur le salarié :
 * Le salarié doit prouver le **véritable motif** de la rupture dissimulé par l'employeur.
-* Il doit établir que ce motif réel constitue un **détournement de la finalité légale** de la période d'essai fixée par l'[[L. 1221-20 du Code du travail\|L. 1221-20 du Code du travail]], à savoir l'évaluation de ses compétences professionnelles.
+* Il doit établir que ce motif réel constitue un **détournement de la finalité légale** de la période d'essai fixée par l'[[Art. L. 1221-20 C. trav.\|Art. L. 1221-20 C. trav.]], à savoir l'évaluation de ses compétences professionnelles.
 
 ### B. Les sanctions de la rupture abusive
 
@@ -138,7 +138,7 @@ Le salarié doit être présent à son poste aux heures convenues :
 
 #### E. L'obligation de sécurité du salarié
 
-> **[[Article L. 4122-1 du Code du travail\|Article L. 4122-1 du Code du travail]]** :  
+> **[[Art. L. 4122-1 trav.\|Art. L. 4122-1 trav.]]** :  
 > Conformément aux instructions qui lui sont données par l'employeur, il incombe à chaque travailleur de prendre soin, en fonction de sa formation et selon ses possibilités, de sa santé et de sa sécurité ainsi que de celles des autres personnes concernées par ses actes ou ses omissions au travail.
 
 Le salarié doit respecter les consignes d'hygiène et de sécurité et porter les équipements de protection individuelle (EPI). Le non-respect de ces règles engage sa responsabilité disciplinaire.
@@ -166,7 +166,7 @@ Il convient de distinguer l'obligation légale de non-concurrence de la clause c
 
 Pendant l'exécution de son contrat, le salarié ne peut pas exercer une activité concurrente pour son propre compte ni travailler pour le compte d'un concurrent de son employeur.
 
-> **Jurisprudence majeure ([[Cass. soc., 22 février 1978\|Cass. soc., 22 février 1978]] & [[2 juin 1977\|2 juin 1977]])** :  
+> **Jurisprudence majeure ([[Cass. soc., 22 février 1978\|Cass. soc., 22 février 1978]] & [[Cass. soc., 2 juin 1977\|Cass. soc., 2 juin 1977]])** :  
 > Constitue un manquement grave à l'obligation de non-concurrence le fait pour un salarié de détourner la clientèle de son employeur au profit de sa propre entreprise ou au bénéfice d'une société concurrente tierce.
 
 ### Paragraphe 2 : Les obligations facultatives du salarié

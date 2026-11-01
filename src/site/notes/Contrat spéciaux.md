@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contrat-speciaux/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-09-24T13:03:33.204+02:00","mtime":"2026-10-14T16:23:47.995+02:00","dg-note-properties":{"date created":"2026-09-24, 13 03","date modified":"2026-10-12, 11 27","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/2]]","tags":["travail","CM","droit","AES/S3"]}}
+{"dg-publish":true,"permalink":"/contrat-speciaux/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-09-24T13:03:33.204+02:00","mtime":"2026-10-23T09:55:42.561+02:00","dg-note-properties":{"date created":"2026-09-24, 13 03","date modified":"2026-10-12, 11 27","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/2]]","tags":["travail","CM","droit","AES/S3"]}}
 ---
 
 
@@ -96,7 +96,7 @@ Cette notion de tâche ==**précise**== ou ==**temporaire**== va servir d'indica
 
 - Dans le but de **remplacer** des salariés **grévistes** par des salariés en CDD (**[[Article L1242-6, 1°\|Article L1242-6, 1°]]**)
 
-    - **[[L'article L1245-1\|L'article L1245-1]]** sanctionne le non-respect de ces interdictions de recours en CDD par la **requalification** de ces CDD en CDI
+    - **[[Art. L. 1245-1 C. trav.\|Art. L. 1245-1 C. trav.]]** sanctionne le non-respect de ces interdictions de recours en CDD par la **requalification** de ces CDD en CDI
 
 - Le cas prévu à **[[l'article L1242-5\|l'article L1242-5]]** dans le cadre d'une **embauche** en CDD qui fait suite à un licenciement économique moins de **6 mois** après celui-ci. Cette interdiction a deux **exceptions** : 
 
@@ -107,13 +107,13 @@ Cette notion de tâche ==**précise**== ou ==**temporaire**== va servir d'indica
   
 ### 2. Les règles de forme du CDD
 
-- Le contrat doit être obligatoirement établi par écrit. L'absence d'écrit donne lieu à la ***requalification du CDD en CDI*** (**[[L1242-12\|L1242-12]]**)
+- Le contrat doit être obligatoirement établi par écrit. L'absence d'écrit donne lieu à la ***requalification du CDD en CDI*** (**[[Art. L. 1242-12 C. trav.\|Art. L. 1242-12 C. trav.]]**)
 
 - Selon l'arrêt du 14 novembre 2018, pour que cet écrit ait une valeur juridique, le contrat doit être signé par les deux parties
 
-- L'article **[[L1242-13\|L1242-13]]** précise que le contrat de travail est transmis au salarié, au plus tard, dans les **deux jours** ouvrables suivant l'embauche
+- L'article **[[Art. L. 1242-13 C. trav.\|Art. L. 1242-13 C. trav.]]** précise que le contrat de travail est transmis au salarié, au plus tard, dans les **deux jours** ouvrables suivant l'embauche
 
-- Les mentions obligatoires au contrat sont prévues à l'article **[[L1242-12\|L1242-12]]** :
+- Les mentions obligatoires au contrat sont prévues à l'article **[[Art. L. 1242-12 C. trav.\|Art. L. 1242-12 C. trav.]]** :
 
     1. La définition **précise** de son motif de recours au CDD
     2. Le **nom** et la **qualification professionnelle** de la personne remplacée lorsqu'il s'agit d'un CDD de remplacement
@@ -136,13 +136,13 @@ Cette notion de tâche ==**précise**== ou ==**temporaire**== va servir d'indica
 
     - Mais cela ne doit pas s'inscrire dans le **renouvellement abusif** de CDD, la loi encadre donc la **durée** et le **nombre** de renouvellements
     - La convention collective de branche étendue peut fixer la durée totale et le nombre de renouvellements
-    - **[[L1242-8-1\|L1242-8-1]]** : à défaut de convention de branche applicable, la durée maximale est de **18 mois**
+    - **[[Art. L. 1242-8-1 C. trav.\|Art. L. 1242-8-1 C. trav.]]** : à défaut de convention de branche applicable, la durée maximale est de **18 mois**
     - **[[L1243-13-1\|L1243-13-1]]** : à défaut de convention, le contrat est renouvelable **deux fois** au maximum
 
 - Pour le terme ***incertain***, la fin dépend d'un aléa (ex. la date de retour du salarié remplacé)
 
-    - Dans ces conditions, une durée minimale doit obligatoirement être indiquée dans le contrat (librement fixée par les parties, aucun minimum légal d'un mois) (**[[L1242-7\|L1242-7]]**)
-    - L'article **[[L1242-7\|L1242-7]]** réserve son recours :
+    - Dans ces conditions, une durée minimale doit obligatoirement être indiquée dans le contrat (librement fixée par les parties, aucun minimum légal d'un mois) (**[[Art. L. 1242-7 C. trav.\|Art. L. 1242-7 C. trav.]]**)
+    - L'article **[[Art. L. 1242-7 C. trav.\|Art. L. 1242-7 C. trav.]]** réserve son recours :
         - Au remplacement d'un salarié temporairement absent ou dont le contrat est suspendu
         - À certains emplois à caractère saisonnier
         - Aux contrats d'usage
@@ -150,7 +150,7 @@ Cette notion de tâche ==**précise**== ou ==**temporaire**== va servir d'indica
  
 ### 3. La sanction d'un recours irrégulier au CDD
 
-**[[L'article L1245-1\|L'article L1245-1]]** détaille les motifs de requalification en CDI :
+**[[Art. L. 1245-1 C. trav.\|Art. L. 1245-1 C. trav.]]** détaille les motifs de requalification en CDI :
 
 - Si la tâche est détournée de sa finalité (arrêt caissière de Carrefour de 2006)
 
@@ -164,7 +164,7 @@ Cette notion de tâche ==**précise**== ou ==**temporaire**== va servir d'indica
 
 - Enfin, l'employeur doit être précis dans l'intitulé du poste, à défaut le contrat encourt la requalification.
 
-- **[[L'article L1245-1\|L'article L1245-1]]** alinéa 2 prévoit que le retard ou le défaut de transmission de l'écrit dans les deux jours n'entraîne plus la requalification en CDI, mais ouvre droit pour le salarié à une indemnité maximale d'un mois de salaire.
+- **[[Art. L. 1245-1 C. trav.\|Art. L. 1245-1 C. trav.]]** alinéa 2 prévoit que le retard ou le défaut de transmission de l'écrit dans les deux jours n'entraîne plus la requalification en CDI, mais ouvre droit pour le salarié à une indemnité maximale d'un mois de salaire.
 
 - En revanche, l'absence totale d'écrit ou de signature entraîne de plein droit la requalification en CDI.
 
@@ -202,13 +202,13 @@ Cette notion de tâche ==**précise**== ou ==**temporaire**== va servir d'indica
 
 - Contrat encadré pour limiter la précarité et garantir la visibilité du salarié sur ses horaires.
 
-- L'**[[article L3123-1\|article L3123-1]]** définit le temps partiel comme tout contrat dont la durée de travail est **strictement inférieure** à la durée légale (35 heures par semaine) ou conventionnelle du temps complet.
+- L'**[[Art. L. 3123-1 C. trav.\|Art. L. 3123-1 C. trav.]]** définit le temps partiel comme tout contrat dont la durée de travail est **strictement inférieure** à la durée légale (35 heures par semaine) ou conventionnelle du temps complet.
 
 - Le temps complet est défini par deux normes :
     - La norme légale : **35 heures par semaine**
     - La norme conventionnelle : la durée fixée par accord de branche ou d'entreprise lorsqu'elle est inférieure à la durée légale.
 
-- **[[L'article L3123-6\|L'article L3123-6]]** fixe les mentions obligatoires du contrat de travail à temps partiel.
+- **[[Art. L. 3123-6 C. trav.\|Art. L. 3123-6 C. trav.]]** fixe les mentions obligatoires du contrat de travail à temps partiel.
 
 - **[[Arrêt du 19 juin 1990\|Arrêt du 19 juin 1990]]** : à défaut d'écrit, le contrat est présumé être conclu à temps complet.
 
@@ -219,7 +219,7 @@ Cette notion de tâche ==**précise**== ou ==**temporaire**== va servir d'indica
         1. De la durée exacte hebdomadaire ou mensuelle convenue ;
         2. Que le salarié n'était pas placé dans l'obligation de se tenir en permanence à la disposition constante de l'employeur.
 
-- Mentions obligatoires prescrites à peine de requalification (**[[L'article L3123-6\|L'article L3123-6]]**) :
+- Mentions obligatoires prescrites à peine de requalification (**[[Art. L. 3123-6 C. trav.\|Art. L. 3123-6 C. trav.]]**) :
 
     - La qualification du salarié
     - La rémunération

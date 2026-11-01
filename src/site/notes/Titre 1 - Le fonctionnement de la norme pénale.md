@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/titre-1-le-fonctionnement-de-la-norme-penale/","tags":["AES/S3/pénal","CM","droit","AES/S3"],"ctime":"2026-09-16T11:50:11.958+02:00","mtime":"2026-10-15T14:40:24.998+02:00","dg-note-properties":{"tags":["AES/S3/pénal","CM","droit","AES/S3"],"class":"[[References/Pénal]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-16, 11 50","date modified":"2026-10-15, 14 40"}}
+{"dg-publish":true,"permalink":"/titre-1-le-fonctionnement-de-la-norme-penale/","tags":["AES/S3/pénal","CM","droit","AES/S3"],"ctime":"2026-09-16T11:50:11.958+02:00","mtime":"2026-10-23T09:47:41.969+02:00","dg-note-properties":{"tags":["AES/S3/pénal","CM","droit","AES/S3"],"class":"[[References/Pénal]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-16, 11 50","date modified":"2026-10-15, 14 40"}}
 ---
 
 
@@ -241,7 +241,7 @@ Ici le contrôle de légalité est large, il intègre à la fois
 Le juge pourrait considérer qu'un texte puisse être illégal en cas d'une norme violant le principe de légalité.
 
 ###### b. Le contrôle applicable à toutes les normes pénales, le contrôle de conventionnalité
-- Il se trouve bien dans les contrôles l'illégalité mais également dans toutes les normes pénales, conformément à **[[l'article 55 de la Constitution de 1958\|l'article 55 de la Constitution de 1958]]**, le juge peut contrôler la norme et adapter sur le fond ou sur la forme à la conventionnalité européenne
+- Il se trouve bien dans les contrôles l'illégalité mais également dans toutes les normes pénales, conformément à **[[Art. 55 C\|Art. 55 C]]**, le juge peut contrôler la norme et adapter sur le fond ou sur la forme à la conventionnalité européenne
 - Là aussi, cela peut être le fait du justiciable comme celui d'un juge qui peut le relever d'office et s'auto-saisir.
 
 > [!info] **Normes pénales de forme**

@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/ce-1-2-ssr-3-decembre-2001/","ctime":"2026-10-22T15:39:32.728+02:00","mtime":"2026-10-22T15:44:39.361+02:00","dg-note-properties":{"date created":"2026-10-22, 15 39","date modified":"2026-10-22, 15 42","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+---
+
+
+# Conseil d'Etat, 1 / 2 SSR, du 3 décembre 2001, 226514, publié au recueil Lebon
+
+*qu'ainsi, les requérants ne peuvent utilement se prévaloir d'une incompatibilité de la loi servant de support au décret attaqué, d'une part, avec les stipulations des engagements internationaux qu'ils invoquent, qu'il s'agisse de l'article 10 du traité instituant la Communauté européenne qui fait obligation aux Etats membres d'assurer l'exécution des obligations découlant du traité, de l'article 6-1 de la convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales relatif au droit à un procès équitable, de l'article 1er du premier protocole additionnel à cette convention relatif au droit de propriété et, d'autre part, avec des principes généraux de l'ordre juridique communautaire déduits du traité instituant la Communauté européenne et ayant la même valeur juridique que ce dernier, qu'il s'agisse du principe de la confiance légitime et du principe de la sécurité juridique applicables aux situations régies par le droit communautaire, du principe de loyauté qui se confond d'ailleurs avec le respect de l'article 10 du traité CE ou encore du principe de primauté, **==lequel au demeurant ne saurait conduire, dans l'ordre interne, à remettre en cause la suprématie de la Constitution ;==***

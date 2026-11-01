@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/le-recrutement-du-salarie/","ctime":"2026-10-08T23:31:16.795+02:00","mtime":"2026-10-15T14:39:49.280+02:00","dg-note-properties":{"date created":"2026-10-08, 23 31","date modified":"2026-10-15, 14 39","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]"}}
+{"dg-publish":true,"permalink":"/le-recrutement-du-salarie/","ctime":"2026-10-08T23:31:16.795+02:00","mtime":"2026-10-23T09:53:37.358+02:00","dg-note-properties":{"date created":"2026-10-08, 23 31","date modified":"2026-10-15, 14 39","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]"}}
 ---
 
 
@@ -14,7 +14,7 @@ Le contrat de travail à temps partiel est un contrat réglementé visant à pro
 
 ### A. Les mentions obligatoires et la présomption de temps complet
 
-Le contrat à temps partiel est un contrat solennel qui exige impérativement un **écrit** comportant des mentions obligatoires légales ([[L'article L3123-6\|L'article L3123-6]]).
+Le contrat à temps partiel est un contrat solennel qui exige impérativement un **écrit** comportant des mentions obligatoires légales ([[Art. L. 3123-6 C. trav.\|Art. L. 3123-6 C. trav.]]).
 
 1. **La durée du travail (hebdomadaire ou mensuelle)**
    * **Sanction de l'omission** : L'absence de mention du volume horaire dans l'écrit entraîne la **présomption simple que le contrat a été conclu à temps complet**.
@@ -46,7 +46,7 @@ Si les horaires du salarié varient de façon constante, imprévisible ou intemp
 * **Exigence de motifs précis** : La clause contractuelle autorisant l'employeur à modifier la répartition des heures de travail doit mentionner la nature exacte des cas de modification (ex. " remplacement pendant les vacances scolaires ").
 * **Prohibition des clauses floues** : Les formules vagues (ex. " selon les besoins du service " ou " en fonction des circonstances ") sont illicites car elles confèrent un pouvoir discrétionnaire à l'employeur et suppriment toute prévisibilité.
 
-#### 4. Le délai de prévenance légal (**[[Art. L. 3123-11\|Art. L. 3123-11]] et [[L. 3123-31 C. trav.\|L. 3123-31 C. trav.]]**)
+#### 4. Le délai de prévenance légal (**[[Art. L. 3123-11 C. trav.\|Art. L. 3123-11 C. trav.]] et [[L. 3123-31 C. trav.\|L. 3123-31 C. trav.]]**)
 * **Délai de droit commun** : Toute modification de la répartition des horaires doit être notifiée au salarié au moins **7 jours ouvrés** avant sa prise d'effet.
 * **Dérogation conventionnelle** : Une convention ou un accord collectif de branche étendu peut prévoir un délai de prévenance différent.
 
@@ -276,7 +276,7 @@ Lorsque le salarié prend l'initiative de rompre la période d'essai, il doit é
 
 #### 1. Le respect de la finalité légale de la période d'essai
 
-Si la rupture de la période d'essai est libre dans son principe, ce droit n'est pas absolu. La liberté de rupture est strictement conditionnée par le respect de la finalité légale fixée par l'article **[[L. 1221-20 du Code du travail\|L. 1221-20 du Code du travail]]** :
+Si la rupture de la période d'essai est libre dans son principe, ce droit n'est pas absolu. La liberté de rupture est strictement conditionnée par le respect de la finalité légale fixée par l'article **[[Art. L. 1221-20 C. trav.\|Art. L. 1221-20 C. trav.]]** :
 * **Pour l'employeur** : Apprécier les compétences et aptitudes professionnelles du salarié sur le poste.
 * **Pour le salarié** : Vérifier si les fonctions occupées lui conviennent.
 
@@ -318,9 +318,9 @@ La période d'essai constitue la phase probatoire située au début de l'exécut
 ### A. Généralités et principes généraux
 
 #### 1. Définition légale
-La période d'essai est définie à l'article **[[L. 1221-20 du Code du travail\|L. 1221-20 du Code du travail]]**.
+La période d'essai est définie à l'article **[[Art. L. 1221-20 C. trav.\|Art. L. 1221-20 C. trav.]]**.
 
-> **[[L. 1221-20 du Code du travail\|L. 1221-20 du Code du travail]]** :  
+> **[[Art. L. 1221-20 C. trav.\|Art. L. 1221-20 C. trav.]]** :  
 > *" La période d'essai permet à l'employeur d'évaluer les compétences du salarié dans son travail, notamment au regard de son expérience, et au salarié d'apprécier si les fonctions occupées lui conviennent. "*
 
 #### 2. Intérêt majeur : La souplesse de rupture
