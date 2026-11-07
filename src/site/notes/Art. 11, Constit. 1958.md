@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-11-constit-1958/","ctime":"2026-10-22T16:20:20.056+02:00","mtime":"2026-10-23T09:45:58.686+02:00","dg-note-properties":{"date created":"2026-10-23, 9 41","date modified":"2026-10-23, 9 41","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-11-constit-1958/","ctime":"2026-10-22T16:20:20.056+02:00","mtime":"2026-11-04T13:38:16.930+01:00","dg-note-properties":{"date created":"2026-10-22, 16 20","date modified":"2026-11-04, 13 38","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
 ---
 
 

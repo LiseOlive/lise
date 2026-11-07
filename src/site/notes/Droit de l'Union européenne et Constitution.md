@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/droit-de-l-union-europeenne-et-constitution/","ctime":"2026-10-22T16:34:35.525+02:00","mtime":"2026-10-23T15:20:43.719+02:00","dg-note-properties":{"date created":"2026-10-22, 16 34","date modified":"2026-10-23, 15 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/droit-de-l-union-europeenne-et-constitution/","ctime":"2026-10-22T16:34:35.525+02:00","mtime":"2026-11-05T16:27:32.076+01:00","dg-note-properties":{"date created":"2026-10-22, 16 34","date modified":"2026-11-05, 16 27","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/2]]"}}
 ---
 
 
@@ -109,7 +109,7 @@ Afin d'éviter les conflits directs et de concilier l'obligation constitutionnel
 # La loi et les normes à valeur législative
 
 > [!abstract] Synthèse générale
-> La loi, votée par le Parlement ou adoptée par le peuple par référendum, constitue la source traditionnelle de la légalité administrative. Sous la Ve République, l'approche organique de la loi s'enrichit d'un critère matériel fondé sur la répartition stricte des compétences entre le domaine de la loi ([[Art. 34 Constit. 1958\|Art. 34 Constit. 1958]]) et le domaine du règlement ([[Article 37 de la Constitution\|Article 37 de la Constitution]]). Si la loi peut empiéter sur le domaine réglementaire sans encourir l'inconstitutionnalité (==[[Décision Blocage des prix et des revenus\|Décision Blocage des prix et des revenus]] (1982)==), elle peut être déclassée par le [[Conseil constitutionnel\|Conseil constitutionnel]] via la procédure de délégalisation (Art. 37 al. 2 C). Au-delà des lois parlementaires (ordinaires, de finances, de financement de la sécurité sociale, de programmation), d'autres normes possèdent une valeur législative : les ordonnances de l'[[Art. 38 Constit. 1958\|Art. 38 Constit. 1958]] après leur ratification explicite par le Parlement, ainsi que les décisions du Président de la République prises dans le domaine législatif en période de pouvoirs exceptionnels (==[[Arrêt Rubin de Servens\|Arrêt Rubin de Servens]] (1962)== sur l'[[Art. 16 C\|Art. 16 C]]).
+> La loi, votée par le Parlement ou adoptée par le peuple par référendum, constitue la source traditionnelle de la légalité administrative. Sous la Ve République, l'approche organique de la loi s'enrichit d'un critère matériel fondé sur la répartition stricte des compétences entre le domaine de la loi ([[Art. 34 Constit. 1958 -  Domaine législatif\|Art. 34 Constit. 1958 -  Domaine législatif]]) et le domaine du règlement ([[Article 37 al 1 de la Constitution - Domaine réglementaire\|Article 37 al 1 de la Constitution - Domaine réglementaire]]). Si la loi peut empiéter sur le domaine réglementaire sans encourir l'inconstitutionnalité (==[[Décision Blocage des prix et des revenus\|Décision Blocage des prix et des revenus]] (1982)==), elle peut être déclassée par le [[Conseil constitutionnel\|Conseil constitutionnel]] via la procédure de délégalisation (Art. 37 al. 2 C). Au-delà des lois parlementaires (ordinaires, de finances, de financement de la sécurité sociale, de programmation), d'autres normes possèdent une valeur législative : les ordonnances de l'[[Art. 38 Constit. 1958\|Art. 38 Constit. 1958]] après leur ratification explicite par le Parlement, ainsi que les décisions du Président de la République prises dans le domaine législatif en période de pouvoirs exceptionnels (==[[Arrêt Rubin de Servens\|Arrêt Rubin de Servens]] (1962)== sur l'[[Art. 16 C\|Art. 16 C]]).
 
 # I. La diversité des actes à valeur législative issus du Parlement et du peuple
 
@@ -117,7 +117,7 @@ Afin d'éviter les conflits directs et de concilier l'obligation constitutionnel
 
 ### 1. Les lois ordinaires
 * **Définition** : Actes votés par le Parlement (Assemblée nationale et Sénat) selon la procédure législative de droit commun fondée sur l'[[Art. 39 - Constit. 4 octobre 1958\|Art. 39 - Constit. 4 octobre 1958]].
-* **Portée** : Constituent la catégorie générale des lois fixant les règles et principes fondamentaux dans les matières énumérées à l'[[Art. 34 Constit. 1958\|Art. 34 Constit. 1958]].
+* **Portée** : Constituent la catégorie générale des lois fixant les règles et principes fondamentaux dans les matières énumérées à l'[[Art. 34 Constit. 1958 -  Domaine législatif\|Art. 34 Constit. 1958 -  Domaine législatif]].
 
 ### 2. Les lois de finances
 * **Ancrage constitutionnel** : Prévues à l'[[Art. 47, Constit. 1958\|Art. 47, Constit. 1958]] et régies par la Loi organique relative aux lois de finances (LOLF).
@@ -131,7 +131,7 @@ Afin d'éviter les conflits directs et de concilier l'obligation constitutionnel
 * **Spécificités** : Soumises à un calendrier d'examen encadré (50 jours).
 
 ### 4. Les lois de programmation
-* **Ancrage constitutionnel** : Prévues à l'[[Art. 34 Constit. 1958\|Art. 34 Constit. 1958]].
+* **Ancrage constitutionnel** : Prévues à l'[[Art. 34 Constit. 1958 -  Domaine législatif\|Art. 34 Constit. 1958 -  Domaine législatif]].
 * **Objet** : Déterminent les objectifs pluriannuels de l'action de l'État dans des secteurs stratégiques (ex. programmation militaire, programmation pour la recherche et les universités).
 * **Portée juridique** : Fixent des orientations financières et politiques sur plusieurs années (dérogation au principe d'annualité budgétaire), mais ne lient pas de manière absolue les lois de finances annuelles ultérieures qui conservent le dernier mot.
 
@@ -152,7 +152,7 @@ La Constitution de 1958 rompt avec la tradition de souveraineté parlementaire i
 
 * **Le domaine de la loi (Article 34 C)** :
   * La Constitution dresse une liste d'attributions réservées à la loi.
-  * *Distinction interne* : L'[[Art. 34 Constit. 1958\|Art. 34 Constit. 1958]] distingue les matières où la loi " *fixe les règles* " (ex. libertés publiques, état des personnes, droit pénal) et celles où elle se borne à " *déterminer les principes fondamentaux* " (ex. enseignement, propriété, droit du travail, libre administration des collectivités territoriales).
+  * *Distinction interne* : L'[[Art. 34 Constit. 1958 -  Domaine législatif\|Art. 34 Constit. 1958 -  Domaine législatif]] distingue les matières où la loi " *fixe les règles* " (ex. libertés publiques, état des personnes, droit pénal) et celles où elle se borne à " *déterminer les principes fondamentaux* " (ex. enseignement, propriété, droit du travail, libre administration des collectivités territoriales).
 * **Le domaine du règlement (Article 37 alinéa 1 C)** :
   * Dispose que " *les matières autres que celles qui sont du domaine de la loi ont un caractère réglementaire* ".
   * Le pouvoir réglementaire possède ainsi une compétence de principe (de droit commun), tandis que la loi dispose d'une compétence d'attribution.
@@ -162,11 +162,11 @@ La Constitution de 1958 rompt avec la tradition de souveraineté parlementaire i
 ### 1. La perméabilité au profit de la loi
 * **Empiétement de la loi sur le règlement** : Si une loi intervient dans une matière relevant en principe du domaine réglementaire (Art. 37 C), cet empiétement ne constitue pas un vice d'inconstitutionnalité.
 * **Jurisprudence majeure** : ==[[Décision Blocage des prix et des revenus\|Décision Blocage des prix et des revenus]] (Conseil constitutionnel, 30 juillet 1982)==.
-  * **Règle posée** : Le Conseil constitutionnel juge que l'[[Art. 34 Constit. 1958\|Art. 34 Constit. 1958]] ne prive pas le législateur de la possibilité d'intervenir dans le domaine réglementaire. Une disposition de forme législative prise dans une matière réglementaire reste valide.
+  * **Règle posée** : Le Conseil constitutionnel juge que l'[[Art. 34 Constit. 1958 -  Domaine législatif\|Art. 34 Constit. 1958 -  Domaine législatif]] ne prive pas le législateur de la possibilité d'intervenir dans le domaine réglementaire. Une disposition de forme législative prise dans une matière réglementaire reste valide.
 
 ### 2. L'étanchéité stricte au détriment du règlement
 * **Interdiction pour le pouvoir réglementaire** : Le gouvernement ne peut jamais de sa propre initiative empiéter sur le domaine de la loi.
-* **Sanction** : Un décret intervenant dans le domaine réservé de la loi sans habilitation est entaché d'incompétence et encourt l'annulation par le juge administratif pour violation de l'[[Art. 34 Constit. 1958\|Art. 34 Constit. 1958]].
+* **Sanction** : Un décret intervenant dans le domaine réservé de la loi sans habilitation est entaché d'incompétence et encourt l'annulation par le juge administratif pour violation de l'[[Art. 34 Constit. 1958 -  Domaine législatif\|Art. 34 Constit. 1958 -  Domaine législatif]].
 
 ### 3. La procédure de délégalisation (Article 37 alinéa 2 C)
 * **Objet** : Permet au gouvernement de reconquérir sa compétence réglementaire lorsqu'une loi a empiété sur le domaine du règlement.
@@ -174,7 +174,7 @@ La Constitution de 1958 rompt avec la tradition de souveraineté parlementaire i
 * **Effet de la décision de délégalisation** : Une fois le déclassement prononcé par le Conseil constitutionnel, le gouvernement peut modifier ou abroger la disposition par simple décret.
 
 > [!note] L'approche matérielle de la norme
-> Le découpage issu des [[Art. 34 Constit. 1958\|Articles 34]] et [[Article 37 de la Constitution\|37]] impose de dépasser le seul critère organique (qui a adopté l'acte) pour combiner un **critère matériel** (quelle est la nature de la matière régie) afin d'apprécier la valeur effective des dispositions d'un texte.
+> Le découpage issu des [[Art. 34 Constit. 1958 -  Domaine législatif\|Articles 34]] et [[Article 37 al 1 de la Constitution - Domaine réglementaire\|37]] impose de dépasser le seul critère organique (qui a adopté l'acte) pour combiner un **critère matériel** (quelle est la nature de la matière régie) afin d'apprécier la valeur effective des dispositions d'un texte.
 
 # III. Les autres actes à valeur législative : Ordonnances et pouvoirs d'exception
 

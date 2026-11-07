@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/l-application-de-la-norme-penale-dans-l-espace-partie-2/","ctime":"2026-10-14T14:15:15.442+02:00","mtime":"2026-10-14T16:33:48.956+02:00","dg-note-properties":{"subject":null,"tags":[],"date created":"2026-10-14, 14 15","date modified":"2026-10-14, 16 33","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/l-application-de-la-norme-penale-dans-l-espace-partie-2/","title":"L'application de la norme pénale dans l'espace - Partie 2","ctime":"2026-10-14T14:15:15.442+02:00","mtime":"2026-11-06T22:19:06.360+01:00","dg-note-properties":{"subject":null,"tags":[],"date created":"2026-10-14, 14 15","date modified":"2026-11-06, 22 19","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]","title":"L'application de la norme pénale dans l'espace - Partie 2"}}
 ---
 
 
@@ -139,3 +139,40 @@
 
 * **Définition** : Exigence supplémentaire imposée par le législateur pour certaines infractions intentionnelles, consistant en une intention plus soutenue ou orientée vers un résultat précis.
 * **Mise en œuvre** : En plus du dol général, la loi exige la poursuite d'un but déterminé (ex. l'intention d'exterminer un groupe pour le crime de génocide, ou l'intention de tuer pour l'homicide volontaire).
+
+**EXAMEN** : *Le dol præter-intentionnel est-il une faute intentionnelle ? "
+
+* **Réponse selon le cours** : **Oui, il s'agit d'une variante de la faute intentionnelle**.
+* **Démonstration** :
+    * L'agent accomplit **volontairement un acte matériel fautif initial** (ex. des violences volontaires).
+    * Toutefois, le **résultat dommageable effectif a dépassé les prévisions et la volonté de son auteur** (ex. le décès de la victime).
+    * Il se distingue de l'homicide involontaire (où l'acte initial n'est pas un délit volontaire) et du meurtre (où l'intention de donner la mort, l'_animus necandi_, est requise).
+    * **Illustration légale** : L'[[Art. 222-7 c.p.\|Art. 222-7 c.p.]] sanctionne les _" violences ayant entraîné la mort sans intention de la donner "_.
+
+*EXAMEN* : **" Les violences volontaires (relevant du dol indéterminé ou præter-intentionnel) sont-elles des infractions matérielles ? "**
+
+* **Réponse selon le cours** : **Oui, ce sont des infractions matérielles**.
+* **Démonstration** :
+    * Leur caractérisation exige la survenance effective d'un dommage (incapacité temporaire de travail, infirmité permanente ou mort).
+    * Ce dommage constitue à la fois un élément matériel indispensable et un **élément qualifiant** fixant le degré de gravité de la peine encourue.
+
+### C. Le dol éventuel : une faute à mi-chemin
+
+* **Définition théorique** : Le dol éventuel se caractérise par le fait que l'auteur a pu prévoir les conséquences de son acte et les a envisagées comme possibles ou probables, sans les avoir directement voulues, se bornant à courir le risque de voir se réaliser le résultat illicite.
+* **Positionnement intermédiaire** : La faute de mise en danger délibérée (qui traduit la notion de dol éventuel) est qualifiée par la doctrine et la jurisprudence de faute **à mi-chemin entre la faute intentionnelle et la faute non intentionnelle**.
+    * Elle ne constitue pas une faute intentionnelle classique, car l'agent ne recherche pas directement la survenance d'un dommage ou l'atteinte à une valeur sociale.
+    * Elle se distingue toutefois d'une simple imprudence ou négligence, car l'agent adopte un **comportement à risque** en violant de manière consciente et délibérée une obligation particulière de sécurité imposée par la loi ou le règlement.
+
+### D. La preuve du caractère délibéré déduite des circonstances
+
+* **Impossible observation directe de la volonté** : L'élément moral relevant de la sphère psychologique de l'auteur, il est impossible de sonder directement la volonté initiale de l'agent au moment où il a agi.
+* **Faisceau d'indices matériels** : La preuve du caractère délibéré ou de l'intention se trouve donc **déduite des circonstances matérielles de l'espèce** par le juge.
+    * **Exemple de l'excès de vitesse** : La violation d'une règle de circulation (ex. un excès de vitesse) commise en pleine agglomération et de jour démontre l'exposition délibérée d'autrui à un risque grave, alors que le même comportement en pleine campagne ne sera pas apprécié de la même manière par la chambre criminelle.
+    * **Exemple des violences** : Le fait de jeter un objet lourd ou une pierre en direction de la tête d'une personne constitue un faisceau d'indices matériels suffisant pour déduire l'élément moral d'atteinte à la personne ou la gravité de la faute.
+
+### E. Les deux applications juridiques de la mise en danger
+
+1. **Sans dommage (Infraction autonome)** : La faute de mise en danger délibérée nourrit l'élément moral du délit de risque causé à autrui ([[Art. 223-1 du Code Pénal\|Art. 223-1 du Code Pénal]]). Il s'agit d'une infraction formelle qui sanctionne la simple exposition d'autrui à un risque immédiat de mort ou de mutilation, même si aucun dommage ne s'est produit.
+2. **Avec dommage (Infraction non intentionnelle)** :
+    * Elle agit comme **circonstance aggravante** des délits non intentionnels (tels que l'homicide involontaire ou les blessures involontaires).
+    * Elle constitue l'un des deux cas de fautes qualifiées permettant d'engager la **responsabilité pénale de l'auteur indirect** en cas de causalité indirecte : [[art. 121-3 al. 3 et 4 du Code pénal, ou Loi Fauchon du 10 juillet 2000\|art. 121-3 al. 3 et 4 du Code pénal, ou Loi Fauchon du 10 juillet 2000]]

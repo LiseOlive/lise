@@ -22,15 +22,15 @@
 > | [[David Ricardo\|David Ricardo]]                                                 | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Homo oeconomicus\|Homo oeconomicus]]                                           | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Karl Marx\|Karl Marx]]                                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
-> | [[Léon Walras\|Léon Walras]]                                                     | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Marginalisme\|Marginalisme]]                                                   | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
+> | [[Léon Walras\|Léon Walras]]                                                     | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Plus-value\|Plus-value]]                                                       | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Théorie de la valeur\|Théorie de la valeur]]                                   | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Utilité marginale\|Utilité marginale]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
-> | [[William Stanley Jevons\|William Stanley Jevons]]                               | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Vilfredo Pareto\|Vilfredo Pareto]]                                             | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
-> | [[Équilibre partiel\|Équilibre partiel]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
+> | [[William Stanley Jevons\|William Stanley Jevons]]                               | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Équilibre général\|Équilibre général]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
+> | [[Équilibre partiel\|Équilibre partiel]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > 
 { .block-language-dataview}
 >

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-16-c/","ctime":"2026-10-22T16:53:18.263+02:00","mtime":"2026-10-23T09:45:32.498+02:00","dg-note-properties":{"date created":"2026-10-23, 9 41","date modified":"2026-10-23, 9 41","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-16-c/","ctime":"2026-10-22T16:53:18.263+02:00","mtime":"2026-11-04T13:40:13.795+01:00","dg-note-properties":{"date created":"2026-10-22, 16 53","date modified":"2026-11-04, 13 40","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
 ---
 
 
