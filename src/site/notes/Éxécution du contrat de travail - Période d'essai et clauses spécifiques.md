@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/execution-du-contrat-de-travail-periode-d-essai-et-clauses-specifiques/","ctime":"2026-10-22T15:30:17.847+02:00","mtime":"2026-11-06T22:27:56.222+01:00","dg-note-properties":{"date created":"2026-10-22, 15 30","date modified":"2026-11-06, 22 27","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
+{"dg-publish":true,"permalink":"/execution-du-contrat-de-travail-periode-d-essai-et-clauses-specifiques/","ctime":"2026-10-22T15:30:17.847+02:00","mtime":"2026-11-08T19:00:01.871+01:00","dg-note-properties":{"date created":"2026-10-22, 15 30","date modified":"2026-11-06, 22 27","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
 ---
 
 
@@ -262,7 +262,7 @@ Le pouvoir de direction confère à l'employeur la prérogative d'organiser, de 
 #### C. Autres limites au pouvoir de direction : les droits et libertés des salariés
 
 > [!abstract] Principe général de protection des libertés
-> Aux termes de l'[[Art. L1121-1 trav\|Art. L. 1121-1 C. trav.]], nul ne peut apporter aux droits des personnes et aux libertés individuelles et collectives des restrictions qui ne seraient pas **justifiées par la nature de la tâche à accomplir** ni **proportionnées au but recherché**.
+> Aux termes de l'[[Art. L. 1121-1 C. trav.\|Art. L. 1121-1 C. trav.]], nul ne peut apporter aux droits des personnes et aux libertés individuelles et collectives des restrictions qui ne seraient pas **justifiées par la nature de la tâche à accomplir** ni **proportionnées au but recherché**.
 
 * **Sanction de l'inobservation** : Si l'employeur prend une décision qui viole ce principe, celle-ci est frappée de **nullité** (ex. *interdiction d'adhérer à un syndicat*).
 * **Conditions de validité d'une restriction** : L'employeur peut prendre des décisions portant atteinte aux libertés individuelles à la **double condition** qu'elles soient :
@@ -276,19 +276,19 @@ Le pouvoir de direction confère à l'employeur la prérogative d'organiser, de 
 
 * **Principe d'étanchéité de la vie privée extérieure** :
   * L'employeur **ne doit pas porter atteinte à la vie privée du salarié qui se déroule en dehors de l'entreprise**. Il ne peut prendre de décision défavorable strictement fondée sur un fait de la vie personnelle.
-  * *Interdiction des clauses de célibat et des demandes d'informations privées* : Un [[arrêt du 10 juin 2022\|arrêt du 10 juin 2022]] déclare qu'une clause interdisant aux salariés de se marier entre eux est illicite. Selon un [[arrêt du 10 décembre 2025\|arrêt du 10 décembre 2025]], la Cour de cassation interdit à l'employeur d'exiger des informations sur la situation familiale du candidat ou du salarié.
+  * *Interdiction des clauses de célibat et des demandes d'informations privées* : Un [[Cass. soc., 10 juin 2022\|arrêt du 10 juin 2022]] déclare qu'une clause interdisant aux salariés de se marier entre eux est illicite. Selon un [[Cass. soc., 10 décembre 2025\|arrêt du 10 décembre 2025]], la Cour de cassation interdit à l'employeur d'exiger des informations sur la situation familiale du candidat ou du salarié.
 
 * **Insanctionnabilité des faits tirés de la vie privée** :
   * Tout fait commis dans le cadre privé est en principe extérieur à l'entreprise et **ne peut pas justifier une sanction disciplinaire**.
-  * *Exemple* : Selon l'[[arrêt 16 décembre 1992\|arrêt du 16 décembre 1992]], le salarié ayant commis une infraction pénale dans sa vie privée ne peut pas faire l'objet d'une sanction disciplinaire pour ce motif.
+  * *Exemple* : Selon l'[[Cass. soc., 16 décembre 1992\|arrêt du 16 décembre 1992]], le salarié ayant commis une infraction pénale dans sa vie privée ne peut pas faire l'objet d'une sanction disciplinaire pour ce motif.
 
 * **Maintien d'une vie privée au sein de l'entreprise** :
   * Le salarié bénéficie également d'une sphère de vie privée au sein de l'entreprise (*ex. espaces sanitaires, vestiaires, correspondances d'ordre personnel*).
 
 * **Surveillance de l'employé et secret des correspondances** :
   * Les mesures de surveillance peuvent être légitimes mais **ne doivent pas porter atteinte à la vie privée ni au secret des correspondances**.
-  * *Arrêt Nikon* : Selon l'[[arrêt du 2 octobre 2001\|arrêt du 2 octobre 2001]], l'employeur ne peut pas prendre connaissance des messages à caractère personnel émis ou reçus par le salarié depuis son ordinateur professionnel, même en cas d'interdiction d'utilisation personnelle de l'outil informatique.
-  * *Présomption de caractère professionnel* : Selon l'[[arrêt 18 octobre 2011\|arrêt du 18 octobre 2011]], les messages et fichiers stockés sur l'outil professionnel sont présumés avoir un caractère professionnel. L'employeur peut les consulter hors la présence du salarié, **sauf s'ils sont expressément identifiés comme "personnels"**.
+  * *Arrêt Nikon* : Selon l'[[Cass. soc., 2 octobre 2001\|arrêt du 2 octobre 2001]], l'employeur ne peut pas prendre connaissance des messages à caractère personnel émis ou reçus par le salarié depuis son ordinateur professionnel, même en cas d'interdiction d'utilisation personnelle de l'outil informatique.
+  * *Présomption de caractère professionnel* : Selon l'[[Cass. soc., 18 octobre 2011\|arrêt du 18 octobre 2011]], les messages et fichiers stockés sur l'outil professionnel sont présumés avoir un caractère professionnel. L'employeur peut les consulter hors la présence du salarié, **sauf s'ils sont expressément identifiés comme "personnels"**.
 
 * **Loyauté de la preuve et information préalable** :
   * Lorsque l'employeur met en place un dispositif de surveillance, **le salarié doit en être préalablement informé**.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/le-recrutement-du-salarie/","ctime":"2026-10-08T23:31:16.795+02:00","mtime":"2026-10-23T09:53:37.358+02:00","dg-note-properties":{"date created":"2026-10-08, 23 31","date modified":"2026-10-15, 14 39","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]"}}
+{"dg-publish":true,"permalink":"/le-recrutement-du-salarie/","ctime":"2026-10-08T23:31:16.795+02:00","mtime":"2026-11-08T18:47:19.273+01:00","dg-note-properties":{"date created":"2026-10-08, 23 31","date modified":"2026-10-15, 14 39","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]"}}
 ---
 
 
@@ -46,7 +46,7 @@ Si les horaires du salarié varient de façon constante, imprévisible ou intemp
 * **Exigence de motifs précis** : La clause contractuelle autorisant l'employeur à modifier la répartition des heures de travail doit mentionner la nature exacte des cas de modification (ex. " remplacement pendant les vacances scolaires ").
 * **Prohibition des clauses floues** : Les formules vagues (ex. " selon les besoins du service " ou " en fonction des circonstances ") sont illicites car elles confèrent un pouvoir discrétionnaire à l'employeur et suppriment toute prévisibilité.
 
-#### 4. Le délai de prévenance légal (**[[Art. L. 3123-11 C. trav.\|Art. L. 3123-11 C. trav.]] et [[L. 3123-31 C. trav.\|L. 3123-31 C. trav.]]**)
+#### 4. Le délai de prévenance légal (**[[Art. L. 3123-11 C. trav.\|Art. L. 3123-11 C. trav.]] et [[Art. L. 3123-31 C. trav.\|Art. L. 3123-31 C. trav.]]**)
 * **Délai de droit commun** : Toute modification de la répartition des horaires doit être notifiée au salarié au moins **7 jours ouvrés** avant sa prise d'effet.
 * **Dérogation conventionnelle** : Une convention ou un accord collectif de branche étendu peut prévoir un délai de prévenance différent.
 
@@ -57,7 +57,7 @@ Afin de lutter contre le sous-emploi et la précarité des salariés, le législ
 
 #### 1. Le principe du plancher légal (**[[Art. L. 3123-7 C. trav.\|Art. L. 3123-7 C. trav.]]**)
 * **Durée minimale légale** : La durée minimale d'un contrat à temps partiel est fixée à **24 heures par semaine** (ou l'équivalent mensuel).
-* **Dérogation conventionnelle** (**[[Art. L. 3123-19\|Art. L. 3123-19]] et [[L. 3123-27 C. trav.\|L. 3123-27 C. trav.]]**) : Une convention collective de branche étendue peut fixer une durée minimale inférieure ou supérieure.
+* **Dérogation conventionnelle** (**[[Art. L. 3123-19 C. trav.\|Art. L. 3123-19 C. trav.]] et [[Art. L. 3123-27 C. trav.\|Art. L. 3123-27 C. trav.]]**) : Une convention collective de branche étendue peut fixer une durée minimale inférieure ou supérieure.
 
 #### 2. Les exceptions légales au plancher des 24 heures
 L'exigence des 24 heures minimales ne s'applique pas dans quatre cas prévus par la loi :
@@ -118,7 +118,7 @@ L'offre d'emploi (ou petite annonce) est fréquemment utilisée pour diffuser le
 
 Lors des entretiens ou des questionnaires d'embauche, le pouvoir d'investigation de l'employeur est circonscrit par la protection des droits fondamentaux du candidat.
 
-> **[[Article L. 1221-6 du Code du travail\|Article L. 1221-6 du Code du travail]]** :  
+> **[[Art. L. 1221-6 C. trav.\|Art. L. 1221-6 C. trav.]]** :  
 > *" Les informations demandées, sous quelque forme que ce soit, au candidat à un emploi ne peuvent avoir comme finalité que d'apprécier sa capacité à occuper l'emploi proposé ou ses aptitudes professionnelles. Ces informations doivent présenter un lien direct et nécessaire avec l'emploi proposé ou avec l'évaluation des aptitudes professionnelles. "*
 
 * **Principe de finalité et de pertinence** :
@@ -222,9 +222,9 @@ La période d'essai présente un intérêt majeur pour l'employeur comme pour le
 
 #### 1. Le principe de liberté et de facilité de rupture
 
-L'article **[[L. 1231-1 du Code du travail\|L. 1231-1 du Code du travail]]** pose le principe fondamental selon lequel les règles régissant la rupture du contrat de travail (licenciement ou démission) ne s'appliquent pas pendant la période d'essai.
+L'article **[[Art. L. 1231-1 C. trav.\|Art. L. 1231-1 C. trav.]]** pose le principe fondamental selon lequel les règles régissant la rupture du contrat de travail (licenciement ou démission) ne s'appliquent pas pendant la période d'essai.
 
-> **Article [[L. 1231-1 du Code du travail\|L. 1231-1 du Code du travail]] :  
+> **Article [[Art. L. 1231-1 C. trav.\|Art. L. 1231-1 C. trav.]] :  
 > *" Le contrat de travail à durée indéterminée peut être rompu à l'initiative de l'employeur ou du salarié […]. Les dispositions du présent titre ne sont pas applicables pendant la période d'essai. "*
 
 * **Côté employeur** : La rupture n'est pas un licenciement. L'employeur est dispensé de convoquer le salarié à un entretien préalable, de notifier la rupture par lettre recommandée motivée ou de verser des indemnités de licenciement.
@@ -372,7 +372,7 @@ La loi du 25 juin 2008 encadre la durée maximale de la période d'essai initial
 > * **Agents de maîtrise et techniciens** : **3 mois** maximum.  
 > * **Cadres** : **4 mois** maximum.
 
-#### 2. Durées maximales renouvellement compris (**[[Article L. 1221-21 du Code du travail\|Article L. 1221-21 du Code du travail]]**)
+#### 2. Durées maximales renouvellement compris (**[[Art. L. 1221-21 C. trav.\|Art. L. 1221-21 C. trav.]]**)
 En cas de renouvellement, la durée totale de la période d'essai (période initiale + renouvellement) ne peut excéder des plafonds légaux stricts :
 
 * **Ouvriers et employés** : **4 mois** maximum.
@@ -399,7 +399,7 @@ Pour les contrats à durée déterminée, la durée est proportionnelle à la du
 
 ### B. Le renouvellement de la période d'essai
 
-#### 1. Conditions cumulatives de validité (**[[Article L. 1221-21 du Code du travail\|Article L. 1221-21 du Code du travail]]**)
+#### 1. Conditions cumulatives de validité (**[[Art. L. 1221-21 C. trav.\|Art. L. 1221-21 C. trav.]]**)
 Le renouvellement de la période d'essai n'est ni automatique ni discrétionnaire. Il est soumis à des conditions cumulatives très strictes :
 
 > **[[Art. L. 1221-23 C. trav.\|Art. L. 1221-23 C. trav.]]** :  

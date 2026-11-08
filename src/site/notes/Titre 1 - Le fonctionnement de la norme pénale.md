@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/titre-1-le-fonctionnement-de-la-norme-penale/","tags":["AES/S3/pénal","CM","droit","AES/S3"],"ctime":"2026-09-16T11:50:11.958+02:00","mtime":"2026-10-23T09:47:41.969+02:00","dg-note-properties":{"tags":["AES/S3/pénal","CM","droit","AES/S3"],"class":"[[References/Pénal]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-16, 11 50","date modified":"2026-10-15, 14 40"}}
+{"dg-publish":true,"permalink":"/titre-1-le-fonctionnement-de-la-norme-penale/","tags":["AES/S3/pénal","CM","droit","AES/S3"],"ctime":"2026-09-16T11:50:11.958+02:00","mtime":"2026-11-08T19:00:01.859+01:00","dg-note-properties":{"tags":["AES/S3/pénal","CM","droit","AES/S3"],"class":"[[References/Pénal]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-16, 11 50","date modified":"2026-10-15, 14 40"}}
 ---
 
 
@@ -7,12 +7,12 @@
 
 # Titre 1 - Le fonctionnement de la norme pénale
 
-- **Principes généraux** : **[[Article 111-1\|Article 111-1]]**, le premier article, affirme la classification tripartite des infractions, à savoir
+- **Principes généraux** : **[[Art. 111-1 C. pén.\|Art. 111-1 C. pén.]]**, le premier article, affirme la classification tripartite des infractions, à savoir
 	- Les crimes
 	- les délits
 	- les contraventions
 	  
-> [!cite] **[[Article 111-1\|Article 111-1]] :** *Les infractions pénales sont classées, suivant leur gravité, en crimes, délits et contraventions.*
+> [!cite] **[[Art. 111-1 C. pén.\|Art. 111-1 C. pén.]] :** *Les infractions pénales sont classées, suivant leur gravité, en crimes, délits et contraventions.*
 > 
 
 ## Chapitre 1 - La définition légale de l'infraction
@@ -84,7 +84,7 @@ flowchart LR
 ### 4 . Les intérêts à la classification
 - Cette classification emporte des conséquences à la fois du point de vue **des sources et des organes** ayant compétences pour créer des infractions, que **du point de vue procédural** car un certain nombre de règles du procès pénal dépendent de cette classification.
 --- 
-Du point de vue des sources, [[l'article 111-2 du Code pénal\|l'article 111-2 du Code pénal]] dispose :
+Du point de vue des sources, [[Art. 111-2 C. pén.]] dispose :
 > [!cite] *La loi détermine les crimes et délits et fixe les peines applicables à leurs auteurs.* *Le règlement détermine les contraventions et fixe, dans les limites et selon les distinctions établies par la loi, les peines applicables aux contrevenants.*
 > 
 
@@ -148,7 +148,7 @@ timeline
 > [!quote] Becaria - Traités des délits et des peines, 1964
 > "*Nullum crimen nulla poena sine lege*"
 
-- Ce principe est exprimé à l'article [[111-3 du Code Pénal\|111-3 du Code Pénal]] 
+- Ce principe est exprimé à l'article [[Art. 111-3 C. pén.]] 
 > [!quote] Article 111-3
 > Nul ne peut être puni pour un crime ou pour un délit dont les éléments ne sont pas définis par la loi, ou pour une contravention dont les éléments ne sont pas définis par le règlement.
 > Nul ne peut être puni d'une peine qui n'est pas prévue par la loi, si l'infraction est un crime ou un délit, ou par le règlement, si l'infraction est une contravention.
@@ -174,17 +174,17 @@ timeline
 ### 3. Conséquences à l'égard du législateur
 - Encore faut-il que le texte soit suffisamment **clair** et **précis**, dans sa peine
   
-  **Exigence constitutionnelle de qualité du texte pénal**, qui ressort de la **[[décision fondatrice rendue en la matière les 19 et 20 janvier 1981 \|décision fondatrice rendue en la matière les 19 et 20 janvier 1981 ]]**
+  **Exigence constitutionnelle de qualité du texte pénal**, qui ressort de la **[[Décision des 19 et 20 janvier 1981 (Sécurité et liberté)]]**
 	- Le conseil constitutionnel peut **censurer** **une** décision qui ne serait pas **conforme** à ce principe constitutionnel
-> [!example] Ex. **le harcèlement sexuel**, définit de manière imprécise avec le seul mot *harceler*, est **[[abrogé le 4 mai 2012\|abrogé le 4 mai 2012]]** car ne répondant pas à l'exigence de clarté et de décision. **[[Loi du 6 août 2012\|Loi du 6 août 2012]]**, le harcèlement sexuel revient dans le code Pénal et le définit clairement.
+> [!example] Ex. **le harcèlement sexuel**, définit de manière imprécise avec le seul mot *harceler*, est **[[abrogé le 4 mai 2012]]** car ne répondant pas à l'exigence de clarté et de décision. **[[Loi du 6 août 2012]]**, le harcèlement sexuel revient dans le code Pénal et le définit clairement.
 > 
 
 - En comparaison, la cour européenne des Droits de l'Homme est beaucoup moins exigeante au regard de la légalité des textes. Elle considère au même titre **le texte** de **la jurisprudence** au regard du droit.
-> [!example] Ex. **[[L'arrêt Cantoni contre France, l'arrêt de 1996\|L'arrêt Cantoni contre France, l'arrêt de 1996]]** considère que ***"la condition de clarté*** est remplie lorsque le justiciable peut savoir à partir du libellé de la disposition pertinente et au besoin à l'aide de son interprétation par les tribunaux quels **actes** et **omissions** engagent sa responsabilité pénale"
+> [!example] Ex. **[[Arrêt Cantoni c. France (1996)]]** considère que ***"la condition de clarté*** est remplie lorsque le justiciable peut savoir à partir du libellé de la disposition pertinente et au besoin à l'aide de son interprétation par les tribunaux quels **actes** et **omissions** engagent sa responsabilité pénale"
 
 ### 4. Les forces et les faiblesses du principe de l'égalité
 ##### A. Faiblesses (ou imperfections)
-1. Renvoie à l'article **[[l'article 111-2 du Code pénal\|l'article 111-2 du Code pénal]]**, le principe de légalité est ***parlementaires***, qui sont élus et représentent le peuple
+1. Renvoie à l'article **[[Art. 111-2 C. pén.]]**, le principe de légalité est ***parlementaires***, qui sont élus et représentent le peuple
 	- il doit être vu au sens **==formel==**
 
 Mais on a vu que la source de norme pénale peut-être la loi mais également le **règlement**, ***l'exécutif*** au sens propre.
@@ -211,7 +211,7 @@ Cela affaiblit le pouvoir du législateur dans le sens ***formel***, dans sa cap
 	- le Conseil d'État
 	- les AAI (Actes Administratifs Individuels)
 	- les REP (Recours pour excès de pouvoir)
-Ce dispositif est prévu à l'article [[111-5\|111-5]] du Code Pénal
+Ce dispositif est prévu à l'article [[Art. 111-5 C. pén.]] du Code Pénal
 
 Les **juridictions pénales** sont compétentes pour interpréter les actes administratifs, réglementaires ou individuels et pour en apprécier la légalité lorsque, de cet examen, dépend la solution du procès pénal qui leur est soumis.
 
@@ -226,11 +226,11 @@ Deux étapes :
 >
 
 
-***Exemple*** : Le permis à point instauré le [[10 juillet 1989\|10 juillet 1989]]
+***Exemple*** : Le permis à point instauré le [[10 juillet 1989]]
 
-1. **[[Arrêt 11 juillet 1994\|Arrêt 11 juillet 1994]]** Le tribunal se dit **incompétent** à juger l'exception d'illégalité, dont la contravention n'est que la conséquence du système de point
+1. **[[Crim., 11 juillet 1994]]** Le tribunal se dit **incompétent** à juger l'exception d'illégalité, dont la contravention n'est que la conséquence du système de point
 
-2. **[[Arrêt Roche 1996\|Arrêt Roche 1996]]**, le juge pénal s'est déclaré **compétent** pour déclarer son contrôle des normes contraventionnelles. Le refus de restitution du permis de conduire fait suite à l'arrêt total de point, on est bien dans une solution administrative dont est **compétent** le juge pénal.
+2. **[[Arrêt Roche (1996)]]**, le juge pénal s'est déclaré **compétent** pour déclarer son contrôle des normes contraventionnelles. Le refus de restitution du permis de conduire fait suite à l'arrêt total de point, on est bien dans une solution administrative dont est **compétent** le juge pénal.
 
 On passe donc à la 2e étape, **l'appréciation de validité***, si la loi est conforme à la hiérarchie des sources et donc à la norme européenne.
 Ici, la cour a considéré que le système de retrait de point était tout à fait légal, car chaque perte partielle de point est subordonnée à la reconnaissance de la culpabilité de l'auteur
@@ -241,15 +241,15 @@ Ici le contrôle de légalité est large, il intègre à la fois
 Le juge pourrait considérer qu'un texte puisse être illégal en cas d'une norme violant le principe de légalité.
 
 ###### b. Le contrôle applicable à toutes les normes pénales, le contrôle de conventionnalité
-- Il se trouve bien dans les contrôles l'illégalité mais également dans toutes les normes pénales, conformément à **[[Art. 55 C\|Art. 55 C]]**, le juge peut contrôler la norme et adapter sur le fond ou sur la forme à la conventionnalité européenne
+- Il se trouve bien dans les contrôles l'illégalité mais également dans toutes les normes pénales, conformément à **[[Art. 55 Const.]]**, le juge peut contrôler la norme et adapter sur le fond ou sur la forme à la conventionnalité européenne
 - Là aussi, cela peut être le fait du justiciable comme celui d'un juge qui peut le relever d'office et s'auto-saisir.
 
 > [!info] **Normes pénales de forme**
 > 1. **Les dispositions en matière de garde à vue**
->>   La chambre criminelle a sanctionné ces dispositions pour manquement, le [[le 11 avril 2011\|le 11 avril 2011]], à la conventionnalité, et applique immédiatement en l'espèce la norme européenne, puis dans un second la norme du juge en la matière de garde à vue
+>>   La chambre criminelle a sanctionné ces dispositions pour manquement, le [[le 11 avril 2011]], à la conventionnalité, et applique immédiatement en l'espèce la norme européenne, puis dans un second la norme du juge en la matière de garde à vue
 >
 > 2. La dissimulation du visage 
->> Invoqué devant le juge pénal au regard de l'[[article 9 de la constitution\|article 9 de la constitution]], celui des signes religieux. Le juge a invoqué le 5 mars 2013 les impératifs de sécurité.
+>> Invoqué devant le juge pénal au regard de l'[[Art. 9 Const.]], celui des signes religieux. Le juge a invoqué le 5 mars 2013 les impératifs de sécurité.
 
 ##### 2. Le contrôle par le juge juridictionnel, ou le contrôle de constitutionnalité (QPC)
 
@@ -263,7 +263,7 @@ Le juge pourrait considérer qu'un texte puisse être illégal en cas d'une norm
 Par la suite, le juge opère la **qualification pénale**
 Autrement dit, ==**l'interprétation est le** **préalable**== à la qualification pénale des faits.
 
-On donne un juge un **guide***, inscrit dans **[[l'article 111-4\|l'article 111-4]]**, qui va donner une méthode d'interprétation au juge 
+On donne un juge un **guide***, inscrit dans **[[Art. 111-4 C. pén.]]**, qui va donner une méthode d'interprétation au juge 
 "La loi pénale est d'interprétation stricte."
 
 ### I/ Interpréter strictement le texte ne signifie pas interprétation littérale par le juge
@@ -277,7 +277,7 @@ On donne un juge un **guide***, inscrit dans **[[l'article 111-4\|l'article 111-
 > [!question] Ex. Le contentieux relatif à l'enfant à naître
 > **Situation 1** : Une femme est victime d'un accident de la route, elle est heurtée par une voiture et souffre de séquelles suite à une chute. La chute est responsable de l'enfant à naître, peut-on poursuivre la personne responsable de la chute ?
 > 
->  **Situation 2** : [[Affaire Vaux\|Affaire Vaux]], et l'interversion des dossiers entre un retrait de stérilet et un contrôle de grossesse donnant lieu à la perte d'un enfant à naître. Peut-on poursuivre le médecin responsable de la confusion ?
+>  **Situation 2** : [[Arrêt Affaire Vaux]], et l'interversion des dossiers entre un retrait de stérilet et un contrôle de grossesse donnant lieu à la perte d'un enfant à naître. Peut-on poursuivre le médecin responsable de la confusion ?
 >  
 > Pour les deux situations la même question : *Peut-on condamner l'individu pour homicide involontaire sur l'enfant à naître ?*
 > 1. La cour regarde la définition de l'homicide involontaire, le fait de causer involontairement la mort à autrui
@@ -291,7 +291,7 @@ On donne un juge un **guide***, inscrit dans **[[l'article 111-4\|l'article 111-
   
   Ex. En droit pénal des affaires à travers l'abus de biens sociaux, qui caractérise l'usage de biens de la société à des fins contraires à celle-ci et dans un intérêt personnel. L'usage implique une **action**, mais le juge dans la cour de cassation a intégré la non-réclamation d'une dette dans les **critères** de l'abus de biens sociaux, de manière *contra legem*. Le juge opère un **dévoiement** vis à vis du texte, mais **opéré par la chambre criminelle**, à l'encontre de ce que prévoit le législateur
   
-  - ==L'affaire du sang contaminé== [[Crim., 18 juin 1993 (Affaire du sang contaminé)\|Crim., 18 juin 1993 (Affaire du sang contaminé)]] où l'infraction par empoisonnement, un dol spécial **strictement intentionnel**, n'a pas été retenue par les juges du fond, faute de preuve d'intention de tuer. L'élément moral *volontaire* va être caractérisé pour pouvoir prononcer un ***dommage***, sous couvert d'interprétation stricte
+  - ==L'affaire du sang contaminé== [[Crim., 18 juin 1993, Sang contaminé]] où l'infraction par empoisonnement, un dol spécial **strictement intentionnel**, n'a pas été retenue par les juges du fond, faute de preuve d'intention de tuer. L'élément moral *volontaire* va être caractérisé pour pouvoir prononcer un ***dommage***, sous couvert d'interprétation stricte
     
     En *contra legem*, **aucune pression** ne peut s'exercer sur le juge si cela est opéré par la chambre criminelle
     Dans le sang contaminé sera retenu une infraction non-intentionnelle sur les biens et pas un empoisonnement

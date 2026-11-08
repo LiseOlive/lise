@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/l-element-moral-et-la-typologie-des-fautes/","ctime":"2026-11-06T22:04:48.287+01:00","mtime":"2026-11-06T22:16:44.029+01:00","dg-note-properties":{"date created":"2026-11-06, 22 04","date modified":"2026-11-06, 22 16","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/3]]"}}
+{"dg-publish":true,"permalink":"/l-element-moral-et-la-typologie-des-fautes/","ctime":"2026-11-06T22:04:48.287+01:00","mtime":"2026-11-08T18:47:19.272+01:00","dg-note-properties":{"date created":"2026-11-06, 22 04","date modified":"2026-11-06, 22 16","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/3]]"}}
 ---
 
 
@@ -13,9 +13,9 @@ En droit pénal positif, la responsabilité pénale des personnes physiques est 
 L'article 121-3 du Code pénal constitue la disposition directrice et le tronc commun de l'élément moral. Il s'articule autour de cinq alinéas qui hiérarchisent les fautes pénales selon leur gravité :
 
 * **L'alinéa 1 (Le principe de l'intention)** : *"Il n'y a point de crime ou de délit sans intention de le commettre."* Cet alinéa pose la faute intentionnelle comme le régime de droit commun pour les crimes et les délits. Les crimes sont exclusivement intentionnels. En matière délictuelle, le silence du texte d'incrimination implique nécessairement l'exigence d'une faute intentionnelle.
-* **L'alinéa 2 (La mise en danger délibérée)** : Consacré par [[art. 121-3 al. 2 du Code pénal\|art. 121-3 al. 2 du Code pénal.md]], cet alinéa prévoit que la loi peut instituer des délits fondés sur la mise en danger délibérée d'autrui. Ce texte fonde la répression de la prise de risque délibérée, manifestée soit sous forme de délit autonome de risquogenèse, soit sous forme de circonstance aggravante d'une infraction non intentionnelle.
-* **Les alinéas 3 et 4 (Les fautes non intentionnelles et la causalité)** : Issus de la réforme majeure opérée par la loi Fauchon du 10 juillet 2000, récapitulée dans [[art. 121-3 al. 3 et 4 du Code pénal, ou Loi Fauchon du 10 juillet 2000\|art. 121-3 al. 3 et 4 du Code pénal, ou Loi Fauchon du 10 juillet 2000.md]], ces alinéas encadrent la responsabilité pour imprudence, négligence ou manquement à une obligation de sécurité, en instaurant une distinction fondamentale entre auteurs directs et auteurs indirects du dommage.
-* **L'alinéa 5 (La faute contraventionnelle)** : Étudié dans [[l'art. 121-3 al. 5 du Code Pénal\|l'art. 121-3 al. 5 du Code Pénal.md]], cet alinéa dispose qu'il *"n'y a point de contravention en cas de force majeure"*.
+* **L'alinéa 2 (La mise en danger délibérée)** : Consacré par [[Art. 121-3 al. 2 C. pén.\|Art. 121-3 al. 2 C. pén.]], cet alinéa prévoit que la loi peut instituer des délits fondés sur la mise en danger délibérée d'autrui. Ce texte fonde la répression de la prise de risque délibérée, manifestée soit sous forme de délit autonome de risquogenèse, soit sous forme de circonstance aggravante d'une infraction non intentionnelle.
+* **Les alinéas 3 et 4 (Les fautes non intentionnelles et la causalité)** : Issus de la réforme majeure opérée par la loi Fauchon du 10 juillet 2000, récapitulée dans [[Art. 121-3 al. 3 et 4 C. pén.\|Art. 121-3 al. 3 et 4 C. pén.]], ces alinéas encadrent la responsabilité pour imprudence, négligence ou manquement à une obligation de sécurité, en instaurant une distinction fondamentale entre auteurs directs et auteurs indirects du dommage.
+* **L'alinéa 5 (La faute contraventionnelle)** : Étudié dans [[Art. 121-3 al. 5 C. pén.\|Art. 121-3 al. 5 C. pén.]], cet alinéa dispose qu'il *"n'y a point de contravention en cas de force majeure"*.
 
 ### 3. Le régime spécifique de la faute contraventionnelle
 En matière contraventionnelle, le législateur applique un régime dérogatoire de preuve résumé dans la fiche [[Faute contraventionnelle\|Faute contraventionnelle.md]].
@@ -54,12 +54,12 @@ L'analyse de la gradation de l'intention s'appuie sur la typologie des dols éla
 
 * **Le dol éventuel** : Défini dans le document [[Dol éventuel\|Dol éventuel.md]], il désigne la situation où l'auteur a prévu les conséquences dommageables de son acte comme possibles ou probables, mais ne les a pas directement recherchées. L'agent s'est borné à courir le risque de voir le résultat illicite se réaliser. Le dol éventuel se situe à la frontière de l'intention et de la faute d'imprudence.
 * **Le dol indéterminé** : Présenté dans [[Dol indeterminé\|Dol indeterminé.md]], le dol indéterminé vise l'agent qui veut l'acte violent sans pour autant être en mesure de prédire la gravité exacte du résultat. C'est l'hypothèse d'un individu assénant un coup de poing à une personne atteinte d'une fragilité cérébrale ignorée : l'auteur a voulu l'acte, indépendamment du résultat final. Le droit pénal applique une fiction de dol indéterminé en adaptant la qualification au résultat effectivement produit.
-* **Le dol praeter-intentionnel (ou dol dépassé)** : Étudié dans [[Dol praeter intentionnel\|Dol praeter intentionnel.md]], il qualifie la situation où le résultat produit excède l'intention initiale de l'agent. L'auteur a voulu les violences mais n'a pas recherché la mort. Cette figure s'incarne directement dans l'infraction de violences volontaires ayant entraîné la mort sans intention de la donner, sanctionnée par l'[[Art. 222-7 c.p.\|Art. 222-7 c.p..md]].
+* **Le dol praeter-intentionnel (ou dol dépassé)** : Étudié dans [[Dol praeter intentionnel\|Dol praeter intentionnel.md]], il qualifie la situation où le résultat produit excède l'intention initiale de l'agent. L'auteur a voulu les violences mais n'a pas recherché la mort. Cette figure s'incarne directement dans l'infraction de violences volontaires ayant entraîné la mort sans intention de la donner, sanctionnée par l'[[Art. 222-7 C. pén.\|Art. 222-7 C. pén.]].
 
 ### 4. L'illustration majeure : Le meurtre, l'assassinat et l'animus necandi
 Le meurtre constitue l'exemple parfait de l'infraction matérielle exigeant un dol spécial. L'élément moral du meurtre réside dans l meurtre exigeant l'[[Animus Necandi\|Animus Necandi.md]], c'est-à-dire la volonté spécifique et caractérisée d'obtenir la mort d'autrui.
 
-Lorsque le meurtre est accompli avec des circonstances aggravantes spécifiques, il reçoit la qualification d'assassinat, régie par l'[[Art. 221-3 du Code Pénal\|Art. 221-3 du Code Pénal.md]] :
+Lorsque le meurtre est accompli avec des circonstances aggravantes spécifiques, il reçoit la qualification d'assassinat, régie par l'[[Art. 221-3 C. pén.\|Art. 221-3 C. pén.]] :
 
 > *"Le meurtre commis avec préméditation ou guet-apens constitue un assassinat. Il est puni de la réclusion criminelle à perpétuité."*
 
@@ -78,7 +78,7 @@ Lorsque la loi le prévoit expressément, des délits peuvent être constitués 
 L'appréciation de ces fautes s'effectue *in concreto*, en vérifiant si l'auteur des faits a accompli les diligences normales compte tenu de la nature de ses missions, de ses compétences et des moyens dont il disposait.
 
 ### 2. Causalité directe et indirecte : La Loi Fauchon du 10 juillet 2000
-Afin d'éviter une pénalisation excessive des décideurs publics et des dirigeants d'entreprises, la loi Fauchon du 10 juillet 2000, récapitulée dans [[art. 121-3 al. 3 et 4 du Code pénal, ou Loi Fauchon du 10 juillet 2000\|art. 121-3 al. 3 et 4 du Code pénal, ou Loi Fauchon du 10 juillet 2000.md]], a réorganisé la responsabilité pénale non intentionnelle des personnes physiques selon la nature du lien de causalité.
+Afin d'éviter une pénalisation excessive des décideurs publics et des dirigeants d'entreprises, la loi Fauchon du 10 juillet 2000, récapitulée dans [[Art. 121-3 al. 3 et 4 C. pén.\|Art. 121-3 al. 3 et 4 C. pén.]], a réorganisé la responsabilité pénale non intentionnelle des personnes physiques selon la nature du lien de causalité.
 
 | Nature de la Causalité | Définition de l'Auteur | Exigence de Faute Pénale Répondante |
 | :--- | :--- | :--- |
@@ -88,7 +88,7 @@ Afin d'éviter une pénalisation excessive des décideurs publics et des dirigea
 Cette exigence renforcée de faute qualifiée s'accompagne fréquemment de l'application des circonstances aggravantes des articles 222-12 révisés, explicitées dans [[Circonstance aggravante selon la loi de juillet 2000\|Circonstance aggravante selon la loi de juillet 2000.md]].
 
 ### 3. La mise en danger délibérée d'autrui et le délit de risquogenèse
-La mise en danger délibérée d'autrui peut constituer un délit autonome, dit *délit de risquogenèse*, incriminé par l'[[Art. 223-1 du Code Pénal\|Art. 223-1 du Code Pénal.md]] :
+La mise en danger délibérée d'autrui peut constituer un délit autonome, dit *délit de risquogenèse*, incriminé par l'[[Art. 223-1 C. pén.\|Art. 223-1 C. pén.]] :
 
 > *"Le fait d'exposer directement autrui à un risque immédiat de mort ou de blessures de nature à entraîner une mutilation ou une infirmité permanente par la violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité imposée par la loi ou le règlement est puni d'un an d'emprisonnement et de 15 000 euros d'amende."*
 
@@ -96,7 +96,7 @@ Ce délit sanctionne la création délibérée du risque avant même l'intervent
 
 ## Synthèse
 
-En droit pénal français, l'**élément moral** désigne la **faute pénale** exigée par l'incrimination en relation avec l'action ou l'omission matérielle, le système répressif ne connaissant pas de responsabilité sans faute. L'[[art. 121-3 du Code pénal\|art. 121-3 du Code pénal]] constitue le texte et principe directeur régissant l'élément moral et s'articule autour de **cinq alinéas** qui déterminent le type de faute requis.
+En droit pénal français, l'**élément moral** désigne la **faute pénale** exigée par l'incrimination en relation avec l'action ou l'omission matérielle, le système répressif ne connaissant pas de responsabilité sans faute. L'[[Art. 121-3 C. pén.\|Art. 121-3 C. pén.]] constitue le texte et principe directeur régissant l'élément moral et s'articule autour de **cinq alinéas** qui déterminent le type de faute requis.
 
 Pour déterminer l'élément moral d'une infraction au regard de l'article 121-3, la démarche s'effectue selon la structure légale du texte :
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-3-le-pouvoir-disciplinaire/","ctime":"2026-11-05T14:01:36.000+01:00","mtime":"2026-11-06T22:59:07.172+01:00","dg-note-properties":{"date created":"2026-11-05, 14 01","date modified":"2026-11-06, 22 59","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]"}}
+{"dg-publish":true,"permalink":"/chapitre-3-le-pouvoir-disciplinaire/","ctime":"2026-11-05T14:01:36.000+01:00","mtime":"2026-11-08T19:00:01.617+01:00","dg-note-properties":{"date created":"2026-11-05, 14 01","date modified":"2026-11-06, 22 59","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]"}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Le pouvoir disciplinaire consiste pour l'employeur à infliger une sanction disciplinaire au salarié qui a manqué à ses obligations contractuelles ou légales.
 
-* **Définition de la sanction** : [[Art. L1331-1 trav.\|Art. L. 1331-1 C. trav.]]
+* **Définition de la sanction** : [[Art. L. 1331-1 C. trav.\|Art. L. 1331-1 C. trav.]]
 
 ## Section 1 : Les règles de fond du droit disciplinaire
 
@@ -19,8 +19,8 @@ Toutefois, ce pouvoir n'est pas absolu : en cas de contentieux devant le [[Conse
 
 > [!warning] Principe fondamental
 > **Un fait relevant strictement de la vie privée ne constitue jamais un manquement disciplinaire.**
-> * Voir : [[arrêt du 22 janvier 1992\|Arrêt du 22 janvier 1992]]
-> * Voir : [[Arret du 21 mai 2002\|Arrêt du 21 mai 2002]]
+> * Voir : [[Cass. soc., 22 janvier 1992\|Arrêt du 22 janvier 1992]]
+> * Voir : [[Cass. soc., 21 mai 2002\|Arrêt du 21 mai 2002]]
 
 > [!info] Obligations s'appliquant en dehors de l'entreprise
 > Il existe certaines obligations contractuelles ou légales qui continuent de s'imposer au salarié en dehors de l'entreprise et du temps de travail.
@@ -34,14 +34,14 @@ La Cour de cassation apprécie *in concreto* si un fait commis dans la vie perso
 
 * **Infraction au Code de la route commise dans la vie privée** : 
   * Retrait/annulation du permis de conduire d'un salarié conduisant hors de son temps de travail (ex : un chauffeur routier).
-  * *Évolution* : Alors qu'il était auparavant admis qu'un tel retrait pouvait justifier une sanction disciplinaire en raison de l'impact sur l'emploi, la jurisprudence récente ([[arrêt du 3 mai 2011, et 4 octobre 2023\|Arrêts du 3 mai 2011 et du 4 octobre 2023]]) dispose qu'une infraction commise dans la vie personnelle ne constitue pas une faute disciplinaire (bien qu'un licenciement non disciplinaire pour trouble objectif reste possible en cas d'impossibilité d'exécuter le contrat).
+  * *Évolution* : Alors qu'il était auparavant admis qu'un tel retrait pouvait justifier une sanction disciplinaire en raison de l'impact sur l'emploi, la jurisprudence récente ([[Cass. soc., 3 mai 2011 et 4 octobre 2023\|Arrêts du 3 mai 2011 et du 4 octobre 2023]]) dispose qu'une infraction commise dans la vie personnelle ne constitue pas une faute disciplinaire (bien qu'un licenciement non disciplinaire pour trouble objectif reste possible en cas d'impossibilité d'exécuter le contrat).
 
 * **Relation sentimentale dissimulée entre collègues** :
-  * Dans un [[arret du 29 mai 2024\|Arrêt du 29 mai 2024]], la Cour avait validé le licenciement d'un salarié pour manquement à son obligation de loyauté après dissimulation d'une relation amoureuse avec une collègue.
-  * Cependant, par un [[arrêt du 4 juin 2025\|Arrêt du 4 juin 2025]], la Cour de cassation est revenue sur cette appréciation en qualifiant l'immixtion de l'employeur d'atteinte illicite à la vie privée.
+  * Dans un [[Cass. soc., 29 mai 2024\|Arrêt du 29 mai 2024]], la Cour avait validé le licenciement d'un salarié pour manquement à son obligation de loyauté après dissimulation d'une relation amoureuse avec une collègue.
+  * Cependant, par un [[Cass. soc., 4 juin 2025\|Arrêt du 4 juin 2025]], la Cour de cassation est revenue sur cette appréciation en qualifiant l'immixtion de l'employeur d'atteinte illicite à la vie privée.
 
 * **Conflits personnels et vie de l'entreprise** :
-  * Selon l'[[arrêt du 21 octobre 2026\|Arrêt du 21 octobre 2026]], la rupture des relations contractuelles a été admise non pas sur le terrain disciplinaire mais en raison du **trouble objectif caractérisé** apporté au fonctionnement de l'entreprise (cas d'un salarié marié à une collègue et entretenant une relation intime avec une autre collègue au sein du même service).
+  * Selon l'[[Cass. soc., 21 octobre 2026\|Arrêt du 21 octobre 2026]], la rupture des relations contractuelles a été admise non pas sur le terrain disciplinaire mais en raison du **trouble objectif caractérisé** apporté au fonctionnement de l'entreprise (cas d'un salarié marié à une collègue et entretenant une relation intime avec une autre collègue au sein du même service).
 
 # Droit disciplinaire, Procédure et Modification du contrat de travail
 
@@ -49,7 +49,7 @@ La Cour de cassation apprécie *in concreto* si un fait commis dans la vie perso
 
 ### 1. La définition de la sanction disciplinaire
 
-> [!abstract] Définition légale ([[Art. L1331-1 trav.\|Art. L. 1331-1 C. trav.]])
+> [!abstract] Définition légale ([[Art. L. 1331-1 C. trav.\|Art. L. 1331-1 C. trav.]])
 > Constitue une sanction toute mesure, autre que les observations verbales, prise par l'employeur à la suite d'un comportement du salarié considéré par lui comme fautif, que cette mesure soit de nature à affecter immédiatement ou non la présence du salarié dans l'entreprise, sa fonction, sa carrière ou sa rémunération.
 
 * **Exclusion des simples remarques orales** : Les simples réprimandes ou observations verbales (ex. *"travail mal effectué"*, remarques d'organisation) ne constituent pas des sanctions disciplinaires et ne requièrent aucun formalisme.
@@ -80,11 +80,11 @@ La Cour de cassation apprécie *in concreto* si un fait commis dans la vie perso
 ## II. Les sanctions interdites
 
 ### 1. Les sanctions discriminatoires
-Toute sanction motivée par l'un des critères prohibés de l'[[Art. L1131-2 trav.\|article L. 1132-1 du Code du travail]] (origine, sexe, état de santé, activité syndicale, opinions politiques, etc.) est nulle de plein droit. Deux salariés placés dans une situation rigoureusement identique face à une faute similaire doivent recevoir un traitement équivalent.
+Toute sanction motivée par l'un des critères prohibés de l'[[Art. L. 1131-2 C. trav.\|article L. 1132-1 du Code du travail]] (origine, sexe, état de santé, activité syndicale, opinions politiques, etc.) est nulle de plein droit. Deux salariés placés dans une situation rigoureusement identique face à une faute similaire doivent recevoir un traitement équivalent.
 
 ### 2. Les sanctions pécuniaires et amendes
 
-> [!danger] Prohibition d'ordre public ([[Art. L1331-2 trav.\|Art. L. 1331-2 C. trav.]] / [[Art. L1331-1 trav.\|Art. L. 1331-2]])
+> [!danger] Prohibition d'ordre public ([[Art. L. 1331-2 C. trav.\|Art. L. 1331-2 C. trav.]] / [[Art. L. 1331-1 C. trav.\|Art. L. 1331-2]])
 > Les amendes ou autres sanctions pécuniaires sont strictement interdites. L'employeur ne peut effectuer aucune retenue sur le salaire d'un employé au motif qu'il a commis une faute ou causé un préjudice matériel.
 
 * *Distinction avec la perte de salaire consécutive* : La retenue de salaire correspondant à une période de mise à pied disciplinaire non travaillée n'est pas une amende, mais la conséquence mécanique de l'absence de fourniture de la prestation de travail.
@@ -98,7 +98,7 @@ Toute sanction motivée par l'un des critères prohibés de l'[[Art. L1131-2 tra
 
 ### 1. Les étapes de la procédure (Sanctions lourdes)
 
-* **1. Convocation à l'entretien préalable** ([[Art. L1332-2 trav.\|Art. L. 1332-2 C. trav.]]) :
+* **1. Convocation à l'entretien préalable** ([[Art. L. 1332-2 C. trav.\|Art. L. 1332-2 C. trav.]]) :
 	* Lettre recommandée ou remise en main propre mentionnant l'objet (entretien préalable à une sanction disciplinaire), la date, l'heure, le lieu, et rappelant le droit du salarié de se faire assister par une personne de son choix appartenant au personnel de l'entreprise.
 * **2. L'entretien préalable** :
 	* Échange au cours duquel l'employeur indique les griefs et la sanction envisagée, permettant au salarié de présenter sa défense.
@@ -108,10 +108,10 @@ Toute sanction motivée par l'un des critères prohibés de l'[[Art. L1131-2 tra
 ### 2. Les délais impératifs
 
 > [!info] Synthèse des délais de la procédure disciplinaire
-> * **Prescription de la faute** ([[Art. L1332-4 trav.\|Art. L. 1332-4 C. trav.]]) : **2 mois** maximum entre la connaissance des faits fautifs par l'employeur et l'engagement des poursuites disciplinaires.
+> * **Prescription de la faute** ([[Art. L. 1332-4 C. trav.\|Art. L. 1332-4 C. trav.]]) : **2 mois** maximum entre la connaissance des faits fautifs par l'employeur et l'engagement des poursuites disciplinaires.
 > * **Délai de réflexion minimal** : **2 jours ouvrables** minimum entre l'entretien préalable et la notification de la sanction.
 > * **Délai maximal d'émission** : **1 mois** maximum après l'entretien préalable pour prononcer la sanction. Passé ce délai, l'employeur est réputé avoir renoncé à sanctionner.
-> * **Amnestie / Droit à l'oubli** ([[Art. L1332-5 trav.\|Art. L. 1332-5 C. trav.]]) : **3 ans** après le prononcé d'une sanction, celle-ci ne peut plus être invoquée pour justifier une récidive ou aggraver une nouvelle sanction.
+> * **Amnestie / Droit à l'oubli** ([[Art. L. 1332-5 C. trav.\|Art. L. 1332-5 C. trav.]]) : **3 ans** après le prononcé d'une sanction, celle-ci ne peut plus être invoquée pour justifier une récidive ou aggraver une nouvelle sanction.
 
 ## IV. La modification du contrat de travail vs Le simple changement des conditions de travail
 

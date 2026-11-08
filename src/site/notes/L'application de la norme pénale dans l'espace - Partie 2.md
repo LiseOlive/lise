@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/l-application-de-la-norme-penale-dans-l-espace-partie-2/","title":"L'application de la norme pénale dans l'espace - Partie 2","ctime":"2026-10-14T14:15:15.442+02:00","mtime":"2026-11-06T22:19:06.360+01:00","dg-note-properties":{"subject":null,"tags":[],"date created":"2026-10-14, 14 15","date modified":"2026-11-06, 22 19","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]","title":"L'application de la norme pénale dans l'espace - Partie 2"}}
+{"dg-publish":true,"permalink":"/l-application-de-la-norme-penale-dans-l-espace-partie-2/","title":"L'application de la norme pénale dans l'espace - Partie 2","ctime":"2026-10-14T14:15:15.442+02:00","mtime":"2026-11-08T18:47:19.272+01:00","dg-note-properties":{"subject":null,"tags":[],"date created":"2026-10-14, 14 15","date modified":"2026-11-06, 22 19","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]","title":"L'application de la norme pénale dans l'espace - Partie 2"}}
 ---
 
 
@@ -14,7 +14,7 @@
 
 ##### a  - Extension de la compétence territoriale française
 
-> [!cite] **[[art. 113-2 al. 2 du Code pénal\|art. 113-2 al. 2 du Code pénal]]**
+> [!cite] **[[Art. 113-2 al. 2 C. pén.\|Art. 113-2 al. 2 C. pén.]]**
 > *"L'infraction est réputée commise sur le territoire de la République dès lors qu'un de ses faits constitutifs a eu lieu sur ce territoire."*
 
 * **Principe de l'indivisibilité et réputation** : La loi pénale française étend sa compétence territoriale à l'ensemble d'une infraction dès lors qu'un seul de ses éléments constitutifs matériels s'est déroulé en France, quand bien même d'autres faits auraient eu lieu à l'étranger.
@@ -45,7 +45,7 @@
 
 ##### a. Les infractions commises par un Français (Système de la personnalité active)
 
-> [!cite] **[[art. 113-6 du Code pénal\|art. 113-6 du Code pénal]]**
+> [!cite] **[[Art. 113-6 C. pén.\|Art. 113-6 C. pén.]]**
 > *"La loi pénale française est applicable à tout crime commis par un Français hors du territoire de la République. Elle est applicable aux délits commis par des Français hors du territoire de la République si les faits sont punis par la législation du pays où ils ont été commis."*
 
 * **Règles fondées sur la tripartition légale** :
@@ -56,7 +56,7 @@
 | **Délits** | Punissables à condition qu'il y ait **réciprocité d'incrimination**. | Doit être réprimé par la loi du pays de commission (sans exiger une stricte identité de qualification). |
 | **Contraventions** | **Jamais punissables** en France. | Abandonnées à la seule souveraineté de l'État étranger. |
 
-* **Condition d'acquisition de la nationalité** : L'[[art. 113-6 du Code pénal\|art. 113-6 du Code pénal]] s'applique même si l'auteur a acquired la nationalité française **postérieurement** aux faits qui lui sont imputés.
+* **Condition d'acquisition de la nationalité** : L'[[Art. 113-6 C. pén.\|Art. 113-6 C. pén.]] s'applique même si l'auteur a acquired la nationalité française **postérieurement** aux faits qui lui sont imputés.
 
 * **Conditions procédurales de poursuite** :
   * Les poursuites ne peuvent être exercées qu'à la **seule requête du Ministère public** (Parquet).
@@ -65,7 +65,7 @@
 
 ##### b. Les infractions commises contre un Français (Système de la personnalité passive)
 
-> [!cite] **[[art. 113-7 du Code pénal\|art. 113-7 du Code pénal]]**
+> [!cite] **[[Art. 113-7 C. pén.\|Art. 113-7 C. pén.]]**
 > *"La loi pénale française est applicable à tout crime, ainsi qu'à tout délit puni d'emprisonnement, commis par un Français ou par un étranger hors du territoire de la République lorsque la victime est de nationalité française au moment de l'infraction."*
 
 * **Champ d'application restreint** :
@@ -88,7 +88,7 @@
 
 ##### L'article 121-3 du Code pénal : Texte directeur de la faute pénale
 
-> [!cite] **[[art. 121-3 du Code pénal\|art. 121-3 du Code pénal]]**
+> [!cite] **[[Art. 121-3 C. pén.\|Art. 121-3 C. pén.]]**
 > * **Alinéa 1** : *"Il n'y a point de crime ou de délit sans intention de le commettre."*
 > * **Alinéa 2** : *"Toutefois, lorsque la loi le prévoit, il y a délit en cas de mise en danger délibérée de la personne d'autrui."*
 > * **Alinéa 3** : *"Il y a également délit, lorsque la loi le prévoit, en cas de faute d'imprudence, de négligence ou de manquement à une obligation de prudence ou de sécurité prévue par la loi ou le règlement […]."*
@@ -103,7 +103,7 @@
    * **Contraventions** : L'élément moral est **présumé** (la seule preuve du fait matériel suffit, sauf cas de force majeure).
 
 2. **Incidence sur la rédaction des incriminations** :
-   * **Le silence de la loi vaut intention** : Lorsqu'un texte d'incrimination ne précise pas la forme de la faute, l'infraction est nécessairement intentionnelle par application de l'[[art. 121-3 al. 1 du Code pénal\|art. 121-3 al. 1 du Code pénal]].
+   * **Le silence de la loi vaut intention** : Lorsqu'un texte d'incrimination ne précise pas la forme de la faute, l'infraction est nécessairement intentionnelle par application de l'[[Art. 121-3 al. 1 C. pén.\|Art. 121-3 al. 1 C. pén.]].
    * Les fautes non intentionnelles nécessitent une mention explicite du législateur.
 
 
@@ -147,7 +147,7 @@
     * L'agent accomplit **volontairement un acte matériel fautif initial** (ex. des violences volontaires).
     * Toutefois, le **résultat dommageable effectif a dépassé les prévisions et la volonté de son auteur** (ex. le décès de la victime).
     * Il se distingue de l'homicide involontaire (où l'acte initial n'est pas un délit volontaire) et du meurtre (où l'intention de donner la mort, l'_animus necandi_, est requise).
-    * **Illustration légale** : L'[[Art. 222-7 c.p.\|Art. 222-7 c.p.]] sanctionne les _" violences ayant entraîné la mort sans intention de la donner "_.
+    * **Illustration légale** : L'[[Art. 222-7 C. pén.\|Art. 222-7 C. pén.]] sanctionne les _" violences ayant entraîné la mort sans intention de la donner "_.
 
 *EXAMEN* : **" Les violences volontaires (relevant du dol indéterminé ou præter-intentionnel) sont-elles des infractions matérielles ? "**
 
@@ -172,7 +172,7 @@
 
 ### E. Les deux applications juridiques de la mise en danger
 
-1. **Sans dommage (Infraction autonome)** : La faute de mise en danger délibérée nourrit l'élément moral du délit de risque causé à autrui ([[Art. 223-1 du Code Pénal\|Art. 223-1 du Code Pénal]]). Il s'agit d'une infraction formelle qui sanctionne la simple exposition d'autrui à un risque immédiat de mort ou de mutilation, même si aucun dommage ne s'est produit.
+1. **Sans dommage (Infraction autonome)** : La faute de mise en danger délibérée nourrit l'élément moral du délit de risque causé à autrui ([[Art. 223-1 C. pén.\|Art. 223-1 C. pén.]]). Il s'agit d'une infraction formelle qui sanctionne la simple exposition d'autrui à un risque immédiat de mort ou de mutilation, même si aucun dommage ne s'est produit.
 2. **Avec dommage (Infraction non intentionnelle)** :
     * Elle agit comme **circonstance aggravante** des délits non intentionnels (tels que l'homicide involontaire ou les blessures involontaires).
-    * Elle constitue l'un des deux cas de fautes qualifiées permettant d'engager la **responsabilité pénale de l'auteur indirect** en cas de causalité indirecte : [[art. 121-3 al. 3 et 4 du Code pénal, ou Loi Fauchon du 10 juillet 2000\|art. 121-3 al. 3 et 4 du Code pénal, ou Loi Fauchon du 10 juillet 2000]]
+    * Elle constitue l'un des deux cas de fautes qualifiées permettant d'engager la **responsabilité pénale de l'auteur indirect** en cas de causalité indirecte : [[Art. 121-3 al. 3 et 4 C. pén.\|Art. 121-3 al. 3 et 4 C. pén.]]

@@ -5,6 +5,9 @@
 
 # [[References/Micro\|Micro]]
 
+- [[Drive/Josepha/S3/microéconomie de la production/Chapitre 3 - Etude de la fonction de coût\|Chapitre 3 - Etude de la fonction de coût]]: — 08/11/2026
+- [[Drive/Josepha/S3/microéconomie de la production/Chapitre 2 - Etude de la fonction de production\|Chapitre 2 - Etude de la fonction de production]]: — 08/11/2026
+- [[Drive/Josepha/S3/microéconomie de la production/Chapitre 1 - Introduction de la matière\|Chapitre 1 - Introduction de la matière]]: — 08/11/2026
 - [[Production, coûts, salariés, graphes, fonctions\|Production, coûts, salariés, graphes, fonctions]]: — 17/10/2026
 - [[Fonction de production\|Fonction de production]]: — 16/09/2026
 - [[Introduction -Microéconomie\|Introduction -Microéconomie]]: — 09/09/2026

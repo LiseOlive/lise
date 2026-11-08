@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/circonstance-aggravante-selon-la-loi-de-juillet-2000/","ctime":"2026-11-04T11:13:20.611+01:00","mtime":"2026-11-04T13:37:39.553+01:00","dg-note-properties":{"date created":"2026-11-04, 11 13","date modified":"2026-11-04, 13 37","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/circonstance-aggravante-selon-la-loi-de-juillet-2000/","ctime":"2026-11-04T11:13:20.611+01:00","mtime":"2026-11-08T19:00:01.167+01:00","dg-note-properties":{"date created":"2026-11-04, 11 13","date modified":"2026-11-08, 18 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

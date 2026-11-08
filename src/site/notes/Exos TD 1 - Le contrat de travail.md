@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exos-td-1-le-contrat-de-travail/","tags":["travail","AES/S3","droit","TD"],"ctime":"2026-09-24T23:00:59.890+02:00","mtime":"2026-10-17T16:40:33.370+02:00","dg-note-properties":{"date created":"2026-09-24, 23 00","date modified":"2026-10-17, 16 40","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/1]]","tags":["travail","AES/S3","droit","TD"]}}
+{"dg-publish":true,"permalink":"/exos-td-1-le-contrat-de-travail/","tags":["travail","AES/S3","droit","TD"],"ctime":"2026-09-24T23:00:59.890+02:00","mtime":"2026-11-08T19:00:01.728+01:00","dg-note-properties":{"date created":"2026-09-24, 23 00","date modified":"2026-10-17, 16 40","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/1]]","tags":["travail","AES/S3","droit","TD"]}}
 ---
 
 
@@ -50,7 +50,7 @@ La cour d'appel a accueilli leur demande et a requalifié la relation contractue
 > [!info] Le contrat de travail existe indépendamment de la volonté des parties  
 > 
 
-- **[[Arrêt Labbane du 19 décembre 2000\|Arrêt Labbane du 19 décembre 2000]]**
+- **[[Arrêt Labbane, Cass. soc., 19 décembre 2000\|Arrêt Labbane, Cass. soc., 19 décembre 2000]]**
 ###### La société de production soutient que 
 - La tâche demandée aurait consisté uniquement pour les candidats à vivre normalement et à exprimer des sentiments, ce qui ne constitue pas une prestation de travail.
 - Les candidats auraient garanti participer au programme à des fins personnelles et non professionnelles.
@@ -83,7 +83,7 @@ En 2011 la cour d'appel de Versailles a accueilli leur demande de requalificatio
 - **La prestation de travail** : Leur activité ne relevait pas du simple déroulement de leur vie quotidienne, mais de l'exécution d'activités imposées, guidées et répétées dans un lieu et selon un rythme fixés par la production, en vue de fabriquer une émission de télévision.
 - **La rémunération** : La somme de 1 525 € perçue constituait la contrepartie financière du travail accompli et non un simple dédommagement pour l'exploitation de leur droit à l'image.
 - **Le lien de subordination juridique** : Ils étaient soumis à l'autorité directe du producteur, qui leur imposait un règlement unilatéral, des horaires stricts (réveil, sommeil), une obligation de disponibilité permanente avec interdiction de sortir ou de communiquer avec l'extérieur, le tout sous la menace de sanctions (renvoi du tournage).
-- **Le principe de réalité, [[Arrêt Labbane du 19 décembre 2000\|Arrêt Labbane du 19 décembre 2000]]** : Peu importait l'intitulé du document signé (_" règlement participants "_) ou le caractère ludique affiché de l'émission, seules les conditions effectives d'exercice de l'activité devaient déterminer la qualification du contrat.
+- **Le principe de réalité, [[Arrêt Labbane, Cass. soc., 19 décembre 2000\|Arrêt Labbane, Cass. soc., 19 décembre 2000]]** : Peu importait l'intitulé du document signé (_" règlement participants "_) ou le caractère ludique affiché de l'émission, seules les conditions effectives d'exercice de l'activité devaient déterminer la qualification du contrat.
 ###### La société de production soutient que 
 - Les participants aurait accepté de se laisser filmer lors d'activités, sans accomplir de performance particulière, de sorte que ces tâches ne pourraient constituer une prestation de travail, peu importe qu'elles puissent avoir  _" pour finalité la production d'un bien ayant une valeur économique "_. 
 - Les candidats auraient garanti participer au programme *" à des fins personnelles et non à des fins professionnelles "*, la rémunération aurait quant à elle été considérée pour une future cession d'exploitation de droits à l'image.

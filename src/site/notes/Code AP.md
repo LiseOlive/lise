@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/code-ap/","tags":["code","CM","droit","AP/S2"],"ctime":"2026-01-20T12:10:43.000+01:00","mtime":"2026-10-13T17:34:02.724+02:00","dg-note-properties":{"tags":["code","CM","droit","AP/S2"],"class":null,"sector":"[[References/AES]]","semester":"[[References/S2]]","form":"[[References/Code]]","part":null,"date created":"2026-01-20, 12 10","date modified":"2026-10-05, 12 31"}}
+{"dg-publish":true,"permalink":"/code-ap/","tags":["code","CM","droit","AP/S2"],"ctime":"2026-01-20T12:10:43.000+01:00","mtime":"2026-11-08T19:11:48.597+01:00","dg-note-properties":{"tags":["code","CM","droit","AP/S2"],"class":null,"sector":"[[References/AES]]","semester":"[[References/S2]]","form":null,"part":null,"date created":"2026-01-20, 12 10","date modified":"2026-11-08, 18 55"}}
 ---
 
 
@@ -21,7 +21,8 @@
 
 ***
 # <font color="#4f81bd">Traité sur l'Union européenne</font>
-{ #b638c6}
+{ #b638c6}
+
 
 
 Article 7 : Sur proposition motivée d'un tiers des États membres, du Parlement européen ou de la  
@@ -71,7 +72,8 @@ Les conditions de l'admission et les adaptations que cette admission entraîne e
 
 ***
 # <font color="#4f81bd">Constitution de 1958</font>
-{ #6fe61e}
+{ #6fe61e}
+
 
 
 Article 1 : La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances. Son organisation est décentralisée.  
@@ -164,7 +166,8 @@ Une séance par semaine au moins, y compris pendant les sessions extraordinaires
 
 ***
 # <font color="#4f81bd">Code monétaire et financier</mark>
-{ #5bce2b}
+{ #5bce2b}
+
 
 
 Article L133-8 : Seule est équipollente au dol la faute inexcusable du voiturier ou du commissionnaire de transport. Est inexcusable la faute délibérée qui implique la conscience de la probabilité du dommage et son acceptation téméraire sans raison valable. Toute clause contraire est réputée non écrite.
@@ -173,7 +176,8 @@ Article L133-8 : Seule est équipollente au dol la faute inexcusable du voiturie
 
 ***
 # <font color="#4f81bd">Code des assurances</font>
-{ #5313ed}
+{ #5313ed}
+
 
 
 Article L113-1 : Les pertes et les dommages occasionnés par des cas fortuits ou causés par la faute de l'assuré sont à la charge de l'assureur, sauf exclusion formelle et limitée contenue dans la police.  
@@ -198,7 +202,8 @@ Les membres de la famille du conducteur ou de l'assuré, ainsi que les élèves 
 
 ***
 # <font color="#4f81bd">Code de la consommation</font>
-{ #f065ed}
+{ #f065ed}
+
 
 
 Article L. 212-1 du Code de la consommation :  
@@ -235,7 +240,8 @@ L. 110-1 : Pour l'application du présent code, les termes, ci-après ont le sen
 
 ***
 # <font color="#4f81bd">Code du sport</font>
-{ #e2a14c}
+{ #e2a14c}
+
 
 
 Article L321-3-1 du Code du sport :  
@@ -245,7 +251,8 @@ Les pratiquants ne peuvent être tenus pour responsables des dommages matériels
 
 ___
 # <font color="#4f81bd">CPC </font>
-{ #4d9168}
+{ #4d9168}
+
 
 
 Article 31 CPC : L'action est ouverte à tous ceux qui ont un intérêt légitime au succès ou au rejet d'une prétention, sous réserve des cas dans lesquels la loi attribue le droit d'agir aux seules personnes qu'elle qualifie pour élever ou combattre une prétention, ou pour défendre un intérêt déterminé.
@@ -264,7 +271,8 @@ Si le défendeur n'a ni domicile ni résidence connus, le demandeur peut saisir 
 
 ***
 # <font color="#4f81bd">Lois</font>
-{ #40f473}
+{ #40f473}
+
 
 
 Loi Kouchner, L114-5 (04 mars 2002) : Nul ne peut se prévaloir d'un préjudice du seul fait de sa naissance.
@@ -302,7 +310,8 @@ Article 6 : Le préjudice subi par un tiers du fait des dommages causés à la v
 
 ***
 # <font color="#4f81bd">Arrêts</font>
-{ #dc14ed}
+{ #dc14ed}
+
 
 
 Arrêt Bertrand 19 février 1997 : Mais attendu que, l'arrêt ayant exactement énoncé que seule la force majeure ou la faute de la victime pouvait exonérer M. X… de la responsabilité de plein droit encourue du fait des dommages causés par son fils mineur habitant avec lui, la cour d'appel n'avait pas à rechercher l'existence d'un défaut de surveillance du père ;
@@ -621,7 +630,8 @@ Chambre commerciale, 26 juin 2024 : Le parasitisme économique est une forme de 
 
 ***
 # <font color="#4f81bd">Articles</font>
-{ #243499}
+{ #243499}
+
 
 
 Article 6 : On ne peut déroger, par des conventions particulières, aux lois qui intéressent l'ordre public et les bonnes moeurs
@@ -1021,3 +1031,4 @@ Néanmoins, celui qui a perdu ou auquel il a été volé une chose peut la reven
 Article 2278 : La possession est protégée, sans avoir égard au fond du droit, contre le trouble qui l'affecte ou la menace.  
 La protection possessoire est pareillement accordée au détenteur contre tout autre que celui de qui il tient ses droits.
 { #889ae1}
+

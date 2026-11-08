@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introduction-penal/","tags":["AES/S3/pénal","CM","droit","AES/S3"],"ctime":"2026-09-09T10:11:57.813+02:00","mtime":"2026-10-13T17:34:02.206+02:00","dg-note-properties":{"tags":["AES/S3/pénal","CM","droit","AES/S3"],"class":"[[References/Pénal]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":null,"date created":"2026-09-09, 10 11","date modified":"2026-09-22, 21 16"}}
+{"dg-publish":true,"permalink":"/introduction-penal/","tags":["AES/S3/pénal","CM","droit","AES/S3"],"ctime":"2026-09-09T10:11:57.813+02:00","mtime":"2026-11-08T18:48:36.513+01:00","dg-note-properties":{"tags":["AES/S3/pénal","CM","droit","AES/S3"],"class":"[[References/Pénal]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":null,"date created":"2026-09-09, 10 11","date modified":"2026-09-22, 21 16"}}
 ---
 
 
@@ -19,7 +19,7 @@
 
 > [!bug] Citation
 > ***Tout ce qui n'est pas interdit est permis dans une société démocratique***  
-> Loysel / [[Article 5 DDHC 1789\|Article 5 DDHC 1789]]
+> Loysel / [[Art. 5 DDHC 1789\|Art. 5 DDHC 1789]]
 
 
 - **Le droit pénal évolue dans le temps en fonction de**
@@ -117,7 +117,7 @@ flowchart TD
    
 2. La sanction pénale ne peut être prononcée que par une juridiction répressive. On est obligé de passer par un contentieux.
    
-3. Le droit pénal repose sur des $\text{fondements constitutionnels}$ ([[articles 34 et 37 de la constitution de 1958\|articles 34 et 37 de la constitution de 1958]]).  
+3. Le droit pénal repose sur des $\text{fondements constitutionnels}$ ([[articles 34 et 37 de la constitution de 1958]]).  
    Il a précisément objet de porter atteinte aux libertés de l'individu. Des principes constitutionnels font consacrer le droit à punir de l'État. 
 	- Ex. Le principe de la légalité.
 	- Le principe de non-rétroactivité, à postériori ou à priori
@@ -148,16 +148,16 @@ Dans la corruption de fonctionnaire, fonctionnaire a un sens en droit civil, mai
 
 ### <font color="#f6bdcd">1 . Le droit du conseil de l'Europe</font>
 
-- La convention Européenne des droits de l'Homme, signée le [[4 novembre 1950\|4 novembre 1950]] à Rome et rentrée en vigueur le [[3 mai 1974\|3 mai 1974]] en France, contient un certain nombre de droits et de garanties fondamentaux.
+- La convention Européenne des droits de l'Homme, signée le [[4 novembre 1950]] à Rome et rentrée en vigueur le [[3 mai 1974]] en France, contient un certain nombre de droits et de garanties fondamentaux.
 - La cour européenne exerce la bonne application de ce droit dans ces pays. Elle s'applique après épuisement des recours au sein des pays.
 
 > [!important] Cas particulier 
 > - En France, une singularité **pénale** permet de **rejuger par conformité** une décision prise par la cour européenne.
 > - Dans le **civil**, **on ne rejuge pas** la décision prise par la cour de cassation française.
 > 
-> - Cette décision est le fruit d'une loi du [[15 juin 2000\|15 juin 2000]], qui a encadré la norme pénale dans beaucoup de lois. 
-> 	- *Ex. le cas de l'esclavage domestique et l'arrêt Silladin contre France, le [[19 octobre 2000\|19 octobre 2000]] où la cour européenne a sanctionné la France, qui n'avait pas sanctionné un individu, faute de texte, qui avait porté atteinte au droit fondamentale d'une plaignante, victime d'esclavage moderne. Suite à quoi la France s'est vu contrainte d'adapter son droit et a adopté une législation spécifique et des nouvelles incriminations.*
-> 	- *[[L'arrêt Dudgeon et Py de 1981\|L'arrêt Dudgeon et Py de 1981]] qui arrête de sanctionner les rapports de même sexe*
+> - Cette décision est le fruit d'une loi du [[15 juin 2000]], qui a encadré la norme pénale dans beaucoup de lois. 
+> 	- *Ex. le cas de l'esclavage domestique et l'arrêt Silladin contre France, le [[19 octobre 2000]] où la cour européenne a sanctionné la France, qui n'avait pas sanctionné un individu, faute de texte, qui avait porté atteinte au droit fondamentale d'une plaignante, victime d'esclavage moderne. Suite à quoi la France s'est vu contrainte d'adapter son droit et a adopté une législation spécifique et des nouvelles incriminations.*
+> 	- *[[L'arrêt Dudgeon et Py de 1981]] qui arrête de sanctionner les rapports de même sexe*
 
 
 # <font color="#f6bdcd">III. Repères essentiels de droit pénal de fond</font>
@@ -236,19 +236,19 @@ Elle est constituée de l'infraction de base à laquelle le législateur a adjoi
   
 - **Émergence de l'école positiviste (XIXᵉ siècle)** :
 	- **Caractéristiques** : Utilisation de la méthode scientifique basée sur l'**anthropométrie**, vision très punitive axée sur la **dangerosité de l'individu** (*Théorie de la relégation*).
-> [!quote] **Cesare Lombroso** – *[[1876, L'Homme délinquant\|1876, L'Homme délinquant]]*
+> [!quote] **Cesare Lombroso** – *[[1876, L'Homme délinquant]]*
 
-> [!quote] **Raffaele Garofalo** – *[[1885, Criminologie\|1885, Criminologie]]*
+> [!quote] **Raffaele Garofalo** – *[[1885, Criminologie]]*
 
-> [!quote] **Enrico Ferri** – *[[1892, La sociologie criminelle\|1892, La sociologie criminelle]]*
+> [!quote] **Enrico Ferri** – *[[1892, La sociologie criminelle]]*
 
 - **Évolution vers l'école de La Défense sociale nouvelle (XXᵉ siècle)** :
 	- Repenser l'ensemble du système pénal autour de la **réadaptation et réinsertion sociale** du délinquant
-> [!quote] **Jean Pinatel** et **Marc Ancel** – *[[1960, La Criminologie\|1960, La Criminologie]]*
+> [!quote] **Jean Pinatel** et **Marc Ancel** – *[[1960, La Criminologie]]*
 
 ## <font color="#f6bdcd">3. La sociologie criminelle</font>
 - **Objet d'étude** : Analyse des **causes sociales de la délinquance** et étude de la **réaction sociale** (façon dont le public réagit face à l'infraction).
-> [!quote] **Jean Carbonnier** – *[[1978, Sociologie juridique\|1978, Sociologie juridique]]*
+> [!quote] **Jean Carbonnier** – *[[1978, Sociologie juridique]]*
 
 ## <font color="#f6bdcd">4. La politique criminelle</font>
 - **Objet d'étude** : Recherche des **meilleurs moyens de lutter contre la délinquance** à travers l'ensemble des politiques publiques (droit pénal, droit civil, administration).
@@ -257,10 +257,10 @@ Elle est constituée de l'infraction de base à laquelle le législateur a adjoi
 ## <font color="#f6bdcd">5. La philosophie pénale</font>
 - **Objet d'étude** : Réflexion critique sur la légitimité du droit de punir (*jus puniendi*) et le sens de la peine.
   
-> [!quote] **Cesare Beccaria** – *[[1764, Traité des délits et des peines\|1764, Traité des délits et des peines]]*
+> [!quote] **Cesare Beccaria** – *[[1764, Traité des délits et des peines]]*
 - Précurseur du droit pénal moderne et source directe de l'art. 8 de la DDHC de 1789.
 - Établit la **proportionnalité des peines**, l'individualisation et le **principe de légalité des délits et des peines** (*nullum crimen, nulla poena sine lege*).
 
-> [!quote] **Jeremy Bentham** – *[[1791, Panopticon\|1791, Panopticon]]* et *[[1811, Théorie des peines et des récompenses\|1811, Théorie des peines et des récompenses]]*
+> [!quote] **Jeremy Bentham** – *[[1791, Panopticon]]* et *[[1811, Théorie des peines et des récompenses]]*
 - Fondateur de l'utilitarisme : la peine vise la **dissuasion** (générale et spéciale) selon un calcul arithmétique des plaisirs et des peines.
 

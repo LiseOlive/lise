@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plan-td-2-les-differents-types-de-contrat/","ctime":"2026-10-17T17:15:35.217+02:00","mtime":"2026-10-17T17:37:31.533+02:00","dg-note-properties":{"date created":"2026-10-17, 17 15","date modified":"2026-10-17, 17 37","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/plan-td-2-les-differents-types-de-contrat/","ctime":"2026-10-17T17:15:35.217+02:00","mtime":"2026-11-08T19:00:01.826+01:00","dg-note-properties":{"date created":"2026-10-17, 17 15","date modified":"2026-10-17, 17 37","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/2]]"}}
 ---
 
 
@@ -71,7 +71,7 @@
   * Commande exceptionnelle à l'exportation ([[Art. L. 1242-8-1 C. trav.\|Art. L. 1242-8-1 C. trav.]] : durée maximale aménagée jusqu'à 18 ou 24 mois pour des moyens exorbitants).
   * Emplois saisonniers et d'usage.
 * **Motifs stricts et interdictions** :
-  * **Motif de "réorganisation du service"** : Motif illicite non prévu par la loi, entraînant la requalification automatique en CDI ([[Cass. soc., 16 sept. 2009\|Cass. soc., 16 sept. 2009]]).
+  * **Motif de "réorganisation du service"** : Motif illicite non prévu par la loi, entraînant la requalification automatique en CDI ([[Cass. soc., 16 septembre 2009\|Cass. soc., 16 septembre 2009]]).
   * **Remplacement d'un salarié parti à la retraite** : Départ définitif ne pouvant faire l'objet d'un CDD, sauf en cas de suppression effective du poste validée après consultation du CSE (*Cas François F.*).
   * Remplacement de grévistes ou travaux particulièrement dangereux (interdictions d'ordre public).
 * **Principe d'unicité du remplacement** :
@@ -82,7 +82,7 @@
 * **Délai de transmission** : Transmis au salarié au plus tard dans les **2 jours ouvrables** suivant l'embauche ([[Art. L. 1242-13 C. trav.\|Art. L. 1242-13 C. trav.]]).
 * **Mentions obligatoires de fond** :
   * Motif précis de recours.
-  * **Nom et qualification professionnelle du salarié remplacé** : L'omission de la qualification du remplacé entraîne la requalification de plein droit en CDI ([[Cass. soc., 16 sept. 2009\|Cass. soc., 16 sept. 2009]]).
+  * **Nom et qualification professionnelle du salarié remplacé** : L'omission de la qualification du remplacé entraîne la requalification de plein droit en CDI ([[Cass. soc., 16 septembre 2009\|Cass. soc., 16 septembre 2009]]).
 * **Terme du contrat** :
   * **Terme certain (date à date)** : Obligatoire pour l'accroissement temporaire d'activité (durée maximale de 18 mois, 2 renouvellements max).
   * **Terme incertain** : Autorisé pour le remplacement d'un salarié absent (événement mettant fin au contrat = retour du salarié absent) sous réserve d'indiquer une **durée minimale**.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes-legaux-et-reglementaires/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-09-10T13:28:07.570+02:00","mtime":"2026-11-05T14:25:48.734+01:00","dg-note-properties":{"tags":["travail","CM","droit","AES/S3"],"class":"[[References/Travail]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/Code]]","part":null,"date created":"2026-09-10, 13 28","date modified":"2026-11-05, 14 25"}}
+{"dg-publish":true,"permalink":"/textes-legaux-et-reglementaires/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-09-10T13:28:07.570+02:00","mtime":"2026-11-08T19:11:37.692+01:00","dg-note-properties":{"tags":["travail","CM","droit","AES/S3"],"class":"[[References/Travail]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":null,"part":null,"date created":"2026-09-10, 13 28","date modified":"2026-11-08, 18 55"}}
 ---
 
 
@@ -72,7 +72,7 @@
 > [!quote] Article L. 7313-1 du Code du travail (Présomption VRP)
 > Toute convention dont l'objet est la représentation, conclue entre un voyageur, représentant ou placier et un employeur est, nonobstant toute stipulation expresse du contrat ou en son silence, un contrat de travail.
 
-[[Article L. 8221-6 du Code du travail (Présomption de non-salariat)\|Article L. 8221-6 du Code du travail (Présomption de non-salariat)]]
+[[Art. L. 8221-6 C. trav.\|Art. L. 8221-6 C. trav.]]
 
 ---
 

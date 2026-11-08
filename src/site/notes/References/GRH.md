@@ -5,6 +5,7 @@
 
 # [[References/GRH\|GRH]]
 
+- [[Drive/Josepha/S3/gestion des ressources humaines/Partie 1 - la gestion des ressources humaines\|Partie 1 - la gestion des ressources humaines]]: — 08/11/2026
 - [[GRH - Plan\|GRH - Plan]]: — 14/09/2026
 - [[Partie 1 - La gestion des ressources humaines\|Partie 1 - La gestion des ressources humaines]]: — 07/09/2026
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dol-indetermine/","title":"Dol indeterminé","ctime":"2026-11-04T10:34:48.514+01:00","mtime":"2026-11-04T10:39:15.402+01:00","dg-note-properties":{"date created":"2026-11-04, 10 34","date modified":"2026-11-04, 10 39","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null,"title":"Dol indeterminé"}}
+{"dg-publish":true,"permalink":"/dol-indetermine/","title":"Dol indeterminé","ctime":"2026-11-04T10:34:48.514+01:00","mtime":"2026-11-08T19:00:01.182+01:00","dg-note-properties":{"date created":"2026-11-04, 10 34","date modified":"2026-11-08, 18 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null,"title":"Dol indeterminé"}}
 ---
 
 

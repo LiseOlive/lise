@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/controle-constitutionnel-et-qpc/","ctime":"2026-10-13T21:45:40.779+02:00","mtime":"2026-10-13T23:24:11.405+02:00","dg-note-properties":{"date created":"2026-10-13, 21 45","date modified":"2026-10-13, 23 24","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/controle-constitutionnel-et-qpc/","ctime":"2026-10-13T21:45:40.779+02:00","mtime":"2026-11-08T18:47:19.250+01:00","dg-note-properties":{"date created":"2026-10-13, 21 45","date modified":"2026-10-13, 23 24","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/2]]"}}
 ---
 
 
@@ -60,7 +60,7 @@ Afin d'atténuer la rigueur de la loi écran, le [[Conseil d'État\|Conseil d'É
   * **Contrôle *a priori*** (Art. 61 de la Constitution) : Instauré en 1958, exercé uniquement avant la promulgation de la loi sur saisine politique (Président, PM, Présidents des Assemblées, et depuis 1974 par 60 députés ou 60 sénateurs).
   * **Lacune** : Les lois non déférées au Conseil constitutionnel entraient définitivement dans le droit positif et bénéficiaient de l'écran législatif.
 * **Instauration du contrôle *a posteriori*** :
-  * **Ancrage constitutionnel** : **[[Loi constitutionnelle du 23 juillet 2008\|Loi constitutionnelle du 23 juillet 2008]]** insérant l'==[[Article 61-1 de la Constitution\|Article 61-1 de la Constitution]]==.
+  * **Ancrage constitutionnel** : **[[Loi constitutionnelle du 23 juillet 2008\|Loi constitutionnelle du 23 juillet 2008]]** insérant l'==[[Art. 61-1 Const.\|Art. 61-1 Const.]]==.
   * **Loi d'application** : **[[Loi organique du 10 décembre 2009\|Loi organique du 10 décembre 2009]]**.
   * **Entrée en vigueur** : ==1er mars 2010==.
 * **Principe clé** : Permet à tout justiciable de contester la constitutionnalité d'une disposition législative déjà en vigueur à l'occasion d'une instance en justice.
@@ -120,7 +120,7 @@ flowchart TD
 
 * **Si la loi est déclarée conforme** : Rejet de la QPC. La loi est définitivement purgée et le procès principal reprend son cours.
 * **Si la loi est déclarée inconstitutionnelle** :
-  * **Abrogation de la disposition** : En vertu de l'==[[Article 62 alinéa 2 de la Constitution\|Article 62 alinéa 2 de la Constitution]]==, la disposition est supprimée de l'ordre juridique.
+  * **Abrogation de la disposition** : En vertu de l'==[[Art. 62 al. 2 Const.]]==, la disposition est supprimée de l'ordre juridique.
   * **Effet pour l'avenir** : La loi abrogée ne peut plus recevoir d'application pour les situations futures.
 
 > [!example] **Modulation dans le temps et abrogation différée**
@@ -139,7 +139,7 @@ En conclusion de la hiérarchie des normes constitutionnelles, l'étude s'orient
 ### B. La distinction fondamentale entre CEDH et Droit de l'UE
 * **La Convention Européenne des Droits de l'Homme (CEDH - 1950)** :
   * Issue du Conseil de l'Europe.
-  * Placée sous le contrôle de la **[[Cour européenne des droits de l'homme (CEDH)\|Cour européenne des droits de l'homme (CEDH)]]**.
+  * Placée sous le contrôle de la **[[Cour européenne des droits de l'homme (CEDH)]]**.
   * Conserve dans la hiérarchie des normes le statut classique d'un traité international.
 * **Le Droit de l'Union Européenne** :
   * Issu du Traité de Rome (1957), restructuré par le TUE et le TFUE.

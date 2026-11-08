@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/execution-et-rupture-du-contrat-de-travail/","ctime":"2026-10-15T14:10:34.912+02:00","mtime":"2026-10-23T15:21:20.702+02:00","dg-note-properties":{"date created":"2026-10-15, 14 10","date modified":"2026-10-23, 15 21","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
+{"dg-publish":true,"permalink":"/execution-et-rupture-du-contrat-de-travail/","ctime":"2026-10-15T14:10:34.912+02:00","mtime":"2026-11-08T19:00:01.870+01:00","dg-note-properties":{"date created":"2026-10-15, 14 10","date modified":"2026-10-23, 15 21","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
 ---
 
 
@@ -11,10 +11,10 @@
 
 Bien que l'employeur dispose du droit de rompre le contrat de travail pendant la période d'essai sans avoir à motiver sa décision ni à respecter les règles formelles du licenciement, ce pouvoir discrétionnaire est strictement limité par la théorie de l'abus de droit.
 
-> **Article [[L. 1231-1 du Code du travail\|L. 1231-1 du Code du travail]]** :  
+> **Article [[Art. L. 1231-1 C. trav.\|Art. L. 1231-1 C. trav.]]** :  
 > Les règles encadrant la rupture du contrat de travail à durée indéterminée ne s'appliquent pas pendant la période d'essai. L'employeur peut y mettre fin de manière discrétionnaire sans énoncer de motif.
 
-> [[JURIS MAJEURE Cass. soc., 15 mai 2008\|JURIS MAJEURE Cass. soc., 15 mai 2008]]) :  
+> [[Cass. soc., 15 mai 2008\|Cass. soc., 15 mai 2008]]) :  
 > Le droit discrétionnaire de l'employeur de rompre le contrat de travail en invoquant la période d'essai ne doit pas dégénérer en abus.
 
 L'employeur n'a aucun motif à fournir lors de la notification de la rupture. Il lui est d'ailleurs vivement recommandé en pratique de s'en tenir à la formule neutre " essai non concluant ". Toutefois, le salarié conserve la faculté de contester la rupture a posteriori devant le [[Conseil de Prud'hommes\|Conseil de Prud'hommes]].
@@ -138,7 +138,7 @@ Le salarié doit être présent à son poste aux heures convenues :
 
 #### E. L'obligation de sécurité du salarié
 
-> **[[Art. L. 4122-1 trav.\|Art. L. 4122-1 trav.]]** :  
+> **[[Art. L. 4122-1 C. trav.\|Art. L. 4122-1 C. trav.]]** :  
 > Conformément aux instructions qui lui sont données par l'employeur, il incombe à chaque travailleur de prendre soin, en fonction de sa formation et selon ses possibilités, de sa santé et de sa sécurité ainsi que de celles des autres personnes concernées par ses actes ou ses omissions au travail.
 
 Le salarié doit respecter les consignes d'hygiène et de sécurité et porter les équipements de protection individuelle (EPI). Le non-respect de ces règles engage sa responsabilité disciplinaire.

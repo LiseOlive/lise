@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plan-td-1-le-contrat-de-travail/","tags":["AES","droit","TD","examen","travail"],"ctime":"2026-09-24T23:00:59.890+02:00","mtime":"2026-10-15T22:28:57.861+02:00","dg-note-properties":{"date created":"2026-09-28, 14 20","date modified":"2026-10-15, 22 28","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/1]]","tags":["AES","droit","TD","examen","travail"]}}
+{"dg-publish":true,"permalink":"/plan-td-1-le-contrat-de-travail/","tags":["AES","droit","TD","examen","travail"],"ctime":"2026-09-24T23:00:59.890+02:00","mtime":"2026-11-08T19:00:01.825+01:00","dg-note-properties":{"date created":"2026-09-28, 14 20","date modified":"2026-10-15, 22 28","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/1]]","tags":["AES","droit","TD","examen","travail"]}}
 ---
 
 
@@ -7,7 +7,7 @@
 ## I. La qualification du contrat de travail (Les 3 critères)
 ### 1. La prestation de travail
 - **Définition** : Activité physique, intellectuelle, artistique ou de surveillance, exécutée à titre personnel et effectif par une personne physique.
-- **Finalité** : Production d'un bien ayant une **valeur économique** (*[[Cass. soc., 24 avril 2013 (Sanctions pécuniaires)\|Cass. soc., 24 avril 2013 (Sanctions pécuniaires)]]*).
+- **Finalité** : Production d'un bien ayant une **valeur économique** (*[[Cass. soc., 24 avril 2013\|Cass. soc., 24 avril 2013]]*).
 - **Distinction** : Le stage a une finalité exclusivement formative ; tout détournement pour combler un besoin permanent entraîne sa **requalification en CDI**.
 ### 2. La rémunération
 - **Nature** : Contrepartie financière ou avantage en nature.
@@ -21,9 +21,9 @@
 - **Indice complémentaire** : L'intégration du travailleur dans un **service organisé** (ce n'est pas un critère autonome)
 ## II. Le principe de réalité & le renversement des apparences
 ### 1. Le principe de réalité
-> **[[Arrêt Labbane du 19 décembre 2000\|Arrêt Labbane du 19 décembre 2000]]** : L'existence d'un contrat de travail ne dépend ni de la volonté des parties ni de la dénomination de leur convention, mais des **conditions de fait** dans lesquelles est exercée l'activité.
+> **[[Arrêt Labbane, Cass. soc., 19 décembre 2000\|Arrêt Labbane, Cass. soc., 19 décembre 2000]]** : L'existence d'un contrat de travail ne dépend ni de la volonté des parties ni de la dénomination de leur convention, mais des **conditions de fait** dans lesquelles est exercée l'activité.
 ### 2. Présomption légale & Renversement (Faisceau d'indices)
-- **[[Article L. 8221-6 du Code du travail (Présomption de non-salariat)\|Article L. 8221-6 du Code du travail (Présomption de non-salariat)]]** : Présomption simple de non-salariat pour les personnes immatriculées (RCS, auto-entrepreneurs).
+- **[[Art. L. 8221-6 C. trav.\|Art. L. 8221-6 C. trav.]]** : Présomption simple de non-salariat pour les personnes immatriculées (RCS, auto-entrepreneurs).
 - **Renversement par la preuve d'une subordination permanente** :
   - *L'Île de la tentation (2009/2013)* : Télé-réalité, consignes strictes, horaires imposés, valeur économique.
   - *Take Eat Easy (2018)* : Géolocalisation GPS en temps réel et sanctions (*strikes*).
@@ -33,9 +33,9 @@
 ### 1. Problème de droit type
 > *Un contrat d'entreprise / de prestation de service peut-il être requalifié en CDI, et sa rupture unilatérale constitue-t-elle un licenciement sans cause réelle et sérieuse ?*
 ### 2. Majeure (Règles & Jurisprudence)
-- **Définition du contrat de travail** (*[[Cass. civ., 22 juillet 1954\|Cass. civ., 22 juillet 1954]]*) + **Principe de réalité** (*[[Arrêt Labbane du 19 décembre 2000\|Arrêt Labbane du 19 décembre 2000]]*).
+- **Définition du contrat de travail** (*[[Cass. civ., 22 juillet 1954\|Cass. civ., 22 juillet 1954]]*) + **Principe de réalité** (*[[Arrêt Labbane, Cass. soc., 19 décembre 2000\|Arrêt Labbane, Cass. soc., 19 décembre 2000]]*).
 - **Les 3 critères & Définition de la subordination** (*[[Arrêt Société Générale, Cass. soc., 13 novembre 1996\|Arrêt Société Générale, Cass. soc., 13 novembre 1996]]*).
-- **Présomption de non-salariat et règles de son renversement** (*[[Article L. 8221-6 du Code du travail (Présomption de non-salariat)\|Article L. 8221-6 du Code du travail (Présomption de non-salariat)]].*).
+- **Présomption de non-salariat et règles de son renversement** (*[[Art. L. 8221-6 C. trav.\|Art. L. 8221-6 C. trav.]].*).
 ### 3. Mineure (Faisceau d'indices appliqué aux faits)
 - **Indices de direction** : Horaires et plannings imposés, tarifs fixés, consignes obligatoires.
 - **Indices de contrôle** : Suivi GPS en temps réel, relecture du travail, temps de réponse contraint.

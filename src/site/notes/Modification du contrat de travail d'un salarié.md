@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modification-du-contrat-de-travail-d-un-salarie/","ctime":"2026-11-05T14:52:04.887+01:00","mtime":"2026-11-05T20:19:56.453+01:00","dg-note-properties":{"date created":"2026-11-05, 14 52","date modified":"2026-11-05, 16 27","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/modification-du-contrat-de-travail-d-un-salarie/","ctime":"2026-11-05T14:52:04.887+01:00","mtime":"2026-11-08T19:00:01.199+01:00","dg-note-properties":{"date created":"2026-11-05, 14 52","date modified":"2026-11-08, 18 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
 ---
 
 
