@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/references/anglais/","ctime":"2026-10-04T02:01:32.859+02:00","mtime":"2026-10-16T17:14:49.015+02:00","dg-note-properties":{"date created":"2026-10-04, 2 01","date modified":"2026-10-16, 17 14","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/0001015067_OG.jpg]]"}}
+{"dg-publish":true,"permalink":"/references/anglais/","ctime":"2026-10-04T02:01:32.859+02:00","mtime":"2026-11-08T20:12:11.707+01:00","dg-note-properties":{"date created":"2026-10-04, 2 01","date modified":"2026-11-08, 20 12","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/0001015067_OG.jpg]]"}}
 ---
 
 
 # [[References/Anglais\|Anglais]]
 
-- [[Drive/Josepha/S3/anglais/TD1 à 6 et task\|TD1 à 6 et task]]: — 08/11/2026
 - [[Cobweb chart\|Cobweb chart]]: — 13/10/2026
 - [[Prepositions of place and directions\|Prepositions of place and directions]]: — 13/10/2026
 - [[English level test\|English level test]]: — 13/10/2026

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drive/josepha/s3/comptabilite-generale/chap-2-acomptes/exercice/exercice-correction/","ctime":"2026-11-08T16:03:54.400+01:00","mtime":"2026-11-08T17:44:15.164+01:00","dg-note-properties":{"date created":"2026-11-08, 16 01","date modified":"2026-11-08, 16 01","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Compta]]","form":"[[References/TD]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/drive/josepha/s3/comptabilite-generale/chap-2-acomptes/exercice/exercice-correction/","ctime":"2026-11-08T16:03:54.400+01:00","mtime":"2026-11-08T20:11:12.170+01:00","dg-note-properties":{"date created":"2026-11-08, 16 03","date modified":"2026-11-08, 20 11","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Compta]]","form":"[[References/TD]]","part":"[[References/2]]"}}
 ---
 
 

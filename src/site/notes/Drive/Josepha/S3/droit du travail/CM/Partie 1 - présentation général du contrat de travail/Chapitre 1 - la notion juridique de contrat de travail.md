@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drive/josepha/s3/droit-du-travail/cm/partie-1-presentation-general-du-contrat-de-travail/chapitre-1-la-notion-juridique-de-contrat-de-travail/","ctime":"2026-11-08T15:49:15.279+01:00","mtime":"2026-11-08T17:44:13.329+01:00","dg-note-properties":{"date created":"2026-11-08, 15 41","date modified":"2026-11-08, 15 59","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/1]]"}}
+{"dg-publish":true,"permalink":"/drive/josepha/s3/droit-du-travail/cm/partie-1-presentation-general-du-contrat-de-travail/chapitre-1-la-notion-juridique-de-contrat-de-travail/","ctime":"2026-11-08T15:49:15.279+01:00","mtime":"2026-11-08T20:01:09.062+01:00","dg-note-properties":{"date created":"2026-11-08, 15 49","date modified":"2026-11-08, 20 01","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/1]]"}}
 ---
 
 
@@ -99,7 +99,7 @@ Il faut obligatoirement une convention de stage avec un organisme de formation.
 
 La cour de Cassation va considérer qu'il y a contrat de travail en cas de détournement de la finalités, des règles du stage **Arrêt de la cour de Cassation, chambre sociale en date du 18 juillet 2001** (abus donc contrat de travail)
 
-#### §2- La rémunération
+#### §2La rémunération
 
 La rémunération constitue la contrepartie de la prestation de travail.
 
@@ -141,7 +141,7 @@ Quelle que soit la rémunération, le salarié a le droit au salaire minimum, so
 
 Le droit au smic est fondamental.
 
-#### §3- le lien de subordination
+#### §3le lien de subordination
 
 Pour pouvoir parler de contrat de travail, il faut que le salarié ait un lien de subordination avec son employeur.
 
@@ -231,7 +231,7 @@ Pouvoir de sanction --> dans certains cas les chauffeurs étaient déréférenc�
 
 **Cour de Cass, arrêt du 9 juillet 2025** --> toujours pour Uber, cette fois il échappe à la requalification, modifications des éléments qui caractérisent le pouvoir.
 
-#### §4- La preuve du contrat de travail
+#### §4La preuve du contrat de travail
 
 #### A - Les principes généraux
 
@@ -281,7 +281,7 @@ La loi peut établir des présomptions concernant l'existence ou l'absence d'un 
 
 Une présomption permet de considérer qu'une situation est établie à partir de certains éléments prévus par la loi.
 
-#### §1- Les présomptions d'existence de contrat de travail
+#### §1Les présomptions d'existence de contrat de travail
 
 #### A - La présomption irréfragable des VRP
 
@@ -321,7 +321,7 @@ Les artistes de spectacle **L. 7121-1 ou -2 du code du travail**
 
 Les mannequins professionnels **L. 7123-3 du code du travail**
 
-#### §2- Les présomptions d'absence d'existence de contrat de travail
+#### §2Les présomptions d'absence d'existence de contrat de travail
 
 #### Article L8221-6 du code du travail
 
