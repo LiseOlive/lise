@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arret-bardou-cass-civ-6-juillet-1931/","tags":["arrêt","travail","AES/S3","examen"],"ctime":"2026-09-28T14:35:53.241+02:00","mtime":"2026-10-13T17:34:01.721+02:00","dg-note-properties":{"date created":"2026-09-28, 14 35","date modified":"2026-09-28, 14 37","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":["arrêt","travail","AES/S3","examen"]}}
+{"dg-publish":true,"permalink":"/arret-bardou-cass-civ-6-juillet-1931/","tags":["arrêt","travail","AES/S3","examen"],"ctime":"2026-09-28T14:35:53.241+02:00","mtime":"2026-11-08T19:00:00.990+01:00","dg-note-properties":{"date created":"2026-09-28, 14 35","date modified":"2026-11-08, 18 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null,"tags":["arrêt","travail","AES/S3","examen"]}}
 ---
 
 

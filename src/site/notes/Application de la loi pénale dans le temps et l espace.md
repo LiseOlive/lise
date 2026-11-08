@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/application-de-la-loi-penale-dans-le-temps-et-l-espace/","ctime":"2026-10-13T23:26:07.929+02:00","mtime":"2026-10-14T16:23:48.048+02:00","dg-note-properties":{"tags":[],"date created":"2026-10-13, 23 26","date modified":"2026-10-14, 14 59","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/application-de-la-loi-penale-dans-le-temps-et-l-espace/","ctime":"2026-10-13T23:26:07.929+02:00","mtime":"2026-11-08T18:47:18.770+01:00","dg-note-properties":{"tags":[],"date created":"2026-10-13, 23 26","date modified":"2026-10-14, 14 59","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]"}}
 ---
 
 
@@ -15,10 +15,10 @@
 
 >[!quote] **Portalis** – *"Avertir avant de frapper."*
 
->[!cite] **[[Article 8 DDHC 1789\|Article 8 DDHC 1789]]**
+>[!cite] **[[Art. 8 DDHC 1789\|Art. 8 DDHC 1789]]**
 *"La loi ne doit établir que des peines strictly et évidemment nécessaires, et nul ne peut être puni qu'en vertu d'une loi établie et promulguée antérieurement au délit, et légalement appliquée."*
 
->[!cite] **[[Article 7 CEDH\|Article 7 CEDH]]**
+>[!cite] **[[Art. 7 Conv. EDH\|Art. 7 Conv. EDH]]**
 *"Nul ne peut être condamné pour une action ou une omission qui, au moment où elle a été commise, ne constituait pas une infraction d'après le droit national ou international. De même, il ne peut être infligé aucune peine plus forte que celle qui était applicable au moment où l'infraction a été commise."*
 
 ---
@@ -40,7 +40,7 @@ flowchart TD
 
 #### A. Le principe de non-rétroactivité des lois pénales de fond plus sévères
 
-* **Ancrage légal** : [[art. 112-1 al. 1 et 2 du Code pénal\|art. 112-1 al. 1 et 2 du Code pénal]]
+* **Ancrage légal** : [[Art. 112-1 al. 1 et 2 C. pén.]]
   * *Alinéa 1* : Sont seuls punissables les faits constitutifs d'une infraction à la date à laquelle ils ont été commis.
   * *Alinéa 2* : Peuvent seules être prononcées les peines légalement applicables à la même date.
 
@@ -50,7 +50,7 @@ flowchart TD
   * **Relatif aux incriminations** :
     * Création d'une nouvelle incrimination.
     * Élargissement du champ d'application d'une incrimination existante (ex. suppression de la condition de subordination hiérarchique en matière de harcèlement sexuel).
-    * Suppression d'une condition d'irresponsabilité ou élargissement de la responsabilité (ex. suppression du principe de spécialité des personnes morales par la [[loi du 9 mars 2004\|loi du 9 mars 2004]]).
+    * Suppression d'une condition d'irresponsabilité ou élargissement de la responsabilité (ex. suppression du principe de spécialité des personnes morales par la [[loi du 9 mars 2004]]).
   * **Relatif aux pénalités** :
     * Création d'une nouvelle circonstance aggravante.
     * Augmentation du quantum maximal d'une peine.
@@ -59,7 +59,7 @@ flowchart TD
 
 #### B. L'exception : La rétroactivité *in mitius* des lois pénales de fond plus favorables
 
->[!cite] **[[art. 112-1 al. 3 du Code pénal\|art. 112-1 al. 3 du Code pénal]]**
+>[!cite] **[[Art. 112-1 al. 3 C. pén.]]**
 *"Toutefois, les dispositions nouvelles s'appliquent aux infractions commises avant leur entrée en vigueur et n'ayant pas donné lieu à une condamnation passée en force de chose jugée lorsqu'elles sont moins sévères que les dispositions anciennes."*
 
 * **Justification** : Fonde la réaction pénale sur la nécessité stricte des peines. Si la société estime qu'un comportement est moins grave ou ne doit plus être sanctionné, la répression antérieure n'a plus de légitimité sociale.
@@ -101,7 +101,7 @@ Pour déterminer quelle loi s'applique, le juge doit localiser précisément la 
 ### 2. Le principe de l'application immédiate du droit pénal formel
 
 >[!abstract] **Règle générale de procédure**
->* **Textes d'ancrage** : Articles [[art. 112-2 du Code pénal\|112-2 à 112-4 du Code pénal]].
+>* **Textes d'ancrage** : Articles [[Art. 112-2 C. pén.|112-2 à 112-4 du Code pénal]].
 >* **Principe** : Les lois de procédure (droit pénal de forme) sont d'**application immédiate** aux procédures en cours dès leur entrée en vigueur, tant que la décision sur le fond n'est pas devenue définitive.
 >* **Raison d'être** : Les lois de procédure sont présumées assurer une meilleure administration de la justice.
 
@@ -110,7 +110,7 @@ Pour déterminer quelle loi s'applique, le juge doit localiser précisément la 
   2. **Lois régissant les formes du procès et le déroulement de la procédure** (ex. règles relatives aux voies de recours ou aux actes d'enquête).
   3. **Lois relatives à la prescription de l'action publique** :
      * S'appliquent immédiatement aux prescriptions en cours non encore acquises.
-     * *Exemple* : La [[loi du 27 février 2017\|loi du 27 février 2017]] a allongé les délais de prescription de droit commun de 3 à 6 ans pour les délits, et de 10 à 20 ans pour les crimes.
+     * *Exemple* : La [[loi du 27 février 2017]] a allongé les délais de prescription de droit commun de 3 à 6 ans pour les délits, et de 10 à 20 ans pour les crimes.
   4. **Lois relatives à l'exécution et au régime d'application des peines** (ex. règles sur la libération conditionnelle ou l'aménagement de peine).
 
 >[!important] **Réserve des actes accomplis**
@@ -141,12 +141,12 @@ Pour déterminer quelle loi s'applique, le juge doit localiser précisément la 
 
 #### A - Les infractions commises sur le territoire de la République (Compétence territoriale)
 
->[!cite] **[[art. 113-2 al. 1 du Code pénal\|art. 113-2 al. 1 du Code pénal]]**
+>[!cite] **[[Art. 113-2 al. 1 C. pén.]]**
 >*"La loi pénale française est applicable aux infractions commises sur le territoire de la République."*
 
 * **Portée du principe** : Principe général et absolu. Il s'applique aux auteurs et victimes français comme étrangers, dès lors que l'infraction est localisée sur le territoire national.
 
-##### a - Définition juridique du territoire français ([[art. 113-1 du Code pénal\|art. 113-1 du Code pénal]])
+##### a - Définition juridique du territoire français ([[Art. 113-1 C. pén.]])
 
 1. **Espace terrestre** :
    * La France métropolitaine.
@@ -154,7 +154,7 @@ Pour déterminer quelle loi s'applique, le juge doit localiser précisément la 
    * Les collectivités et territoires d'outre-mer (**COM/TOM**) : Nouvelle-Calédonie, Polynésie française, Wallis-et-Futuna, etc.
 
 2. **Espace maritime** :
-   * Comprend les eaux intérieures et la **mer territoriale** fixée à **12 milles marins** à partir des lignes de base ([[loi du 24 décembre 1971\|loi du 24 décembre 1971]]).
+   * Comprend les eaux intérieures et la **mer territoriale** fixée à **12 milles marins** à partir des lignes de base ([[loi du 24 décembre 1971]]).
    * Au-delà des 12 milles, s'ouvre la haute mer (espace international).
 
 3. **Espace aérien** :

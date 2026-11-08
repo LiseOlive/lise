@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-1242-7-c-trav/","ctime":"2026-10-17T17:03:18.565+02:00","mtime":"2026-10-23T09:52:50.424+02:00","dg-note-properties":{"date created":"2026-10-17, 17 03","date modified":"2026-10-23, 9 52","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/art-l-1242-7-c-trav/","ctime":"2026-10-17T17:03:18.565+02:00","mtime":"2026-11-08T18:47:18.678+01:00","dg-note-properties":{"date created":"2026-10-17, 17 03","date modified":"2026-11-08, 18 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 
-# L1242-7
+# Art. L. 1242-7 C. trav.
 
 Le contrat de travail à durée déterminée comporte un terme fixé avec précision dès sa conclusion.
 
