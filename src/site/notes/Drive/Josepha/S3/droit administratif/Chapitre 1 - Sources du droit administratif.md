@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drive/josepha/s3/droit-administratif/chapitre-1-sources-du-droit-administratif/","ctime":"2026-11-08T15:49:15.156+01:00","mtime":"2026-11-08T17:44:13.335+01:00","dg-note-properties":{"date created":"2026-11-08, 15 41","date modified":"2026-11-08, 15 59","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":""}}
+{"dg-publish":true,"permalink":"/drive/josepha/s3/droit-administratif/chapitre-1-sources-du-droit-administratif/","ctime":"2026-11-08T15:49:15.156+01:00","mtime":"2026-11-12T15:41:58.842+01:00","dg-note-properties":{"date created":"2026-11-08, 15 41","date modified":"2026-11-08, 15 59","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":null}}
 ---
 
 

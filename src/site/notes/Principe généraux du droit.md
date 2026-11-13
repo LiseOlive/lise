@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principe-generaux-du-droit/","ctime":"2026-11-05T15:27:14.173+01:00","mtime":"2026-11-08T19:00:01.845+01:00","dg-note-properties":{"date created":"2026-11-05, 15 27","date modified":"2026-11-08, 18 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/principe-generaux-du-droit/","ctime":"2026-11-05T15:27:14.173+01:00","mtime":"2026-11-12T15:38:49.953+01:00","dg-note-properties":{"date created":"2026-11-05, 15 27","date modified":"2026-11-12, 15 38","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
 
@@ -22,3 +22,5 @@
 [[Arrêt Dame David\|Arrêt Dame David]]
 > [!note] **PGD au mieux législatif, au pire infralegislatifs**
 >
+
+[[CE, 3 février 1989, Compagnie Alitalia\|CE, 3 février 1989, Compagnie Alitalia]]

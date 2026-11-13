@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/les-pgd-et-le-pouvoir-reglementaire/","ctime":"2026-11-06T23:06:29.439+01:00","mtime":"2026-11-08T19:00:01.764+01:00","dg-note-properties":{"date created":"2026-11-06, 23 06","date modified":"2026-11-06, 23 13","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/les-pgd-et-le-pouvoir-reglementaire/","ctime":"2026-11-06T23:06:29.439+01:00","mtime":"2026-11-13T01:20:48.878+01:00","dg-note-properties":{"date created":"2026-11-06, 23 06","date modified":"2026-11-13, 1 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/1]]"}}
 ---
 
 
@@ -88,3 +88,43 @@ En vertu de l'==[[Art. 13-1 Const.\|Art. 13-1 Const.]]==, le Président de la R�
   1. **Délégation expresse** du Premier ministre sur un sujet précis.
   2. **Habilitation législative directe** désignant le ministre compétent pour prendre les mesures d'application.
   3. **Qualité de chef de service** (jurisprudence *Jamart*, 1936) : Tout ministre (comme tout chef de service) dispose du pouvoir d'édicter les mesures réglementaires nécessaires à l'organisation interne de son administration.
+
+## C. Les conditions d'exercice du pouvoir réglementaire d'application de la loi
+
+### 1. L'obligation d'agir du pouvoir réglementaire
+* **Principe constitutionnel d'indépendance** : En vertu du principe de séparation des pouvoirs et de l'[[Art. 21-1 Const.\|Art. 21-1 Const.]], le pouvoir exécutif ne tient pas sa compétence du Parlement mais directement de la Constitution. Le gouvernement a pour fonction propre d'exécuter la loi.
+* **Consécration prétorienne de l'obligation d'agir** : Dès 1951, le [[Conseil d'État\|Conseil d'État]] avait énoncé cette obligation afin d'éviter que le pouvoir exécutif ne paralyse l'application de la loi. Dans l'arrêt fondamental ==[[CE, 28 juillet 2000, FNE\|CE, 28 juillet 2000, FNE]]== (Association France Nature Environnement), le juge administratif suprême consacre la source constitutionnelle de cette règle : l'exercice du pouvoir réglementaire comporte non seulement le droit mais également l'**obligation de prendre dans un délai raisonnable** les mesures qu'implique nécessairement l'application de la loi.
+* **Contrôle juridictionnel et sanctions de l'inertie réglementaire** : Pour sanctionner le refus ou le retard fautif du pouvoir réglementaire d'édicter les décrets d'application, le juge vérifie trois critères cumulatifs :
+  1. *Compatibilité internationale* : La loi doit être conforme aux engagements internationaux et européens de la France. Si la loi est incompatible avec une directive ou un traité, le gouvernement a l'obligation de refuser d'édicter les règlements d'application pour respecter la primauté du droit international ([[Art. 55 Const.\|Art. 55 Const.]]).
+  2. *Nécessité de mesures d'application* : La loi ne doit pas pouvoir s'appliquer d'elle-même sans texte réglementaire d'exécution.
+  3. *Dépassement du délai raisonnable* : Le juge administratif apprécie le délai raisonnable au cas par cas avec prudence selon la complexité technique et les contraintes politiques ou financières (allant de 1 an à plusieurs années).
+
+### 2. L'obligation de publication des actes réglementaires
+* **Principe Général du Droit** : Toute autorité administrative détentrice d'un pouvoir réglementaire a l'obligation de publier dans un délai raisonnable les règlements qu'elle édicte.
+* **Conséquences** : L'administré peut contraindre l'administration à publier et engager la responsabilité de la puissance publique en cas de préjudice causé par le défaut ou le retard de publication.
+
+### 3. L'obligation d'abrogation et de modification des règlements illégaux
+* **Arrêt de principe** : ==[[CE, 3 février 1989, Compagnie Alitalia\|CE, 3 février 1989, Compagnie Alitalia]]==.
+* **Portée** : Le Conseil d'État érige en [[Principe généraux du droit\|Principe Général du Droit]] l'obligation pour l'administration d'abroger un acte réglementaire illégal, que l'illégalité existe dès l'origine (*ab initio*) ou qu'elle résulte d'un changement postérieur de circonstances de droit ou de fait.
+* **Codification** : Cette jurisprudence constante a été reprise par la loi puis codifiée à l'article L. 243-2 du [[CRPA - Code des relations entre public et administration - 1er janvier 2016\|CRPA]].
+
+## Liens associés
+* [[Art. 21-1 Const.\|Art. 21-1 Const.]]
+* [[Art. 22 Const.\|Art. 22 Const.]]
+* [[Art. 13-1 Const.\|Art. 13-1 Const.]]
+* [[Art. 34 Const.\|Art. 34 Const.]]
+* [[Art. 37 Const.\|Art. 37 Const.]]
+* [[Art. 37 al. 1 Const.\|Art. 37 al. 1 Const.]]
+* [[Art. 37 al. 2 Const.\|Art. 37 al. 2 Const.]]
+* [[Art. 38 Const.\|Art. 38 Const.]]
+* [[Art. 55 Const.\|Art. 55 Const.]]
+* [[Arrêt Meyet\|Arrêt Meyet]]
+* [[Arrêt Sicard\|Arrêt Sicard]]
+* [[Arrêt Dame Veuve Trompier-Gravier\|Arrêt Dame Veuve Trompier-Gravier]]
+* [[Arrêt Syndicat général des ingénieurs-conseils\|Arrêt Syndicat général des ingénieurs-conseils]]
+* [[Arrêt Dame David\|Arrêt Dame David]]
+* [[CE, 28 juillet 2000, FNE\|CE, 28 juillet 2000, FNE]]
+* [[CE, 3 février 1989, Compagnie Alitalia\|CE, 3 février 1989, Compagnie Alitalia]]
+* [[CRPA - Code des relations entre public et administration - 1er janvier 2016\|CRPA - Code des relations entre public et administration - 1er janvier 2016]]
+* [[Principe généraux du droit\|Principe généraux du droit]]
+* [[Conseil d'État\|Conseil d'État]]

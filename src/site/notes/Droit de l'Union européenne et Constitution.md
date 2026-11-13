@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/droit-de-l-union-europeenne-et-constitution/","ctime":"2026-10-22T16:34:35.525+02:00","mtime":"2026-11-08T19:00:01.725+01:00","dg-note-properties":{"date created":"2026-10-22, 16 34","date modified":"2026-11-05, 16 27","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/droit-de-l-union-europeenne-et-constitution/","ctime":"2026-10-22T16:34:35.525+02:00","mtime":"2026-11-12T15:42:24.983+01:00","dg-note-properties":{"date created":"2026-10-22, 16 34","date modified":"2026-11-05, 16 27","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/1]]"}}
 ---
 
 

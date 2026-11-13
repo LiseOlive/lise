@@ -5,6 +5,7 @@
 
 # [[References/Fiscal\|Fiscal]]
 
+- [[TD Séance 3 - Fiscalité des entreprises\|TD Séance 3 - Fiscalité des entreprises]]: — 09/11/2026
 - [[Partie I - l'impot sur le revenu (IR)\|Partie I - l'impot sur le revenu (IR)]]: — 13/09/2026
 - [[Introduction - les bases du droit fiscal\|Introduction - les bases du droit fiscal]]: — 13/09/2026
 - [[Fiscalité - Plan\|Fiscalité - Plan]]: — 13/09/2026

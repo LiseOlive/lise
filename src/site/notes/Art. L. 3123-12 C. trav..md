@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/art-l-3123-12-c-trav/","ctime":"2026-11-12T13:32:03.554+01:00","mtime":"2026-11-12T13:33:26.678+01:00","dg-note-properties":{"date created":"2026-11-12, 13 32","date modified":"2026-11-12, 13 33","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+---
+
+
+Lorsque l'employeur demande au salarié de modifier la répartition de sa durée de travail, alors que le contrat de travail n'a pas prévu les cas et la nature de telles modifications, le refus du salarié d'accepter cette modification ne constitue ni une faute ni un motif de licenciement.
+
+Lorsque l'employeur demande au salarié de modifier la répartition de sa durée du travail dans un des cas et selon des modalités préalablement définis dans le contrat de travail, le refus du salarié d'accepter cette modification ne constitue ni une faute ni un motif de licenciement dès lors que cette modification n'est pas compatible avec des obligations familiales impérieuses, avec le suivi d'un enseignement scolaire ou supérieur, avec l'accomplissement d'une période d'activité fixée par un autre employeur ou avec une activité professionnelle non salariée. Il en va de même en cas de modification des horaires de travail au sein de chaque journée travaillée qui figurent dans le document écrit communiqué au salarié en application du 3° de l'article

@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/cass-soc-22-novembre-2017/","ctime":"2026-11-09T19:50:18.512+01:00","mtime":"2026-11-09T19:50:18.512+01:00","dg-note-properties":{"date created":"2026-11-09, 19 48","date modified":"2026-11-09, 19 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+---
+
+
+# Cass. soc., 22 novembre 2017
+
+> « L'employeur, investi de la mission de faire respecter au sein de la communauté de travail l'ensemble des libertés et droits fondamentaux de chaque salarié, peut prévoir dans le [[Réglement intérieur d'une entreprise\|règlement intérieur]] de l'entreprise ou dans une note de service soumise aux mêmes dispositions que le règlement intérieur, en application de l'article L. 1321-5 du [[Code du travail\|Code du travail]], une clause de neutralité interdisant le port visible de tout signe politique, philosophique ou religieux sur le lieu de travail, dès lors que cette clause générale et indifférenciée n'est appliquée qu'aux salariés se trouvant en contact avec les clients ; qu'en présence du refus d'une salariée de se conformer à une telle clause dans l'exercice de ses activités professionnelles auprès des clients de l'entreprise, il appartient à l'employeur de rechercher si, tout en tenant compte des contraintes inhérentes à l'entreprise et sans que celle-ci ait à subir une charge supplémentaire, il lui est possible de proposer à la salariée un poste de travail n'impliquant pas de contact visuel avec ces clients, plutôt que de procéder à son licenciement. »
+
+En l'absence de clause de neutralité dans le règlement intérieur, l'interdiction faite à une salariée de porter le foulard islamique lors de ses contacts avec la clientèle pour répondre au souhait d'un client ne constitue pas une exigence professionnelle essentielle et déterminante, mais une discrimination directe fondée sur les convictions religieuses ([[Art. L. 1121-1 C. trav.\|Art. L. 1121-1 C. trav.]], [[Art. L. 1132-1 C. trav.\|Art. L. 1132-1 C. trav.]]).

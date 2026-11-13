@@ -15,6 +15,7 @@
 > 
 >  | Articles                                                                            | Chapitre                                                                                |
 > | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+> | [[Plus-value\|Plus-value]]                                                       | [[TD Séance 3 - Fiscalité des entreprises\|TD Séance 3 - Fiscalité des entreprises]] |
 > | [[Adam Smith\|Adam Smith]]                                                       | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Alfred Marshall\|Alfred Marshall]]                                             | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Baisse tendancielle du taux de profit\|Baisse tendancielle du taux de profit]] | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
@@ -29,8 +30,8 @@
 > | [[Utilité marginale\|Utilité marginale]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Vilfredo Pareto\|Vilfredo Pareto]]                                             | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[William Stanley Jevons\|William Stanley Jevons]]                               | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
-> | [[Équilibre général\|Équilibre général]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Équilibre partiel\|Équilibre partiel]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
+> | [[Équilibre général\|Équilibre général]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > 
 { .block-language-dataview}
 >

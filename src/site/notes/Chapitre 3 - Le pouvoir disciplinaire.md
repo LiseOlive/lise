@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-3-le-pouvoir-disciplinaire/","ctime":"2026-11-05T14:01:36.000+01:00","mtime":"2026-11-08T19:00:01.617+01:00","dg-note-properties":{"date created":"2026-11-05, 14 01","date modified":"2026-11-06, 22 59","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]"}}
+{"dg-publish":true,"permalink":"/chapitre-3-le-pouvoir-disciplinaire/","ctime":"2026-11-05T14:01:36.000+01:00","mtime":"2026-11-13T01:26:58.082+01:00","dg-note-properties":{"date created":"2026-11-05, 14 01","date modified":"2026-11-13, 1 26","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/3]]"}}
 ---
 
 
@@ -128,3 +128,64 @@ Toute évolution dans la relation de travail relève de l'une des deux catégori
 * **Exceptions légales et conventionnelles** :
 	* Revalorisation légale du SMIC ou hausse d'un minima conventionnel (application automatique sans besoin d'avenant).
 	* Application d'une **clause de variation de rémunération** licite figurant au contrat (déterminée sur des éléments objectifs ne dépendant pas de la seule volonté de l'employeur).
+
+### 3. La modification des fonctions
+
+* **Critère de la qualification professionnelle** :
+  * Si les nouvelles fonctions supposent une qualification ou une formation différente $\rightarrow$ **modification du contrat de travail** nécessitant l'accord du salarié (==[[Cass. Soc., 24 janvier 2001\|Cass. Soc., 24 janvier 2001]]== : un réceptionniste d'hôtel à qui l'on demande en plus de dresser le buffet de petit-déjeuner).
+  * Si les nouvelles fonctions relèvent de la même qualification professionnelle $\rightarrow$ **simple changement des conditions de travail** relevant du pouvoir de direction (==[[Cass. Soc., 24 avril 2001\|Cass. Soc., 24 avril 2001]]== : affecter une femme de ménage au nettoyage des parties communes plutôt que des appartements privés).
+* **Critère du niveau de responsabilité** :
+  * Toute modification du niveau de responsabilité (promotion avec encadrement accru ou rétrogradation) constitue une modification du contrat nécessitant l'accord du salarié. À responsabilités équivalentes, le changement relève du pouvoir de direction.
+* **Incidence sur la rémunération** : Dès lors que le changement de fonctions entraîne une modification de la rémunération, l'accord du salarié est requis de plein droit.
+
+### 4. La modification du temps de travail
+
+* **Durée du travail (volume horaire)** : Toute variation du nombre d'heures travaillées constitue une modification du contrat de travail nécessitant l'accord du salarié (sauf réduction d'origine légale s'imposant de plein droit, ex. passage aux 35 heures).
+* **Répartition des horaires** :
+  * La redistribution des horaires au sein de la journée sans toucher au volume global relève en principe du pouvoir de direction (simple changement des conditions de travail).
+  * **Exceptions exigeant l'accord du salarié** :
+    1. *Passage d'un horaire de jour à un horaire de nuit* ou inversement (==[[Cass. Soc., 14 janvier 2015\|Cass. Soc., 14 janvier 2015]]==) en raison de l'impact direct sur la vie personnelle.
+    2. *Obligations familiales impérieuses* ([[Art. L. 3123-12 C. trav.\|Art. L. 3123-12 C. trav.]]).
+
+### 5. La modification du lieu de travail
+
+* **Portée de la mention du lieu au contrat** : En principe, l'indication d'un lieu de travail dans le contrat n'a qu'une valeur purement **informative** (==[[Cass. Soc., 3 juin 2003\|Cass. Soc., 3 juin 2003]]==). Pour interdire toute mutation unilatérale, il faut une clause claire et précise stipulant que le salarié exécutera son travail exclusivement dans ce lieu (clause de stabilité).
+* **Notion de même secteur géographique** :
+  * Si le nouveau lieu est situé dans le **même secteur géographique** $\rightarrow$ simple changement des conditions de travail relevant du pouvoir de direction.
+  * Si le nouveau lieu est situé **en dehors du secteur géographique** $\rightarrow$ modification du contrat nécessitant l'accord du salarié (sauf clause de mobilité géographique licite).
+  * *Faisceau d'indices* : Le juge apprécie le secteur géographique de manière objective entre l'ancien et le nouveau lieu (sans égard au domicile personnel du salarié) selon la distance kilométrique, les moyens de transport et réseaux de communication, et les frontières administratives (départements/régions).
+
+---
+
+## V. Le régime juridique du changement des conditions de travail
+
+* **Principe d'exercice du pouvoir de direction** : Le salarié a l'obligation de se conformer aux directives de l'employeur.
+* **Refus fautif** : Le refus d'un simple changement des conditions de travail constitue une faute d'insubordination, en principe qualifiée de **faute grave** pouvant justifier un licenciement disciplinaire.
+* **Circonstances atténuantes** : Le salarié peut écarter la qualification de faute grave en invoquant des motifs légitimes tenant à sa vie personnelle et familiale (ex. nécessité impérieuse de porter assistance à un proche malade).
+
+---
+
+## VI. Le régime juridique de la modification du contrat de travail
+
+* **Nécessité absolue de l'accord du salarié** : L'employeur ne peut imposer unilatéralement aucune modification d'un élément du contrat de travail.
+* **Procédure de proposition** : L'employeur doit formuler une proposition claire et accorder au salarié un délai raisonnable de réflexion.
+* **Effets de la réponse du salarié** :
+  * *Acceptation* : Peut être expresse (écrite ou orale) ou tacite (prise effective des fonctions sans réserve). Une fois donnée, l'acceptation est irrévocable (aucun droit de rétractation).
+  * *Refus* : Le salarié a le droit absolu de refuser la modification de son contrat, y compris lorsqu'elle lui est proposée à titre de sanction disciplinaire. **Le refus du salarié n'est jamais fautif en lui-même** et ne peut en aucun cas motiver un licenciement pour faute. L'employeur doit alors soit renoncer à la modification, soit engager une autre procédure sur un motif objectif étranger.
+
+---
+
+## Liens associés
+* [[Art. L. 1331-1 C. trav.\|Art. L. 1331-1 C. trav.]]
+* [[Art. L. 1332-2 C. trav.\|Art. L. 1332-2 C. trav.]]
+* [[Art. L. 1332-4 C. trav.\|Art. L. 1332-4 C. trav.]]
+* [[Art. L. 1332-5 C. trav.\|Art. L. 1332-5 C. trav.]]
+* [[Art. L. 3123-12 C. trav.\|Art. L. 3123-12 C. trav.]]
+* [[Cass. Soc., 24 janvier 2001\|Cass. Soc., 24 janvier 2001]]
+* [[Cass. Soc., 24 avril 2001\|Cass. Soc., 24 avril 2001]]
+* [[Cass. Soc., 14 janvier 2015\|Cass. Soc., 14 janvier 2015]]
+* [[Cass. Soc., 3 juin 2003\|Cass. Soc., 3 juin 2003]]
+* [[Modification du contrat de travail d'un salarié\|Modification du contrat de travail d'un salarié]]
+* [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
+* [[Conseil de Prud'hommes\|Conseil de Prud'hommes]]
+* [[Cour de cassation\|Cour de cassation]]

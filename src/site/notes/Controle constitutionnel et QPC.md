@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/controle-constitutionnel-et-qpc/","ctime":"2026-10-13T21:45:40.779+02:00","mtime":"2026-11-08T18:47:19.250+01:00","dg-note-properties":{"date created":"2026-10-13, 21 45","date modified":"2026-10-13, 23 24","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/controle-constitutionnel-et-qpc/","ctime":"2026-10-13T21:45:40.779+02:00","mtime":"2026-11-12T15:42:33.469+01:00","dg-note-properties":{"date created":"2026-10-13, 21 45","date modified":"2026-10-13, 23 24","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/1]]"}}
 ---
 
 

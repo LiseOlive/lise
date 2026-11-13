@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exos-td-3-les-clauses-specifiques-du-contrat-de-travail/","ctime":"2026-11-07T23:41:06.144+01:00","mtime":"2026-11-08T19:11:27.679+01:00","dg-note-properties":{"date created":"2026-11-07, 23 41","date modified":"2026-11-08, 19 11","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/3]]"}}
+{"dg-publish":true,"permalink":"/exos-td-3-les-clauses-specifiques-du-contrat-de-travail/","ctime":"2026-11-07T23:41:06.144+01:00","mtime":"2026-11-08T20:52:39.362+01:00","dg-note-properties":{"date created":"2026-11-07, 23 41","date modified":"2026-11-08, 20 52","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/3]]"}}
 ---
 
 
@@ -245,7 +245,7 @@
 
 #### Résolution étape par étape
 1. **Étape 1 - Identification des hypothèses (Majeure) :**
-   - Validité de la non-concurrence : La première condition posée par `[[Cass. soc., 10 juillet 2002]]` exige que la clause soit **indispensable à la protection des intérêts légitimes de l'entreprise** au regard des fonctions réelles du salarié (`[[Cass. soc., 18 décembre 1997]]`).
+   - Validité de la non-concurrence : La première condition posée par [[Cass. soc., 10 juillet 2002\|Cass. soc., 10 juillet 2002]] exige que la clause soit **indispensable à la protection des intérêts légitimes de l'entreprise** au regard des fonctions réelles du salarié ([[Cass. soc., 18 décembre 1997\|Cass. soc., 18 décembre 1997]]).
    - Hiérarchie des normes et principe de faveur (article L. 2251-1 du Code du travail) : Les stipulations d'une convention collective étendue s'imposent au contrat de travail, sauf dispositions contractuelles plus favorables au salarié.
    - Période d'essai légale des employés : Durée maximale impérative de 2 mois fixée par l'[[Art. L. 1221-19 C. trav.\|Art. L. 1221-19 C. trav.]].
 2. **Étape 2 - Déroulé de l'argumentation juridique (Mineure) :**
@@ -277,10 +277,10 @@
 
 #### Résolution étape par étape
 1. **Étape 1 - Identification des hypothèses et règles applicables (Majeure) :**
-   - Délimitation de la clause : Doit déterminer avec précision sa zone géographique d'application dès l'origine sans possibilité d'extension unilatérale future (`[[Cass. soc., 14 octobre 2008]]`, Emmaüs).
-   - Exécution de bonne foi et intérêt de l'entreprise : La mise en œuvre de la mobilité doit être dictée exclusivement par l'intérêt objectif de l'entreprise (`[[Cass. soc., 23 février 2005]]`).
-   - Libertés individuelles et vie personnelle : L'employeur ne peut porter atteinte à la liberté vestimentaire ([[Art. L. 1121-1 C. trav.\|Art. L. 1121-1 C. trav.]]) ni à la vie personnelle et familiale ([[Art. 8 Conv. EDH\|Art. 8 Conv. EDH]], `[[Cass. soc., 14 octobre 2008]]`, Pricewaterhouse).
-2. **Étape 2 - Déroulé de l'argumentation appliquée (Mineure) :**
+   - Délimitation de la clause : Doit déterminer avec précision sa zone géographique d'application dès l'origine sans possibilité d'extension unilatérale future ([[Cass. soc., 14 octobre 2008\|Cass. soc., 14 octobre 2008]], Emmaüs).
+   - Exécution de bonne foi et intérêt de l'entreprise : La mise en œuvre de la mobilité doit être dictée exclusivement par l'intérêt objectif de l'entreprise ([[Cass. soc., 23 février 2005\|Cass. soc., 23 février 2005]]).
+   - Libertés individuelles et vie personnelle : L'employeur ne peut porter atteinte à la liberté vestimentaire ([[Art. L. 1121-1 C. trav.\|Art. L. 1121-1 C. trav.]]) ni à la vie personnelle et familiale ([[Art. 8 Conv. EDH\|Art. 8 Conv. EDH]], [[Cass. soc., 14 octobre 2008\|Cass. soc., 14 octobre 2008]], Pricewaterhouse).
+1. **Étape 2 - Déroulé de l'argumentation appliquée (Mineure) :**
    - *Périmètre territorial de la clause :* Viser Lille (établissement secondaire existant) est licite. En revanche, viser " Marseille si le futur établissement voit le jour " est une clause à périmètre évolutif unilatéral, sanctionnée par la **nullité intégrale** de la clause. Marseille doit impérativement être retiré.
    - *Détournement de pouvoir lié au style vestimentaire :* La liberté de se vêtir est une liberté individuelle. Le style contestable d'Howard ne peut justifier une sanction ou un éloignement forcé dès lors qu'il n'est pas en contact avec la clientèle et ne pose aucun problème de sécurité. Muter Howard pour ce motif constitue un détournement de pouvoir et un abus caractérisé.
    - *Impact de la situation familiale (grossesse de Bernadette) :* Imposer une mutation précipitée de Caen à Lille à un salarié dont l'épouse est enceinte porte une atteinte excessive et disproportionnée à sa vie familiale. Sans délai de prévenance raisonnable (au minimum 2 mois) et sans justification impérieuse, Howard pourra légitimement refuser la mutation sans commettre d'insubordination.

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/art-21-1-const/","ctime":"2026-11-08T18:47:18.753+01:00","mtime":"2026-11-08T18:47:18.753+01:00","dg-note-properties":{"date created":"2026-11-05, 16 18","date modified":"2026-11-08, 18 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-21-1-const/","ctime":"2026-11-08T18:47:18.753+01:00","mtime":"2026-11-12T15:23:11.184+01:00","dg-note-properties":{"date created":"2026-11-08, 18 47","date modified":"2026-11-12, 15 23","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
 ---
 
 
-# Art. 21-1 Const.
+# Art. 21-1 Const
 
 En vigueur depuis le 05 octobre 1958
 
